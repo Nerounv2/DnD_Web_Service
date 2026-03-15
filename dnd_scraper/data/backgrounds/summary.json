@@ -1,0 +1,13 @@
+{
+  "section": "Предыстории",
+  "total": 0,
+  "sources": {},
+  "files": {
+    "list": "data/backgrounds/list.json",
+    "details": "data/backgrounds/details.json",
+    "summary": "data/backgrounds/summary.json",
+    "errors": "data/backgrounds/errors.json",
+    "stats": "data/backgrounds/stats.json"
+  },
+  "completion_date": "2026-03-16T02:17:49.195976"
+}

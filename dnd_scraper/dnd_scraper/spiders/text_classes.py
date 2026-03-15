@@ -1,121 +1,86 @@
 import scrapy
 import json
+import re
 
-class TestClassesSpider(scrapy.Spider):
-    name = "test_classes"
+class TestItemsSpider(scrapy.Spider):
+    name = "test_items"
     
-    allowed_domains = ["dnd.su"]
-    start_urls = ['https://dnd.su/class/']
-    
-    def parse(self, response):
+    def start_requests(self):
+        url = 'https://dnd.su/piece/items/index-list/'
         print(f"\n{'='*60}")
-        print(f"🔍 Тестируем парсинг классов")
-        print(f"URL: {response.url}")
+        print(f"🔍 ТЕСТИРУЕМ API ПРЕДМЕТОВ")
+        print(f"URL: {url}")
         print(f"{'='*60}\n")
         
-        # Ищем все плитки классов
-        tiles = response.css('.tile a.tile-wrapper.class')
-        print(f"Найдено плиток классов: {len(tiles)}")
-        
-        # Покажем первые 3 для проверки
-        for i, tile in enumerate(tiles[:3]):
-            print(f"\n--- Класс {i+1} ---")
-            
-            # Извлекаем данные
-            name = tile.css('.article_title::text').get()
-            name_en = tile.css('.article_title_en::text').get()
-            source = tile.css('.article_source::text').get()
-            href = tile.attrib.get('href', '')
-            
-            # Иконка (извлекаем класс иконки)
-            icon_class = tile.css('.tile__icon::attr(class)').get()
-            icon_name = None
-            if icon_class:
-                # Ищем что-то типа sprite-class__bard
-                import re
-                match = re.search(r'sprite-class__(\w+)', icon_class)
-                if match:
-                    icon_name = match.group(1)
-            
-            print(f"  Название: {name}")
-            print(f"  Английское: {name_en}")
-            print(f"  Источник: {source}")
-            print(f"  Ссылка: {href}")
-            print(f"  Иконка: {icon_name}")
-            
-            # Сразу создаем item
-            item = {
-                'name': name,
-                'name_en': name_en,
-                'source': source,
-                'url': response.urljoin(href),
-                'icon': icon_name,
-            }
-            
-            # Здесь же можем перейти на детальную страницу
-            yield scrapy.Request(
-                url=response.urljoin(href),
-                callback=self.parse_class_detail,
-                meta={'class_info': item}
-            )
+        yield scrapy.Request(
+            url=url,
+            callback=self.parse,
+            errback=self.handle_error,
+            dont_filter=True
+        )
     
-    def parse_class_detail(self, response):
-        """Парсим детальную страницу класса"""
-        class_info = response.meta['class_info']
+    def parse(self, response):
+        print(f"Статус: {response.status}")
+        print(f"Размер ответа: {len(response.text)} байт")
+        print(f"Content-Type: {response.headers.get('Content-Type', b'').decode()}")
         
-        print(f"\n📖 Детальная страница: {class_info['name']}")
-        print(f"URL: {response.url}")
+        # Сохраняем для анализа
+        with open('items_api_response.html', 'w', encoding='utf-8') as f:
+            f.write(response.text)
+        print("✅ Ответ сохранен в items_api_response.html")
         
-        # Ищем описание
-        description_parts = []
-        
-        # Пробуем разные селекторы для описания
-        selectors = [
-            'div.entry-content p::text',
-            'div.class-description p::text',
-            'div.content p::text',
-            'article p::text',
-        ]
-        
-        for selector in selectors:
-            parts = response.css(selector).getall()
-            if parts:
-                description_parts = parts
-                print(f"  ✅ Нашли описание через: {selector}")
-                break
-        
-        if description_parts:
-            class_info['description'] = ' '.join(description_parts).strip()
-            print(f"  📝 Длина описания: {len(class_info['description'])} символов")
-            print(f"  📝 Первые 100 символов: {class_info['description'][:100]}...")
+        # Ищем window.LIST
+        if 'window.LIST' in response.text:
+            print("✅ window.LIST найден!")
+            
+            # Найдем его позицию
+            pos = response.text.find('window.LIST')
+            print(f"Позиция: {pos}")
+            
+            # Покажем контекст
+            start = max(0, pos - 50)
+            end = min(len(response.text), pos + 200)
+            print("\nКонтекст вокруг window.LIST:")
+            print(response.text[start:end])
+            
+            # Пробуем извлечь JSON
+            match = re.search(r'window\.LIST\s*=\s*(\{.*?\});', response.text, re.DOTALL)
+            if match:
+                json_str = match.group(1)
+                print(f"\nДлина JSON: {len(json_str)} символов")
+                
+                try:
+                    data = json.loads(json_str)
+                    print("✅ JSON успешно распарсен!")
+                    print(f"Ключи в данных: {list(data.keys())}")
+                    
+                    cards = data.get('cards', [])
+                    print(f"Найдено cards: {len(cards)}")
+                    
+                    if len(cards) > 0:
+                        print("\nПервый предмет:")
+                        first = cards[0]
+                        for key, value in first.items():
+                            print(f"  {key}: {value}")
+                    else:
+                        print("❌ cards пустой!")
+                        
+                        # Посмотрим, что есть в data
+                        print("\nВсе ключи data:")
+                        for key in data.keys():
+                            print(f"  {key}")
+                            
+                except json.JSONDecodeError as e:
+                    print(f"❌ Ошибка парсинга JSON: {e}")
+                    # Сохраним проблемный JSON
+                    with open('items_json_error.txt', 'w', encoding='utf-8') as f:
+                        f.write(json_str[:1000])
+            else:
+                print("❌ Не удалось извлечь JSON")
         else:
-            print(f"  ❌ Описание не найдено")
-        
-        # Ищем особенности класса
-        features = []
-        
-        # Ищем блоки с особенностями (обычно h2 или h3 с последующим текстом)
-        feature_headings = response.css('h2, h3')
-        for heading in feature_headings:
-            heading_text = heading.css('::text').get()
-            if heading_text and len(heading_text.strip()) > 3:
-                # Ищем следующий параграф
-                next_p = heading.xpath('following-sibling::p[1]').css('::text').get()
-                if next_p:
-                    features.append({
-                        'name': heading_text.strip(),
-                        'description': next_p.strip()
-                    })
-        
-        if features:
-            class_info['features'] = features
-            print(f"  ✨ Найдено особенностей: {len(features)}")
-        
-        # Возвращаем готовый item
-        yield class_info
-
-    def closed(self, reason):
-        print(f"\n{'='*60}")
-        print(f"✅ Тестирование завершено!")
-        print(f"📊 Причина: {reason}")
-        print(f"{'='*60}")
+            print("❌ window.LIST не найден!")
+            print("\nПервые 500 символов ответа:")
+            print(response.text[:500])
+    
+    def handle_error(self, failure):
+        print(f"\n❌ Ошибка: {failure.value}")

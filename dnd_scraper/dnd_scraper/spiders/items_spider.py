@@ -1,160 +1,167 @@
 import scrapy
-import json
 import re
 from scrapy.http import Request
 
-class ItemsSpider(scrapy.Spider):
-    name = "items"
+class ItemsFinalSpider(scrapy.Spider):
+    name = "items_final"
     
     allowed_domains = ["dnd.su"]
     
     def start_requests(self):
-        """Начинаем с API endpoint для предметов"""
-        api_url = 'https://dnd.su/piece/items/index-list/'
+        # Идем прямо на API endpoint
+        url = 'https://dnd.su/piece/items/index-list/'
         print(f"\n{'='*60}")
-        print(f"🔍 НАЧИНАЕМ ПАРСИНГ ПРЕДМЕТОВ")
-        print(f"📡 API URL: {api_url}")
+        print(f"🔍 ПАРСИНГ ПРЕДМЕТОВ ЧЕРЕЗ API")
+        print(f"URL: {url}")
         print(f"{'='*60}\n")
         
         yield Request(
-            url=api_url,
+            url=url,
             callback=self.parse_api,
-            errback=self.handle_error,
             dont_filter=True
         )
     
     def parse_api(self, response):
-        """Парсим API ответ с предметами"""
-        print(f"📥 Получен ответ от API")
-        print(f"   Размер: {len(response.text)} байт")
+        print(f"Статус: {response.status}")
+        print(f"Размер ответа: {len(response.text)} байт")
         
-        # Ищем window.LIST в ответе
-        match = re.search(r'window\.LIST\s*=\s*(\{.*?\});', response.text, re.DOTALL)
+        # Сохраняем для анализа
+        with open('items_api_debug.html', 'w', encoding='utf-8') as f:
+            f.write(response.text)
+        print("✅ API ответ сохранен в items_api_debug.html")
         
-        if match:
-            json_str = match.group(1)
+        # Находим все предметы в HTML
+        # Они выглядят так:
+        # <div class='col list-item__spell for_filter' data-search='...' data-id='2337'>
+        items = response.css('div.col.list-item__spell.for_filter')
+        print(f"\n✅ Найдено предметов в HTML: {len(items)}")
+        
+        if len(items) == 0:
+            print("❌ Предметы не найдены! Проверяем структуру...")
+            # Попробуем другие селекторы
+            items = response.css('.list-item__spell')
+            print(f"   По классу .list-item__spell: {len(items)}")
+        
+        # Словарь для редкости
+        rarity_map = {
+            'quality_color-1': 'Необычный',
+            'quality_color-2': 'Редкий',
+            'quality_color-3': 'Очень редкий',
+            'quality_color-4': 'Легендарный',
+            'quality_color-5': 'Редкость варьируется',
+            'quality_color-6': 'Обычный',
+            'quality_color-7': 'Артефакт',
+        }
+        
+        # Типы предметов
+        type_map = {
+            'item_type_magic': 'Чудесный предмет',
+            'item_type_potion': 'Зелье',
+            'item_type_ring': 'Кольцо',
+            'item_type_scroll': 'Свиток',
+            'item_type_wand': 'Волшебная палочка',
+            'item_type_rod': 'Жезл',
+            'item_type_staff': 'Посох',
+            'item_type_armor': 'Доспех',
+            'item_type_weapon': 'Оружие',
+        }
+        
+        for i, item in enumerate(items, 1):
+            # Основные атрибуты
+            data_id = item.attrib.get('data-id', '')
+            data_search = item.attrib.get('data-search', '')
             
-            try:
-                data = json.loads(json_str)
-                items = data.get('cards', [])
+            # Ссылка и название
+            link = item.css('a.list-item-wrapper')
+            if link:
+                href = link.attrib.get('href', '')
                 
-                print(f"✅ Найдено предметов: {len(items)}")
+                # Название
+                name = link.css('span.list-item-title::text').get()
                 
-                # Словарь для типов предметов
-                type_map = {
-                    '1': 'Чудесный предмет',
-                    '2': 'Зелье',
-                    '3': 'Кольцо',
-                    '4': 'Свиток',
-                    '5': 'Волшебная палочка',
-                    '6': 'Жезл',
-                    '7': 'Посох',
-                    '8': 'Доспех',
-                    '9': 'Оружие',
+                # Тип предмета (из иконки)
+                icon = link.css('span[class*="list-svg__"]')
+                icon_class = ''
+                if icon:
+                    for cls in icon.attrib.get('class', '').split():
+                        if 'list-svg__' in cls:
+                            icon_class = cls.replace('list-svg__', '')
+                            break
+                item_type = type_map.get(icon_class, 'Чудесный предмет')
+                
+                # Редкость
+                quality = link.css('span[class*="quality_color"]')
+                rarity_class = ''
+                if quality:
+                    for cls in quality.attrib.get('class', '').split():
+                        if 'quality_color' in cls:
+                            rarity_class = cls
+                            break
+                rarity = rarity_map.get(rarity_class, 'Неизвестно')
+                
+                # Настройка
+                attunement = link.css('span.list-icon__set').get() is not None
+                
+                # Английское название
+                name_en = ''
+                if data_search and ',' in data_search:
+                    parts = data_search.split(',')
+                    if len(parts) >= 2:
+                        name_en = parts[1].strip().rstrip(',')
+                
+                item_data = {
+                    'id': data_id,
+                    'name': name.strip() if name else '',
+                    'name_en': name_en,
+                    'type': item_type,
+                    'rarity': rarity,
+                    'attunement': attunement,
+                    'url': f"https://dnd.su{href}" if href else '',
                 }
                 
-                # Словарь для редкости
-                rarity_map = {
-                    '1': 'Необычный',
-                    '2': 'Редкий',
-                    '3': 'Очень редкий',
-                    '4': 'Легендарный',
-                    '5': 'Редкость варьируется',
-                    '6': 'Обычный',
-                    '7': 'Артефакт',
-                    '8': 'Не имеет редкости',
-                }
+                print(f"\n{i:3}. {item_data['name']}")
+                print(f"    Тип: {item_data['type']}")
+                print(f"    Редкость: {item_data['rarity']}")
+                print(f"    Настройка: {'Да' if item_data['attunement'] else 'Нет'}")
+                print(f"    ID: {item_data['id']}")
                 
-                # Сохраняем список всех предметов
-                items_list = []
-                
-                for i, item in enumerate(items, 1):
-                    # Извлекаем основные поля
-                    item_data = {
-                        'id': item.get('id'),
-                        'name': item.get('title'),
-                        'name_en': item.get('title_en'),
-                        'type_code': str(item.get('item_type', '')),
-                        'rarity_code': str(item.get('quality', '')),
-                        'url': f"https://dnd.su{item.get('link', '')}" if item.get('link') else '',
-                        'attunement': item.get('attunement'),
-                    }
-                    
-                    # Добавляем текстовые значения
-                    item_data['type'] = type_map.get(item_data['type_code'], f'Unknown ({item_data["type_code"]})')
-                    item_data['rarity'] = rarity_map.get(item_data['rarity_code'], f'Unknown ({item_data["rarity_code"]})')
-                    
-                    # Настройка (требуется/нет)
-                    if item_data['attunement'] == 2:
-                        item_data['attunement_text'] = 'Требуется настройка'
-                    elif item_data['attunement'] == 1:
-                        item_data['attunement_text'] = 'Не требуется настройка'
-                    else:
-                        item_data['attunement_text'] = 'Не указано'
-                    
-                    items_list.append(item_data)
-                    
-                    print(f"\n{i:3}. {item_data['name']}")
-                    print(f"    Тип: {item_data['type']}")
-                    print(f"    Редкость: {item_data['rarity']}")
-                    print(f"    {item_data['attunement_text']}")
-                    print(f"    Ссылка: {item_data['url']}")
-                    
-                    # Переходим на страницу предмета за подробностями
-                    if item.get('link'):
-                        yield Request(
-                            url=f"https://dnd.su{item['link']}",
-                            callback=self.parse_item_detail,
-                            meta={'item': item_data},
-                            dont_filter=True
-                        )
-                
-                # Сохраняем список всех предметов
-                with open('items_list.json', 'w', encoding='utf-8') as f:
-                    json.dump(items_list, f, ensure_ascii=False, indent=2)
-                
-                print(f"\n{'='*60}")
-                print(f"✅ ВСЕГО НАЙДЕНО ПРЕДМЕТОВ: {len(items_list)}")
-                print(f"📁 Список сохранен в items_list.json")
-                print(f"{'='*60}")
-                
-            except json.JSONDecodeError as e:
-                print(f"❌ Ошибка парсинга JSON: {e}")
-                # Сохраняем для отладки
-                with open('items_api_error.json', 'w', encoding='utf-8') as f:
-                    f.write(json_str[:1000])
-        else:
-            print("❌ Не удалось найти window.LIST в ответе")
-            print("Первые 500 символов ответа:")
-            print(response.text[:500])
+                # Переходим на детальную страницу
+                if href:
+                    yield Request(
+                        url=f"https://dnd.su{href}",
+                        callback=self.parse_detail,
+                        meta={'item': item_data},
+                        dont_filter=True
+                    )
+        
+        print(f"\n{'='*60}")
+        print(f"✅ ВСЕГО НАЙДЕНО ПРЕДМЕТОВ: {len(items)}")
+        print(f"{'='*60}")
     
-    def parse_item_detail(self, response):
+    def parse_detail(self, response):
         """Парсим детальную страницу предмета"""
         item = response.meta['item']
         
         print(f"\n📖 Детально: {item['name']}")
-        print(f"   URL: {response.url}")
         
         # Ищем описание
         description = ''
         
-        # Способ 1: entry-content
+        # Основной контент
         content = response.css('div.entry-content')
         if content:
             paragraphs = content.css('p::text').getall()
             if paragraphs:
                 description = ' '.join(paragraphs).strip()
         
-        # Способ 2: все параграфы
+        # Если не нашли, берем все параграфы
         if not description:
             paragraphs = response.css('p::text').getall()
             if paragraphs:
                 description = ' '.join(paragraphs).strip()
         
-        # Ищем свойства предмета
+        # Ищем свойства в таблице
         properties = {}
-        
-        # Часто свойства в таблице
         rows = response.css('tr')
         for row in rows:
             cells = row.css('td')
@@ -164,7 +171,6 @@ class ItemsSpider(scrapy.Spider):
                 if key and value:
                     properties[key.strip()] = value.strip()
         
-        # Добавляем информацию
         item['description'] = description[:5000] if description else ''
         item['properties'] = properties if properties else None
         item['detail_url'] = response.url
@@ -174,14 +180,3 @@ class ItemsSpider(scrapy.Spider):
             print(f"   📊 Найдено свойств: {len(properties)}")
         
         yield item
-    
-    def handle_error(self, failure):
-        """Обрабатываем ошибки"""
-        print(f"\n❌ Ошибка при загрузке: {failure.request.url}")
-        print(f"   Причина: {failure.value}")
-    
-    def closed(self, reason):
-        print(f"\n{'='*60}")
-        print(f"✅ ПАРСИНГ ПРЕДМЕТОВ ЗАВЕРШЕН!")
-        print(f"📊 Причина: {reason}")
-        print(f"{'='*60}\n")

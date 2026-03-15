@@ -91,18 +91,7 @@ class UniversalDndSpider(scrapy.Spider):
             'description_selector': 'div.item-description p::text, div.entry-content p::text',
             'output_dir': 'data/items'
         },
-        'bestiary': {
-            'name': 'Бестиарий',
-            'name_en': 'bestiary',
-            'list_url': 'https://dnd.su/bestiary/',
-            'list_type': 'api',
-            'data_endpoint': '/piece/bestiary/index-list/',
-            'item_pattern': r'/bestiary/[\w-]+/',
-            'name_selector': 'h1.header-page_title a::text, h1::text',
-            'description_selector': 'div.bestiary-description p::text, div.entry-content p::text',
-            'output_dir': 'data/bestiary'
-        },
-        'backgrounds': {
+         'backgrounds': {
             'name': 'Предыстории',
             'name_en': 'backgrounds',
             'list_url': 'https://dnd.su/backgrounds/',
@@ -110,13 +99,15 @@ class UniversalDndSpider(scrapy.Spider):
             'item_selector': '.tile a.tile-wrapper.background',
             'fields': {
                 'name': '.article_title::text',
+                'name_en': '.article_title_en::text',
                 'source': '.article_source::text',
+                'icon': '.tile__icon[class*="sprite-background__"]::attr(class)',
             },
             'item_pattern': r'/backgrounds/[\w-]+/',
             'name_selector': 'h1.header-page_title a::text, h1::text',
             'description_selector': 'div.background-description p::text, div.entry-content p::text',
             'output_dir': 'data/backgrounds'
-        }
+        },
     }
     
     def __init__(self, section='spells', *args, **kwargs):
