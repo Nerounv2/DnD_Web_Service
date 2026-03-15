@@ -1,0 +1,1202 @@
+[
+  {
+    "url": "https://dnd.su/race/92-aarakocra/",
+    "name": "Ааракокра",
+    "name_en": "Aarakocra",
+    "source": "POA",
+    "icon": "tile__icon sprite-race__aarakocra",
+    "icon_name": "aarakocra"
+  },
+  {
+    "url": "https://dnd.su/race/161-aasimar/",
+    "name": "Аасимар",
+    "name_en": "Aasimar",
+    "source": "VGM",
+    "icon": "tile__icon sprite-race__aasimar",
+    "icon_name": "aasimar"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/214-autognome/",
+    "name": "Автогном",
+    "name_en": "Autognome",
+    "source": "SAS",
+    "icon": "tile__icon sprite-race__autognome",
+    "icon_name": "autognome"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/213-astral-elf/",
+    "name": "Астральный эльф",
+    "name_en": "Astral elf",
+    "source": "SAS",
+    "icon": "tile__icon sprite-race__astral_elf",
+    "icon_name": "astral_elf"
+  },
+  {
+    "url": "https://dnd.su/race/167-bugbear/",
+    "name": "Багбир",
+    "name_en": "Bugbear",
+    "source": "VGM",
+    "icon": "tile__icon sprite-race__bugbear",
+    "icon_name": "bugbear"
+  },
+  {
+    "url": "https://dnd.su/race/162-vedalken/",
+    "name": "Ведалкен",
+    "name_en": "Vedalken",
+    "source": "GGR",
+    "icon": "tile__icon sprite-race__vedalken",
+    "icon_name": "vedalken"
+  },
+  {
+    "url": "https://dnd.su/race/163-verdan/",
+    "name": "Вердан",
+    "name_en": "Verdan",
+    "source": "AI",
+    "icon": "tile__icon sprite-race__verdan",
+    "icon_name": "verdan"
+  },
+  {
+    "url": "https://dnd.su/race/164-simic-hybrid/",
+    "name": "Гибрид Симиков",
+    "name_en": "Simic hybrid",
+    "source": "GGR",
+    "icon": "tile__icon sprite-race__simic_hybrid",
+    "icon_name": "simic_hybrid"
+  },
+  {
+    "url": "https://dnd.su/race/165-gith/",
+    "name": "Гит",
+    "name_en": "Gith",
+    "source": "MTF",
+    "icon": "tile__icon sprite-race__gith",
+    "icon_name": "gith"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/215-giff/",
+    "name": "Гифф",
+    "name_en": "Giff",
+    "source": "SAS",
+    "icon": "tile__icon sprite-race__giff",
+    "icon_name": "giff"
+  },
+  {
+    "url": "https://dnd.su/race/83-gnome/",
+    "name": "Гном",
+    "name_en": "Gnome",
+    "source": "PH14",
+    "icon": "tile__icon sprite-race__gnome",
+    "icon_name": "gnome"
+  },
+  {
+    "url": "https://dnd.su/race/166-goblin/",
+    "name": "Гоблин",
+    "name_en": "Goblin",
+    "source": "VGM",
+    "icon": "tile__icon sprite-race__goblin",
+    "icon_name": "goblin"
+  },
+  {
+    "url": "https://dnd.su/race/103-goliath/",
+    "name": "Голиаф",
+    "name_en": "Goliath",
+    "source": "VGM",
+    "icon": "tile__icon sprite-race__goliath",
+    "icon_name": "goliath"
+  },
+  {
+    "url": "https://dnd.su/race/169-grung/",
+    "name": "Грунг",
+    "name_en": "Grung",
+    "source": "OGA",
+    "icon": "tile__icon sprite-race__grung",
+    "icon_name": "grung"
+  },
+  {
+    "url": "https://dnd.su/race/78-dwarf/",
+    "name": "Дварф",
+    "name_en": "Dwarf",
+    "source": "PH14",
+    "icon": "tile__icon sprite-race__dwarf",
+    "icon_name": "dwarf"
+  },
+  {
+    "url": "https://dnd.su/race/102-genasi/",
+    "name": "Дженази",
+    "name_en": "Genasi",
+    "source": "POA",
+    "icon": "tile__icon sprite-race__genasi",
+    "icon_name": "genasi"
+  },
+  {
+    "url": "https://dnd.su/race/82-dragonborn/",
+    "name": "Драконорождённый",
+    "name_en": "Dragonborn",
+    "source": "PH14",
+    "icon": "tile__icon sprite-race__dragonborn",
+    "icon_name": "dragonborn"
+  },
+  {
+    "url": "https://dnd.su/race/207-harengon/",
+    "name": "Зайцегон",
+    "name_en": "Harengon",
+    "source": "WBW",
+    "icon": "tile__icon sprite-race__harengon",
+    "icon_name": "harengon"
+  },
+  {
+    "url": "https://dnd.su/race/171-kalashtar/",
+    "name": "Калаштар",
+    "name_en": "Kalashtar",
+    "source": "RLW",
+    "icon": "tile__icon sprite-race__kalashtar",
+    "icon_name": "kalashtar"
+  },
+  {
+    "url": "https://dnd.su/race/285-kender/",
+    "name": "Кендер",
+    "name_en": "Kender",
+    "source": "SDQ",
+    "icon": "tile__icon sprite-race__kender",
+    "icon_name": "kender"
+  },
+  {
+    "url": "https://dnd.su/race/172-kenku/",
+    "name": "Кенку",
+    "name_en": "Kenku",
+    "source": "VGM",
+    "icon": "tile__icon sprite-race__kenku",
+    "icon_name": "kenku"
+  },
+  {
+    "url": "https://dnd.su/race/173-centaur/",
+    "name": "Кентавр",
+    "name_en": "Centaur",
+    "source": "GGR",
+    "icon": "tile__icon sprite-race__centaur",
+    "icon_name": "centaur"
+  },
+  {
+    "url": "https://dnd.su/race/175-kobold/",
+    "name": "Кобольд",
+    "name_en": "Kobold",
+    "source": "VGM",
+    "icon": "tile__icon sprite-race__kobold",
+    "icon_name": "kobold"
+  },
+  {
+    "url": "https://dnd.su/race/174-warforged/",
+    "name": "Кованый",
+    "name_en": "Warforged",
+    "source": "RLW",
+    "icon": "tile__icon sprite-race__warforged",
+    "icon_name": "warforged"
+  },
+  {
+    "url": "https://dnd.su/race/176-leonin/",
+    "name": "Леонин",
+    "name_en": "Leonin",
+    "source": "MOT",
+    "icon": "tile__icon sprite-race__leonin",
+    "icon_name": "leonin"
+  },
+  {
+    "url": "https://dnd.su/race/178-locathah/",
+    "name": "Локата",
+    "name_en": "Locathah",
+    "source": "LR",
+    "icon": "tile__icon sprite-race__locathah",
+    "icon_name": "locathah"
+  },
+  {
+    "url": "https://dnd.su/race/177-loxodon/",
+    "name": "Локсодон",
+    "name_en": "Loxodon",
+    "source": "GGR",
+    "icon": "tile__icon sprite-race__loxodon",
+    "icon_name": "loxodon"
+  },
+  {
+    "url": "https://dnd.su/race/179-lizardfolk/",
+    "name": "Людоящер",
+    "name_en": "Lizardfolk",
+    "source": "VGM",
+    "icon": "tile__icon sprite-race__lizardfolk",
+    "icon_name": "lizardfolk"
+  },
+  {
+    "url": "https://dnd.su/race/181-minotaur/",
+    "name": "Минотавр",
+    "name_en": "Minotaur",
+    "source": "GGR",
+    "icon": "tile__icon sprite-race__minotaur",
+    "icon_name": "minotaur"
+  },
+  {
+    "url": "https://dnd.su/race/187-orc/",
+    "name": "Орк",
+    "name_en": "Orc",
+    "source": "VGM",
+    "icon": "tile__icon sprite-race__orc",
+    "icon_name": "orc"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/217-plasmoid/",
+    "name": "Плазмоид",
+    "name_en": "Plasmoid",
+    "source": "SAS",
+    "icon": "tile__icon sprite-race__plasmoid",
+    "icon_name": "plasmoid"
+  },
+  {
+    "url": "https://dnd.su/race/85-half-orc/",
+    "name": "Полуорк",
+    "name_en": "Half-orc",
+    "source": "PH14",
+    "icon": "tile__icon sprite-race__half_orc",
+    "icon_name": "half_orc"
+  },
+  {
+    "url": "https://dnd.su/race/80-halfling/",
+    "name": "Полурослик",
+    "name_en": "Halfling",
+    "source": "PH14",
+    "icon": "tile__icon sprite-race__halfling",
+    "icon_name": "halfling"
+  },
+  {
+    "url": "https://dnd.su/race/84-half-elf/",
+    "name": "Полуэльф",
+    "name_en": "Half-elf",
+    "source": "PH14",
+    "icon": "tile__icon sprite-race__half_elf",
+    "icon_name": "half_elf"
+  },
+  {
+    "url": "https://dnd.su/race/182-satyr/",
+    "name": "Сатир",
+    "name_en": "Satyr",
+    "source": "MOT",
+    "icon": "tile__icon sprite-race__satyr",
+    "icon_name": "satyr"
+  },
+  {
+    "url": "https://dnd.su/race/206-owlin/",
+    "name": "Совлин",
+    "name_en": "Owlin",
+    "source": "SCC",
+    "icon": "tile__icon sprite-race__owlin",
+    "icon_name": "owlin"
+  },
+  {
+    "url": "https://dnd.su/race/183-tabaxi/",
+    "name": "Табакси",
+    "name_en": "Tabaxi",
+    "source": "VGM",
+    "icon": "tile__icon sprite-race__tabaxi",
+    "icon_name": "tabaxi"
+  },
+  {
+    "url": "https://dnd.su/race/86-tiefling/",
+    "name": "Тифлинг",
+    "name_en": "Tiefling",
+    "source": "PH14",
+    "icon": "tile__icon sprite-race__tiefling",
+    "icon_name": "tiefling"
+  },
+  {
+    "url": "https://dnd.su/race/184-tortle/",
+    "name": "Тортл",
+    "name_en": "Tortle",
+    "source": "TP",
+    "icon": "tile__icon sprite-race__tortle",
+    "icon_name": "tortle"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/218-thri-kreen/",
+    "name": "Три-крин",
+    "name_en": "Thri-kreen",
+    "source": "SAS",
+    "icon": "tile__icon sprite-race__thri_kreen",
+    "icon_name": "thri_kreen"
+  },
+  {
+    "url": "https://dnd.su/race/188-triton/",
+    "name": "Тритон",
+    "name_en": "Triton",
+    "source": "VGM",
+    "icon": "tile__icon sprite-race__triton",
+    "icon_name": "triton"
+  },
+  {
+    "url": "https://dnd.su/race/185-firbolg/",
+    "name": "Фирболг",
+    "name_en": "Firbolg",
+    "source": "VGM",
+    "icon": "tile__icon sprite-race__firbolg",
+    "icon_name": "firbolg"
+  },
+  {
+    "url": "https://dnd.su/race/204-fairy/",
+    "name": "Фэйри",
+    "name_en": "Fairy",
+    "source": "WBW",
+    "icon": "tile__icon sprite-race__fairy",
+    "icon_name": "fairy"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/216-hadozee/",
+    "name": "Хадози",
+    "name_en": "Hadozee",
+    "source": "SAS",
+    "icon": "tile__icon sprite-race__hadozee",
+    "icon_name": "hadozee"
+  },
+  {
+    "url": "https://dnd.su/race/168-hobgoblin/",
+    "name": "Хобгоблин",
+    "name_en": "Hobgoblin",
+    "source": "VGM",
+    "icon": "tile__icon sprite-race__hobgoblin",
+    "icon_name": "hobgoblin"
+  },
+  {
+    "url": "https://dnd.su/race/170-changeling/",
+    "name": "Чейнджлинг",
+    "name_en": "Changeling",
+    "source": "RLW",
+    "icon": "tile__icon sprite-race__changeling",
+    "icon_name": "changeling"
+  },
+  {
+    "url": "https://dnd.su/race/81-human/",
+    "name": "Человек",
+    "name_en": "Human",
+    "source": "PH14",
+    "icon": "tile__icon sprite-race__human",
+    "icon_name": "human"
+  },
+  {
+    "url": "https://dnd.su/race/186-shifter/",
+    "name": "Шифтер",
+    "name_en": "Shifter",
+    "source": "RLW",
+    "icon": "tile__icon sprite-race__shifter",
+    "icon_name": "shifter"
+  },
+  {
+    "url": "https://dnd.su/race/79-elf/",
+    "name": "Эльф",
+    "name_en": "Elf",
+    "source": "PH14",
+    "icon": "tile__icon sprite-race__elf",
+    "icon_name": "elf"
+  },
+  {
+    "url": "https://dnd.su/race/189-yuan-ti-pureblood/",
+    "name": "Юань-ти",
+    "name_en": "Yuan-ti Pureblood",
+    "source": "VGM",
+    "icon": "tile__icon sprite-race__yuan_ti_pureblood",
+    "icon_name": "yuan_ti_pureblood"
+  },
+  {
+    "url": "https://dnd.su/race/192-hexblood/",
+    "name": "Ведьмовская кровь",
+    "name_en": "Hexblood",
+    "source": "VRGR",
+    "icon": "tile__icon sprite-race__hexblood",
+    "icon_name": "hexblood"
+  },
+  {
+    "url": "https://dnd.su/race/193-reborn/",
+    "name": "Возрождённый",
+    "name_en": "Reborn",
+    "source": "VRGR",
+    "icon": "tile__icon sprite-race__reborn",
+    "icon_name": "reborn"
+  },
+  {
+    "url": "https://dnd.su/race/191-dhampir/",
+    "name": "Дампир",
+    "name_en": "Dhampir",
+    "source": "VRGR",
+    "icon": "tile__icon sprite-race__dhampir",
+    "icon_name": "dhampir"
+  },
+  {
+    "url": "https://dnd.su/race/223-custom-lineage/",
+    "name": "Своё происхождение",
+    "name_en": "Custom lineage",
+    "source": "TCE",
+    "icon": "tile__icon sprite-race__custom_lineage",
+    "icon_name": "custom_lineage"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/278-aarakocra/",
+    "name": "Ааракокра",
+    "name_en": "Aarakocra",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__aarakocra",
+    "icon_name": "aarakocra"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/280-aasimar/",
+    "name": "Аасимар",
+    "name_en": "Aasimar",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__aasimar",
+    "icon_name": "aasimar"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/281-bugbear/",
+    "name": "Багбир",
+    "name_en": "Bugbear",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__bugbear",
+    "icon_name": "bugbear"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/293-githzerai/",
+    "name": "Гитцерай",
+    "name_en": "Githzerai",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__githzerai",
+    "icon_name": "githzerai"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/292-githyanki/",
+    "name": "Гитъянки",
+    "name_en": "Githyanki",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__githyanki",
+    "icon_name": "githyanki"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/286-deep-gnome/",
+    "name": "Глубинный гном",
+    "name_en": "Deep Gnome",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__deep_gnome",
+    "icon_name": "deep_gnome"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/294-goblin/",
+    "name": "Гоблин",
+    "name_en": "Goblin",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__goblin",
+    "icon_name": "goblin"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/295-goliath/",
+    "name": "Голиаф",
+    "name_en": "Goliath",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__goliath",
+    "icon_name": "goliath"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/291-genasi/",
+    "name": "Дженази",
+    "name_en": "Genasi",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__genasi",
+    "icon_name": "genasi"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/287-duergar/",
+    "name": "Дуэргар",
+    "name_en": "Duergar",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__duergar",
+    "icon_name": "duergar"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/296-harengon/",
+    "name": "Зайцегон",
+    "name_en": "Harengon",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__harengon",
+    "icon_name": "harengon"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/298-kenku/",
+    "name": "Кенку",
+    "name_en": "Kenku",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__kenku",
+    "icon_name": "kenku"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/282-centaur/",
+    "name": "Кентавр",
+    "name_en": "Centaur",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__centaur",
+    "icon_name": "centaur"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/299-kobold/",
+    "name": "Кобольд",
+    "name_en": "Kobold",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__kobold",
+    "icon_name": "kobold"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/300-lizardfolk/",
+    "name": "Людоящер",
+    "name_en": "Lizardfolk",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__lizardfolk",
+    "icon_name": "lizardfolk"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/301-minotaur/",
+    "name": "Минотавр",
+    "name_en": "Minotaur",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__minotaur",
+    "icon_name": "minotaur"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/304-sea-elf/",
+    "name": "Морской эльф",
+    "name_en": "Sea Elf",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__sea_elf",
+    "icon_name": "sea_elf"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/302-orc/",
+    "name": "Орк",
+    "name_en": "Orc",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__orc",
+    "icon_name": "orc"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/303-satyr/",
+    "name": "Сатир",
+    "name_en": "Satyr",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__satyr",
+    "icon_name": "satyr"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/307-tabaxi/",
+    "name": "Табакси",
+    "name_en": "Tabaxi",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__tabaxi",
+    "icon_name": "tabaxi"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/309-tortle/",
+    "name": "Тортл",
+    "name_en": "Tortle",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__tortle",
+    "icon_name": "tortle"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/310-triton/",
+    "name": "Тритон",
+    "name_en": "Triton",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__triton",
+    "icon_name": "triton"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/290-firbolg/",
+    "name": "Фирболг",
+    "name_en": "Firbolg",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__firbolg",
+    "icon_name": "firbolg"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/289-fairy/",
+    "name": "Фэйри",
+    "name_en": "Fairy",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__fairy",
+    "icon_name": "fairy"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/297-hobgoblin/",
+    "name": "Хобгоблин",
+    "name_en": "Hobgoblin",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__hobgoblin",
+    "icon_name": "hobgoblin"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/283-changeling/",
+    "name": "Чейнджлинг",
+    "name_en": "Changeling",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__changeling",
+    "icon_name": "changeling"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/305-shadar-kai/",
+    "name": "Шадар-кай",
+    "name_en": "Shadar-Kai",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__shadar_kai",
+    "icon_name": "shadar_kai"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/306-shifter/",
+    "name": "Шифтер",
+    "name_en": "Shifter",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__shifter",
+    "icon_name": "shifter"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/288-eladrin/",
+    "name": "Эладрин",
+    "name_en": "Eladrin",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__eladrin",
+    "icon_name": "eladrin"
+  },
+  {
+    "url": "https://dnd.su/multiverse/race/311-yuan-ti/",
+    "name": "Юань-ти",
+    "name_en": "Yuan-Ti",
+    "source": "MPMM",
+    "icon": "tile__icon sprite-race__yuan_ti",
+    "icon_name": "yuan_ti"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/367-glitchling/",
+    "name": "Глючный",
+    "name_en": "Glitchling",
+    "source": "UA, HB",
+    "icon": "tile__icon sprite-race__glitchling",
+    "icon_name": "glitchling"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/275-revenant/",
+    "name": "Ревенант",
+    "name_en": "Revenant",
+    "source": "UA, HB",
+    "icon": "tile__icon sprite-race__revenant",
+    "icon_name": "revenant"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/205-hobgoblin-of-the-feywild/",
+    "name": "Хобгоблин из Страны Фей",
+    "name_en": "Hobgoblin of the Feywild",
+    "source": "UA, HB",
+    "icon": "tile__icon sprite-race__hobgoblin_of_the_feywild",
+    "icon_name": "hobgoblin_of_the_feywild"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/329-aven/",
+    "name": "Авен",
+    "name_en": "Aven",
+    "source": "PS:A, HB",
+    "icon": "tile__icon sprite-race__aven",
+    "icon_name": "aven"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/328-minotaur/",
+    "name": "Минотавр",
+    "name_en": "Minotaur",
+    "source": "PS:A, HB",
+    "icon": "tile__icon sprite-race__minotaur",
+    "icon_name": "minotaur"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/221-naga/",
+    "name": "Нага",
+    "name_en": "Naga",
+    "source": "PS:A, HB",
+    "icon": "tile__icon sprite-race__naga",
+    "icon_name": "naga"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/333-khenra/",
+    "name": "Хенра",
+    "name_en": "Khenra",
+    "source": "PS:A, HB",
+    "icon": "tile__icon sprite-race__khenra",
+    "icon_name": "khenra"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/332-human/",
+    "name": "Человек",
+    "name_en": "Human",
+    "source": "PS:A, HB",
+    "icon": "tile__icon sprite-race__human",
+    "icon_name": "human"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/336-people-of-innistrad/",
+    "name": "Люди Иннистрада",
+    "name_en": "People of Innistrad",
+    "source": "PS:In, HB",
+    "icon": "tile__icon sprite-race__people_of_innistrad",
+    "icon_name": "people_of_innistrad"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/435-gnoll/",
+    "name": "Гнолл",
+    "name_en": "Gnoll",
+    "source": "HB:MHH, HB",
+    "icon": "tile__icon sprite-race__gnoll",
+    "icon_name": "gnoll"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/436-gnome/",
+    "name": "Гном",
+    "name_en": "Gnome",
+    "source": "HB:MHH, HB",
+    "icon": "tile__icon sprite-race__gnome",
+    "icon_name": "gnome"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/431-dhampir/",
+    "name": "Дампир",
+    "name_en": "Dhampir",
+    "source": "HB:MHH, HB",
+    "icon": "tile__icon sprite-race__dhampir",
+    "icon_name": "dhampir"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/432-dwarf/",
+    "name": "Дварф",
+    "name_en": "Dwarf",
+    "source": "HB:MHH, HB",
+    "icon": "tile__icon sprite-race__dwarf",
+    "icon_name": "dwarf"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/444-winterfolk-halflings/",
+    "name": "Зиморождённые полурослики",
+    "name_en": "Winterfolk halflings",
+    "source": "HB:MHH, HB",
+    "icon": "tile__icon sprite-race__winterfolk_halflings",
+    "icon_name": "winterfolk_halflings"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/430-centaur/",
+    "name": "Кентавр",
+    "name_en": "Centaur",
+    "source": "HB:MHH, HB",
+    "icon": "tile__icon sprite-race__centaur",
+    "icon_name": "centaur"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/438-kobolds-of-midgard/",
+    "name": "Кобольд Мидгарда",
+    "name_en": "Kobolds of Midgard",
+    "source": "HB:MHH, HB",
+    "icon": "tile__icon sprite-race__kobolds_of_midgard",
+    "icon_name": "kobolds_of_midgard"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/434-gearforged/",
+    "name": "Кованый",
+    "name_en": "Gearforged",
+    "source": "HB:MHH, HB",
+    "icon": "tile__icon sprite-race__gearforged",
+    "icon_name": "gearforged"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/437-human-of-midgard/",
+    "name": "Люди Мидгарда",
+    "name_en": "Human of Midgard",
+    "source": "HB:MHH, HB",
+    "icon": "tile__icon sprite-race__human_of_midgard",
+    "icon_name": "human_of_midgard"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/441-ravenfolk/",
+    "name": "Людоворон",
+    "name_en": "Ravenfolk",
+    "source": "HB:MHH, HB",
+    "icon": "tile__icon sprite-race__ravenfolk",
+    "icon_name": "ravenfolk"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/440-ratfolk/",
+    "name": "Людокрыса",
+    "name_en": "Ratfolk",
+    "source": "HB:MHH, HB",
+    "icon": "tile__icon sprite-race__ratfolk",
+    "icon_name": "ratfolk"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/429-bearfolk/",
+    "name": "Людомедведь",
+    "name_en": "Bearfolk",
+    "source": "HB:MHH, HB",
+    "icon": "tile__icon sprite-race__bearfolk",
+    "icon_name": "bearfolk"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/439-minotaur/",
+    "name": "Минотавр",
+    "name_en": "Minotaur",
+    "source": "HB:MHH, HB",
+    "icon": "tile__icon sprite-race__minotaur",
+    "icon_name": "minotaur"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/442-shadow-fey/",
+    "name": "Теневая фея",
+    "name_en": "Shadow fey",
+    "source": "HB:MHH, HB",
+    "icon": "tile__icon sprite-race__shadow_fey",
+    "icon_name": "shadow_fey"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/443-trollkin/",
+    "name": "Троллеобразный",
+    "name_en": "Trollkin",
+    "source": "HB:MHH, HB",
+    "icon": "tile__icon sprite-race__trollkin",
+    "icon_name": "trollkin"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/433-elf/",
+    "name": "Эльф",
+    "name_en": "Elf",
+    "source": "HB:MHH, HB",
+    "icon": "tile__icon sprite-race__elf",
+    "icon_name": "elf"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/461-accursed-tiefling/",
+    "name": "Анафемный тифлинг",
+    "name_en": "Accursed Tiefling",
+    "source": "HB:SGEH, HB",
+    "icon": "tile__icon sprite-race__accursed_tiefling",
+    "icon_name": "accursed_tiefling"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/405-elkian/",
+    "name": "Вапитианец",
+    "name_en": "Elkian",
+    "source": "HB",
+    "icon": "tile__icon sprite-race__elkian",
+    "icon_name": "elkian"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/112-vegepygmy/",
+    "name": "Вегепигмей",
+    "name_en": "Vegepygmy",
+    "source": "HB:SC, HB",
+    "icon": "tile__icon sprite-race__vegepygmy",
+    "icon_name": "vegepygmy"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/471-deep-one-dwarf-yha-nthlei/",
+    "name": "Глубинный дварф (Й'ха-нтлей)",
+    "name_en": "Deep One Dwarf (Y'ha-nthlei)",
+    "source": "HB:SGEH, HB",
+    "icon": "tile__icon sprite-race__deep_one_dwarf_yha_nthlei",
+    "icon_name": "deep_one_dwarf_yha_nthlei"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/581-gobbok/",
+    "name": "Гоббок",
+    "name_en": "Gobbok",
+    "source": "HB:HGMH, HB",
+    "icon": "tile__icon sprite-race__gobbok",
+    "icon_name": "gobbok"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/582-golynn/",
+    "name": "Голинн",
+    "name_en": "Golynn",
+    "source": "HB:HGMH, HB",
+    "icon": "tile__icon sprite-race__golynn",
+    "icon_name": "golynn"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/556-graceza/",
+    "name": "Грацеза",
+    "name_en": "Graceza",
+    "source": "HB:MF, HB",
+    "icon": "tile__icon sprite-race__graceza",
+    "icon_name": "graceza"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/522-dhampir/",
+    "name": "Дампир",
+    "name_en": "Dhampir",
+    "source": "HB:MF, HB",
+    "icon": "tile__icon sprite-race__dhampir",
+    "icon_name": "dhampir"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/521-drevan/",
+    "name": "Древан",
+    "name_en": "Drevan",
+    "source": "HB:MF, HB",
+    "icon": "tile__icon sprite-race__drevan",
+    "icon_name": "drevan"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/543-isetsu/",
+    "name": "Исэцу",
+    "name_en": "Isetsu",
+    "source": "HB:RGYR, HB",
+    "icon": "tile__icon sprite-race__isetsu",
+    "icon_name": "isetsu"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/562-cadaver/",
+    "name": "Кадавр",
+    "name_en": "Cadaver",
+    "source": "HB:MF, HB",
+    "icon": "tile__icon sprite-race__cadaver",
+    "icon_name": "cadaver"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/538-kitsune/",
+    "name": "Кицунэ",
+    "name_en": "Kitsune",
+    "source": "HB:RGYR, HB",
+    "icon": "tile__icon sprite-race__kitsune",
+    "icon_name": "kitsune"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/496-catfolk/",
+    "name": "Котовец",
+    "name_en": "Catfolk",
+    "source": "HB:MF, HB",
+    "icon": "tile__icon sprite-race__catfolk",
+    "icon_name": "catfolk"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/520-lipsick/",
+    "name": "Липсик",
+    "name_en": "Lipsick",
+    "source": "HB:MF, HB",
+    "icon": "tile__icon sprite-race__lipsick",
+    "icon_name": "lipsick"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/583-lotol/",
+    "name": "Лотол",
+    "name_en": "Lotol",
+    "source": "HB:HGMH, HB",
+    "icon": "tile__icon sprite-race__lotol",
+    "icon_name": "lotol"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/546-lion-turtle/",
+    "name": "Львиная черепаха",
+    "name_en": "Lion Turtle",
+    "source": "HB:RGYR, HB",
+    "icon": "tile__icon sprite-race__lion_turtle",
+    "icon_name": "lion_turtle"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/460-manikin/",
+    "name": "Манекен",
+    "name_en": "Manikin",
+    "source": "HB:SGEH, HB",
+    "icon": "tile__icon sprite-race__manikin",
+    "icon_name": "manikin"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/584-mycelian/",
+    "name": "Мицелиан",
+    "name_en": "Mycelian",
+    "source": "HB:HGMH, HB",
+    "icon": "tile__icon sprite-race__mycelian",
+    "icon_name": "mycelian"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/494-mousefolk/",
+    "name": "Мышинец",
+    "name_en": "Mousefolk",
+    "source": "HB:MF, HB",
+    "icon": "tile__icon sprite-race__mousefolk",
+    "icon_name": "mousefolk"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/544-hishikin/",
+    "name": "Нисикин",
+    "name_en": "Hishikin",
+    "source": "HB:RGYR, HB",
+    "icon": "tile__icon sprite-race__hishikin",
+    "icon_name": "hishikin"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/585-ombrask/",
+    "name": "Омбраск",
+    "name_en": "Ombrask",
+    "source": "HB:HGMH, HB",
+    "icon": "tile__icon sprite-race__ombrask",
+    "icon_name": "ombrask"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/545-oniborne/",
+    "name": "Онирождённый",
+    "name_en": "Oniborne",
+    "source": "HB:RGYR, HB",
+    "icon": "tile__icon sprite-race__oniborne",
+    "icon_name": "oniborne"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/459-demidritch/",
+    "name": "Полусторонний",
+    "name_en": "Demidritch",
+    "source": "HB:SGEH, HB",
+    "icon": "tile__icon sprite-race__demidritch",
+    "icon_name": "demidritch"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/462-scourgeborne/",
+    "name": "Порождение Бедствия",
+    "name_en": "Scourgeborne",
+    "source": "HB:SGEH, HB",
+    "icon": "tile__icon sprite-race__scourgeborne",
+    "icon_name": "scourgeborne"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/111-awakened/",
+    "name": "Пробуждённый",
+    "name_en": "Awakened",
+    "source": "HB:SC, HB",
+    "icon": "tile__icon sprite-race__awakened",
+    "icon_name": "awakened"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/470-cursed-blood/",
+    "name": "Проклятокровый",
+    "name_en": "Cursed-Blood",
+    "source": "HB:SGEH, HB",
+    "icon": "tile__icon sprite-race__cursed_blood",
+    "icon_name": "cursed_blood"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/547-ryujin/",
+    "name": "Рюдзин",
+    "name_en": "Ryujin",
+    "source": "HB:RGYR, HB",
+    "icon": "tile__icon sprite-race__ryujin",
+    "icon_name": "ryujin"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/110-silva/",
+    "name": "Сильва",
+    "name_en": "Silva",
+    "source": "HB:SC, HB",
+    "icon": "tile__icon sprite-race__silva",
+    "icon_name": "silva"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/560-slimee/",
+    "name": "Склизыш",
+    "name_en": "Slimee",
+    "source": "HB:MF, HB",
+    "icon": "tile__icon sprite-race__slimee",
+    "icon_name": "slimee"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/586-oozekin/",
+    "name": "Слизевик",
+    "name_en": "Oozekin",
+    "source": "HB:HGMH, HB",
+    "icon": "tile__icon sprite-race__oozekin",
+    "icon_name": "oozekin"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/561-sticktikal/",
+    "name": "Стик'Ти'Кал",
+    "name_en": "Stick'Ti'Kal",
+    "source": "HB:MF, HB",
+    "icon": "tile__icon sprite-race__sticktikal",
+    "icon_name": "sticktikal"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/579-cnidaran/",
+    "name": "Стрекающие",
+    "name_en": "Cnidaran",
+    "source": "HB:HGMH, HB",
+    "icon": "tile__icon sprite-race__cnidaran",
+    "icon_name": "cnidaran"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/475-teratect/",
+    "name": "Тератект",
+    "name_en": "Teratect",
+    "source": "HB:CN, HB",
+    "icon": "tile__icon sprite-race__teratect",
+    "icon_name": "teratect"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/474-smoldering/",
+    "name": "Тлеющий",
+    "name_en": "Smoldering",
+    "source": "HB:CN, HB",
+    "icon": "tile__icon sprite-race__smoldering",
+    "icon_name": "smoldering"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/548-tengu/",
+    "name": "Тэнгу",
+    "name_en": "Tengu",
+    "source": "HB:RGYR, HB",
+    "icon": "tile__icon sprite-race__tengu",
+    "icon_name": "tengu"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/466-florene/",
+    "name": "Флорен",
+    "name_en": "Florene",
+    "source": "HB:CN, HB",
+    "icon": "tile__icon sprite-race__florene",
+    "icon_name": "florene"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/540-fuyohren/",
+    "name": "Фунаюрэй",
+    "name_en": "Fuyohren",
+    "source": "HB:RGYR, HB",
+    "icon": "tile__icon sprite-race__fuyohren",
+    "icon_name": "fuyohren"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/541-hanamori/",
+    "name": "Ханамори",
+    "name_en": "Hanamori",
+    "source": "HB:RGYR, HB",
+    "icon": "tile__icon sprite-race__hanamori",
+    "icon_name": "hanamori"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/542-haniwa/",
+    "name": "Ханива",
+    "name_en": "Haniwa",
+    "source": "HB:RGYR, HB",
+    "icon": "tile__icon sprite-race__haniwa",
+    "icon_name": "haniwa"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/580-cyclopian/",
+    "name": "Циклопианец",
+    "name_en": "Cyclopian",
+    "source": "HB:HGMH, HB",
+    "icon": "tile__icon sprite-race__cyclopian",
+    "icon_name": "cyclopian"
+  },
+  {
+    "url": "https://dnd.su/homebrew/race/539-enkoh/",
+    "name": "Энкох",
+    "name_en": "Enkoh",
+    "source": "HB:RGYR, HB",
+    "icon": "tile__icon sprite-race__enkoh",
+    "icon_name": "enkoh"
+  }
+]

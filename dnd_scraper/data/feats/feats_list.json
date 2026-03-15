@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "101",
+    "name": "Артистичный",
+    "name_en": "Actor",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/101-actor/",
+    "letter": "PH14",
+    "search_data": "Артистичный,Actor,"
+  },
+  {
+    "id": "102",
+    "name": "Атлетичный",
+    "name_en": "Athlete",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/102-athlete/",
+    "letter": "PH14",
+    "search_data": "Атлетичный,Athlete,"
+  },
+  {
+    "id": "103",
+    "name": "Бдительный",
+    "name_en": "Alert",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/103-alert/",
+    "letter": "PH14",
+    "search_data": "Бдительный,Alert,"
+  },
+  {
+    "id": "104",
+    "name": "Боевой заклинатель",
+    "name_en": "War Caster",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/104-war-caster/",
+    "letter": "PH14",
+    "search_data": "Боевой заклинатель,War Caster,"
+  },
+  {
+    "id": "105",
+    "name": "Борец",
+    "name_en": "Grappler",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/105-grappler/",
+    "letter": "PH14",
+    "search_data": "Борец,Grappler,"
+  },
+  {
+    "id": "106",
+    "name": "Везунчик",
+    "name_en": "Lucky",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/106-lucky/",
+    "letter": "PH14",
+    "search_data": "Везунчик,Lucky,"
+  },
+  {
+    "id": "107",
+    "name": "Верховой боец",
+    "name_en": "Mounted combatant",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/107-mounted-combatant/",
+    "letter": "PH14",
+    "search_data": "Верховой боец,Mounted combatant,"
+  },
+  {
+    "id": "108",
+    "name": "Внимательный",
+    "name_en": "Observant",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/108-observant/",
+    "letter": "PH14",
+    "search_data": "Внимательный,Observant,"
+  },
+  {
+    "id": "109",
+    "name": "Воинский адепт",
+    "name_en": "Martial adept",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/109-martial-adept/",
+    "letter": "PH14",
+    "search_data": "Воинский адепт,Martial adept,"
+  },
+  {
+    "id": "110",
+    "name": "Воодушевляющий лидер",
+    "name_en": "Inspiring leader",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/110-inspiring-leader/",
+    "letter": "PH14",
+    "search_data": "Воодушевляющий лидер,Inspiring leader,"
+  },
+  {
+    "id": "111",
+    "name": "Дикий атакующий",
+    "name_en": "Savage attacker",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/111-savage-attacker/",
+    "letter": "PH14",
+    "search_data": "Дикий атакующий,Savage attacker,"
+  },
+  {
+    "id": "112",
+    "name": "Драчун",
+    "name_en": "Tavern brawler",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/112-tavern-brawler/",
+    "letter": "PH14",
+    "search_data": "Драчун,Tavern brawler,"
+  },
+  {
+    "id": "113",
+    "name": "Знаток лёгких доспехов",
+    "name_en": "Lightly armored",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/113-lightly-armored/",
+    "letter": "PH14",
+    "search_data": "Знаток лёгких доспехов,Lightly armored,"
+  },
+  {
+    "id": "114",
+    "name": "Знаток средних доспехов",
+    "name_en": "Moderately armored",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/114-moderately-armored/",
+    "letter": "PH14",
+    "search_data": "Знаток средних доспехов,Moderately armored,"
+  },
+  {
+    "id": "115",
+    "name": "Знаток тяжёлых доспехов",
+    "name_en": "Heavily armored",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/115-heavily-armored/",
+    "letter": "PH14",
+    "search_data": "Знаток тяжёлых доспехов,Heavily armored,"
+  },
+  {
+    "id": "116",
+    "name": "Использование двух оружий",
+    "name_en": "Dual wielder",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/116-dual-wielder/",
+    "letter": "PH14",
+    "search_data": "Использование двух оружий,Dual wielder,"
+  },
+  {
+    "id": "117",
+    "name": "Исследователь подземелий",
+    "name_en": "Dungeon delver",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/117-dungeon-delver/",
+    "letter": "PH14",
+    "search_data": "Исследователь подземелий,Dungeon delver,"
+  },
+  {
+    "id": "118",
+    "name": "Крепкий",
+    "name_en": "Tough",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/118-tough/",
+    "letter": "PH14",
+    "search_data": "Крепкий,Tough,"
+  },
+  {
+    "id": "119",
+    "name": "Лекарь",
+    "name_en": "Healer",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/119-healer/",
+    "letter": "PH14",
+    "search_data": "Лекарь,Healer,"
+  },
+  {
+    "id": "120",
+    "name": "Мастер большого оружия",
+    "name_en": "Great weapon master",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/120-great-weapon-master/",
+    "letter": "PH14",
+    "search_data": "Мастер большого оружия,Great weapon master,"
+  },
+  {
+    "id": "121",
+    "name": "Мастер древкового оружия",
+    "name_en": "Polearm master",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/121-polearm-master/",
+    "letter": "PH14",
+    "search_data": "Мастер древкового оружия,Polearm master,"
+  },
+  {
+    "id": "122",
+    "name": "Мастер оружия",
+    "name_en": "Weapon master",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/122-weapon-master/",
+    "letter": "PH14",
+    "search_data": "Мастер оружия,Weapon master,"
+  },
+  {
+    "id": "123",
+    "name": "Мастер средних доспехов",
+    "name_en": "Medium armor master",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/123-medium-armor-master/",
+    "letter": "PH14",
+    "search_data": "Мастер средних доспехов,Medium armor master,"
+  },
+  {
+    "id": "124",
+    "name": "Мастер тяжёлых доспехов",
+    "name_en": "Heavy armor master",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/124-heavy-armor-master/",
+    "letter": "PH14",
+    "search_data": "Мастер тяжёлых доспехов,Heavy armor master,"
+  },
+  {
+    "id": "125",
+    "name": "Мастер щитов",
+    "name_en": "Shield master",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/125-shield-master/",
+    "letter": "PH14",
+    "search_data": "Мастер щитов,Shield master,"
+  },
+  {
+    "id": "126",
+    "name": "Меткие заклинания",
+    "name_en": "Spell sniper",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/126-spell-sniper/",
+    "letter": "PH14",
+    "search_data": "Меткие заклинания,Spell sniper,"
+  },
+  {
+    "id": "127",
+    "name": "Меткий стрелок",
+    "name_en": "Sharpshooter",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/127-sharpshooter/",
+    "letter": "PH14",
+    "search_data": "Меткий стрелок,Sharpshooter,"
+  },
+  {
+    "id": "128",
+    "name": "Налётчик",
+    "name_en": "Charger",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/128-charger/",
+    "letter": "PH14",
+    "search_data": "Налётчик,Charger,"
+  },
+  {
+    "id": "129",
+    "name": "Оборонительный дуэлянт",
+    "name_en": "Defensive duelist",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/129-defensive-duelist/",
+    "letter": "PH14",
+    "search_data": "Оборонительный дуэлянт,Defensive duelist,"
+  },
+  {
+    "id": "130",
+    "name": "Одарённый",
+    "name_en": "Skilled",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/130-skilled/",
+    "letter": "PH14",
+    "search_data": "Одарённый,Skilled,"
+  },
+  {
+    "id": "131",
+    "name": "Отличная память",
+    "name_en": "Keen mind",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/131-keen-mind/",
+    "letter": "PH14",
+    "search_data": "Отличная память,Keen mind,"
+  },
+  {
+    "id": "132",
+    "name": "Подвижный",
+    "name_en": "Mobile",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/132-mobile/",
+    "letter": "PH14",
+    "search_data": "Подвижный,Mobile,"
+  },
+  {
+    "id": "133",
+    "name": "Посвящённый в магию",
+    "name_en": "Magic initiate",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/133-magic-initiate/",
+    "letter": "PH14",
+    "search_data": "Посвящённый в магию,Magic initiate,"
+  },
+  {
+    "id": "134",
+    "name": "Проныра",
+    "name_en": "Skulker",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/134-skulker/",
+    "letter": "PH14",
+    "search_data": "Проныра,Skulker,"
+  },
+  {
+    "id": "135",
+    "name": "Ритуальный заклинатель",
+    "name_en": "Ritual caster",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/135-ritual-caster/",
+    "letter": "PH14",
+    "search_data": "Ритуальный заклинатель,Ritual caster,"
+  },
+  {
+    "id": "136",
+    "name": "Стихийный адепт",
+    "name_en": "Elemental adept",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/136-elemental-adept/",
+    "letter": "PH14",
+    "search_data": "Стихийный адепт,Elemental adept,"
+  },
+  {
+    "id": "137",
+    "name": "Стойкий",
+    "name_en": "Durable",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/137-durable/",
+    "letter": "PH14",
+    "search_data": "Стойкий,Durable,"
+  },
+  {
+    "id": "138",
+    "name": "Страж",
+    "name_en": "Sentinel",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/138-sentinel/",
+    "letter": "PH14",
+    "search_data": "Страж,Sentinel,"
+  },
+  {
+    "id": "139",
+    "name": "Убийца магов",
+    "name_en": "Mage slayer",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/139-mage-slayer/",
+    "letter": "PH14",
+    "search_data": "Убийца магов,Mage slayer,"
+  },
+  {
+    "id": "140",
+    "name": "Устойчивый",
+    "name_en": "Resilient",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/140-resilient/",
+    "letter": "PH14",
+    "search_data": "Устойчивый,Resilient,"
+  },
+  {
+    "id": "141",
+    "name": "Эксперт в арбалетах",
+    "name_en": "Crossbow expert",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/141-crossbow-expert/",
+    "letter": "PH14",
+    "search_data": "Эксперт в арбалетах,Crossbow expert,"
+  },
+  {
+    "id": "142",
+    "name": "Языковед",
+    "name_en": "Linguist",
+    "source_code": "102",
+    "source": "Player's Handbook",
+    "url": "https://dnd.su/feats/142-linguist/",
+    "letter": "PH14",
+    "search_data": "Языковед,Linguist,"
+  },
+  {
+    "id": "218",
+    "name": "Ваятель рун",
+    "name_en": "Rune shaper",
+    "source_code": "198",
+    "source": "Bigby Presents: Glory of the Giants",
+    "url": "https://dnd.su/feats/218-rune-shaper/",
+    "letter": "BPGG",
+    "search_data": "Ваятель рун,Rune shaper,"
+  },
+  {
+    "id": "213",
+    "name": "Душа штормового великана",
+    "name_en": "Soul of the storm giant",
+    "source_code": "198",
+    "source": "Bigby Presents: Glory of the Giants",
+    "url": "https://dnd.su/feats/213-soul-of-the-storm-giant/",
+    "letter": "BPGG",
+    "search_data": "Душа штормового великана,Soul of the storm giant,"
+  },
+  {
+    "id": "215",
+    "name": "Коварство облачного великана",
+    "name_en": "Guile of the cloud giant",
+    "source_code": "198",
+    "source": "Bigby Presents: Glory of the Giants",
+    "url": "https://dnd.su/feats/215-guile-of-the-cloud-giant/",
+    "letter": "BPGG",
+    "search_data": "Коварство облачного великана,Guile of the cloud giant,"
+  },
+  {
+    "id": "216",
+    "name": "Неистовство ледяного великана",
+    "name_en": "Fury of the frost giant",
+    "source_code": "198",
+    "source": "Bigby Presents: Glory of the Giants",
+    "url": "https://dnd.su/feats/216-fury-of-the-frost-giant/",
+    "letter": "BPGG",
+    "search_data": "Неистовство ледяного великана,Fury of the frost giant,"
+  },
+  {
+    "id": "217",
+    "name": "Пылкость огненного великана",
+    "name_en": "Embar of the fire giant",
+    "source_code": "198",
+    "source": "Bigby Presents: Glory of the Giants",
+    "url": "https://dnd.su/feats/217-embar-of-the-fire-giant/",
+    "letter": "BPGG",
+    "search_data": "Пылкость огненного великана,Embar of the fire giant,"
+  },
+  {
+    "id": "220",
+    "name": "Стойкость холмового великана",
+    "name_en": "Vigor of the hill giant",
+    "source_code": "198",
+    "source": "Bigby Presents: Glory of the Giants",
+    "url": "https://dnd.su/feats/220-vigor-of-the-hill-giant/",
+    "letter": "BPGG",
+    "search_data": "Стойкость холмового великана,Vigor of the hill giant,"
+  },
+  {
+    "id": "234",
+    "name": "Удар великанов",
+    "name_en": "Strike of the giants",
+    "source_code": "198",
+    "source": "Bigby Presents: Glory of the Giants",
+    "url": "https://dnd.su/feats/234-strike-of-the-giants/",
+    "letter": "BPGG",
+    "search_data": "Удар великанов,Strike of the giants,"
+  },
+  {
+    "id": "221",
+    "name": "Чуткость каменного великана",
+    "name_en": "Keenness of the stone giant",
+    "source_code": "198",
+    "source": "Bigby Presents: Glory of the Giants",
+    "url": "https://dnd.su/feats/221-keenness-of-the-stone-giant/",
+    "letter": "BPGG",
+    "search_data": "Чуткость каменного великана,Keenness of the stone giant,"
+  },
+  {
+    "id": "224",
+    "name": "Картомант",
+    "name_en": "Cartomancer",
+    "source_code": "207",
+    "source": "The Book of Many Things",
+    "url": "https://dnd.su/feats/224-cartomancer/",
+    "letter": "BMT",
+    "search_data": "Картомант,Cartomancer,Карточник"
+  },
+  {
+    "id": "173",
+    "name": "Искажённая метка дракона",
+    "name_en": "Aberrant dragonmark",
+    "source_code": "119",
+    "source": "Eberron: Rising from the Last War",
+    "url": "https://dnd.su/feats/173-aberrant-dragonmark/",
+    "letter": "RLW",
+    "search_data": "Искажённая метка дракона,Aberrant dragonmark,"
+  },
+  {
+    "id": "174",
+    "name": "Призрачный клинок",
+    "name_en": "Revenant blade",
+    "source_code": "119",
+    "source": "Eberron: Rising from the Last War",
+    "url": "https://dnd.su/feats/174-revenant-blade/",
+    "letter": "RLW",
+    "search_data": "Призрачный клинок,Revenant blade,"
+  },
+  {
+    "id": "175",
+    "name": "Дар металлического дракона",
+    "name_en": "Gift of metallic dragon",
+    "source_code": "152",
+    "source": "Fizban's Treasury of Dragons",
+    "url": "https://dnd.su/feats/175-gift-of-metallic-dragon/",
+    "letter": "FTD",
+    "search_data": "Дар металлического дракона,Gift of metallic dragon,"
+  },
+  {
+    "id": "176",
+    "name": "Дар самоцветного дракона",
+    "name_en": "Gift of gem dragon",
+    "source_code": "152",
+    "source": "Fizban's Treasury of Dragons",
+    "url": "https://dnd.su/feats/176-gift-of-gem-dragon/",
+    "letter": "FTD",
+    "search_data": "Дар самоцветного дракона,Gift of gem dragon,"
+  },
+  {
+    "id": "177",
+    "name": "Дар цветного дракона",
+    "name_en": "Gift of chromatic dragon",
+    "source_code": "152",
+    "source": "Fizban's Treasury of Dragons",
+    "url": "https://dnd.su/feats/177-gift-of-chromatic-dragon/",
+    "letter": "FTD",
+    "search_data": "Дар цветного дракона,Gift of chromatic dragon,"
+  },
+  {
+    "id": "222",
+    "name": "Агент Порядка",
+    "name_en": "Agent of order",
+    "source_code": "205",
+    "source": "Planescape: Adventures in the Multiverse",
+    "url": "https://dnd.su/feats/222-agent-of-order/",
+    "letter": "PAM",
+    "search_data": "Агент Порядка,Agent of order,"
+  },
+  {
+    "id": "223",
+    "name": "Зловещий наследник",
+    "name_en": "Baleful scion",
+    "source_code": "205",
+    "source": "Planescape: Adventures in the Multiverse",
+    "url": "https://dnd.su/feats/223-baleful-scion/",
+    "letter": "PAM",
+    "search_data": "Зловещий наследник,Baleful scion,"
+  },
+  {
+    "id": "225",
+    "name": "Когорта Хаоса",
+    "name_en": "Cohort of chaos",
+    "source_code": "205",
+    "source": "Planescape: Adventures in the Multiverse",
+    "url": "https://dnd.su/feats/225-cohort-of-chaos/",
+    "letter": "PAM",
+    "search_data": "Когорта Хаоса,Cohort of chaos,"
+  },
+  {
+    "id": "233",
+    "name": "Наследник внешних планов",
+    "name_en": "Scion of the outer planes",
+    "source_code": "205",
+    "source": "Planescape: Adventures in the Multiverse",
+    "url": "https://dnd.su/feats/233-scion-of-the-outer-planes/",
+    "letter": "PAM",
+    "search_data": "Наследник внешних планов,Scion of the outer planes,"
+  },
+  {
+    "id": "227",
+    "name": "Планарный странник",
+    "name_en": "Planar wanderer",
+    "source_code": "205",
+    "source": "Planescape: Adventures in the Multiverse",
+    "url": "https://dnd.su/feats/227-planar-wanderer/",
+    "letter": "PAM",
+    "search_data": "Планарный странник,Planar wanderer,"
+  },
+  {
+    "id": "226",
+    "name": "Посол Внешних земель",
+    "name_en": "Outlands envoy",
+    "source_code": "205",
+    "source": "Planescape: Adventures in the Multiverse",
+    "url": "https://dnd.su/feats/226-outlands-envoy/",
+    "letter": "PAM",
+    "search_data": "Посол Внешних земель,Outlands envoy,"
+  },
+  {
+    "id": "228",
+    "name": "Праведный наследник",
+    "name_en": "Righteous heritor",
+    "source_code": "205",
+    "source": "Planescape: Adventures in the Multiverse",
+    "url": "https://dnd.su/feats/228-righteous-heritor/",
+    "letter": "PAM",
+    "search_data": "Праведный наследник,Righteous heritor,"
+  },
+  {
+    "id": "178",
+    "name": "Магия свирфнеблинов",
+    "name_en": "Svirfneblin magic",
+    "source_code": "108",
+    "source": "Sword Coast Adventurer's Guide",
+    "url": "https://dnd.su/feats/178-svirfneblin-magic/",
+    "letter": "SCAG",
+    "search_data": "Магия свирфнеблинов,Svirfneblin magic,"
+  },
+  {
+    "id": "158",
+    "name": "Адепт метамагии",
+    "name_en": "Metamagic adept",
+    "source_code": "117",
+    "source": "Tasha's Cauldron of Everything",
+    "url": "https://dnd.su/feats/158-metamagic-adept/",
+    "letter": "TCE",
+    "search_data": "Адепт метамагии,Metamagic adept,"
+  },
+  {
+    "id": "159",
+    "name": "Адепт таинств",
+    "name_en": "Eldritch adept",
+    "source_code": "117",
+    "source": "Tasha's Cauldron of Everything",
+    "url": "https://dnd.su/feats/159-eldritch-adept/",
+    "letter": "TCE",
+    "search_data": "Адепт таинств,Eldritch adept,"
+  },
+  {
+    "id": "160",
+    "name": "Затронутый тенью",
+    "name_en": "Shadow touched",
+    "source_code": "117",
+    "source": "Tasha's Cauldron of Everything",
+    "url": "https://dnd.su/feats/160-shadow-touched/",
+    "letter": "TCE",
+    "search_data": "Затронутый тенью,Shadow touched,"
+  },
+  {
+    "id": "161",
+    "name": "Затронутый феями",
+    "name_en": "Fey touched",
+    "source_code": "117",
+    "source": "Tasha's Cauldron of Everything",
+    "url": "https://dnd.su/feats/161-fey-touched/",
+    "letter": "TCE",
+    "search_data": "Затронутый феями,Fey touched,"
+  },
+  {
+    "id": "162",
+    "name": "Знаток огнестрельного оружия",
+    "name_en": "Gunner",
+    "source_code": "117",
+    "source": "Tasha's Cauldron of Everything",
+    "url": "https://dnd.su/feats/162-gunner/",
+    "letter": "TCE",
+    "search_data": "Знаток огнестрельного оружия,Gunner,"
+  },
+  {
+    "id": "163",
+    "name": "Крушитель",
+    "name_en": "Crusher",
+    "source_code": "117",
+    "source": "Tasha's Cauldron of Everything",
+    "url": "https://dnd.su/feats/163-crusher/",
+    "letter": "TCE",
+    "search_data": "Крушитель,Crusher,"
+  },
+  {
+    "id": "164",
+    "name": "Отравитель",
+    "name_en": "Poisoner",
+    "source_code": "117",
+    "source": "Tasha's Cauldron of Everything",
+    "url": "https://dnd.su/feats/164-poisoner/",
+    "letter": "TCE",
+    "search_data": "Отравитель,Poisoner,"
+  },
+  {
+    "id": "165",
+    "name": "Посвящённый в боевое искусство",
+    "name_en": "Fighting initiate",
+    "source_code": "117",
+    "source": "Tasha's Cauldron of Everything",
+    "url": "https://dnd.su/feats/165-fighting-initiate/",
+    "letter": "TCE",
+    "search_data": "Посвящённый в боевое искусство,Fighting initiate,"
+  },
+  {
+    "id": "166",
+    "name": "Посвящённый в изобретательство",
+    "name_en": "Artificer initiate",
+    "source_code": "117",
+    "source": "Tasha's Cauldron of Everything",
+    "url": "https://dnd.su/feats/166-artificer-initiate/",
+    "letter": "TCE",
+    "search_data": "Посвящённый в изобретательство,Artificer initiate,"
+  },
+  {
+    "id": "167",
+    "name": "Пронзатель",
+    "name_en": "Piercer",
+    "source_code": "117",
+    "source": "Tasha's Cauldron of Everything",
+    "url": "https://dnd.su/feats/167-piercer/",
+    "letter": "TCE",
+    "search_data": "Пронзатель,Piercer,"
+  },
+  {
+    "id": "168",
+    "name": "Рубака",
+    "name_en": "Slasher",
+    "source_code": "117",
+    "source": "Tasha's Cauldron of Everything",
+    "url": "https://dnd.su/feats/168-slasher/",
+    "letter": "TCE",
+    "search_data": "Рубака,Slasher,"
+  },
+  {
+    "id": "169",
+    "name": "Телекинетик",
+    "name_en": "Telekinetic",
+    "source_code": "117",
+    "source": "Tasha's Cauldron of Everything",
+    "url": "https://dnd.su/feats/169-telekinetic/",
+    "letter": "TCE",
+    "search_data": "Телекинетик,Telekinetic,"
+  },
+  {
+    "id": "170",
+    "name": "Телепат",
+    "name_en": "Telepathic",
+    "source_code": "117",
+    "source": "Tasha's Cauldron of Everything",
+    "url": "https://dnd.su/feats/170-telepathic/",
+    "letter": "TCE",
+    "search_data": "Телепат,Telepathic,"
+  },
+  {
+    "id": "171",
+    "name": "Шеф-повар",
+    "name_en": "Chef",
+    "source_code": "117",
+    "source": "Tasha's Cauldron of Everything",
+    "url": "https://dnd.su/feats/171-chef/",
+    "letter": "TCE",
+    "search_data": "Шеф-повар,Chef,"
+  },
+  {
+    "id": "172",
+    "name": "Эксперт в навыке",
+    "name_en": "Skill expert",
+    "source_code": "117",
+    "source": "Tasha's Cauldron of Everything",
+    "url": "https://dnd.su/feats/172-skill-expert/",
+    "letter": "TCE",
+    "search_data": "Эксперт в навыке,Skill expert,"
+  },
+  {
+    "id": "143",
+    "name": "Бездонная удача",
+    "name_en": "Bountiful luck",
+    "source_code": "109",
+    "source": "Xanathar's Guide to Everything",
+    "url": "https://dnd.su/feats/143-bountiful-luck/",
+    "letter": "XGE",
+    "search_data": "Бездонная удача,Bountiful luck,"
+  },
+  {
+    "id": "144",
+    "name": "Второй шанс",
+    "name_en": "Second chance",
+    "source_code": "109",
+    "source": "Xanathar's Guide to Everything",
+    "url": "https://dnd.su/feats/144-second-chance/",
+    "letter": "XGE",
+    "search_data": "Второй шанс,Second chance,"
+  },
+  {
+    "id": "145",
+    "name": "Вундеркинд",
+    "name_en": "Prodigy",
+    "source_code": "109",
+    "source": "Xanathar's Guide to Everything",
+    "url": "https://dnd.su/feats/145-prodigy/",
+    "letter": "XGE",
+    "search_data": "Вундеркинд,Prodigy,"
+  },
+  {
+    "id": "146",
+    "name": "Высшая магия дроу",
+    "name_en": "Drow high magic",
+    "source_code": "109",
+    "source": "Xanathar's Guide to Everything",
+    "url": "https://dnd.su/feats/146-drow-high-magic/",
+    "letter": "XGE",
+    "search_data": "Высшая магия дроу,Drow high magic,"
+  },
+  {
+    "id": "147",
+    "name": "Дварфийская стойкость",
+    "name_en": "Dwarven Fortitude",
+    "source_code": "109",
+    "source": "Xanathar's Guide to Everything",
+    "url": "https://dnd.su/feats/147-dwarven-fortitude/",
+    "letter": "XGE",
+    "search_data": "Дварфийская стойкость,Dwarven Fortitude,"
+  },
+  {
+    "id": "148",
+    "name": "Драконий страх",
+    "name_en": "Dragon fear",
+    "source_code": "109",
+    "source": "Xanathar's Guide to Everything",
+    "url": "https://dnd.su/feats/148-dragon-fear/",
+    "letter": "XGE",
+    "search_data": "Драконий страх,Dragon fear,"
+  },
+  {
+    "id": "149",
+    "name": "Драконья шкура",
+    "name_en": "Dragon hide",
+    "source_code": "109",
+    "source": "Xanathar's Guide to Everything",
+    "url": "https://dnd.su/feats/149-dragon-hide/",
+    "letter": "XGE",
+    "search_data": "Драконья шкура,Dragon hide,"
+  },
+  {
+    "id": "150",
+    "name": "Инфернальное телосложение",
+    "name_en": "Infernal constitution",
+    "source_code": "109",
+    "source": "Xanathar's Guide to Everything",
+    "url": "https://dnd.su/feats/150-infernal-constitution/",
+    "letter": "XGE",
+    "search_data": "Инфернальное телосложение,Infernal constitution,"
+  },
+  {
+    "id": "151",
+    "name": "Исчезновение",
+    "name_en": "Fade away",
+    "source_code": "109",
+    "source": "Xanathar's Guide to Everything",
+    "url": "https://dnd.su/feats/151-fade-away/",
+    "letter": "XGE",
+    "search_data": "Исчезновение,Fade away,"
+  },
+  {
+    "id": "152",
+    "name": "Магия лесных эльфов",
+    "name_en": "Wood elf magic",
+    "source_code": "109",
+    "source": "Xanathar's Guide to Everything",
+    "url": "https://dnd.su/feats/152-wood-elf-magic/",
+    "letter": "XGE",
+    "search_data": "Магия лесных эльфов,Wood elf magic,"
+  },
+  {
+    "id": "153",
+    "name": "Низкорослое проворство",
+    "name_en": "Squat nimbleness",
+    "source_code": "109",
+    "source": "Xanathar's Guide to Everything",
+    "url": "https://dnd.su/feats/153-squat-nimbleness/",
+    "letter": "XGE",
+    "search_data": "Низкорослое проворство,Squat nimbleness,"
+  },
+  {
+    "id": "154",
+    "name": "Орочье буйство",
+    "name_en": "Orcish fury",
+    "source_code": "109",
+    "source": "Xanathar's Guide to Everything",
+    "url": "https://dnd.su/feats/154-orcish-fury/",
+    "letter": "XGE",
+    "search_data": "Орочье буйство,Orcish fury,"
+  },
+  {
+    "id": "155",
+    "name": "Пламя Флегетоса",
+    "name_en": "Flames of Phlegethos",
+    "source_code": "109",
+    "source": "Xanathar's Guide to Everything",
+    "url": "https://dnd.su/feats/155-flames-of-phlegethos/",
+    "letter": "XGE",
+    "search_data": "Пламя Флегетоса,Flames of Phlegethos,"
+  },
+  {
+    "id": "156",
+    "name": "Телепортация фей",
+    "name_en": "Fey teleportation",
+    "source_code": "109",
+    "source": "Xanathar's Guide to Everything",
+    "url": "https://dnd.su/feats/156-fey-teleportation/",
+    "letter": "XGE",
+    "search_data": "Телепортация фей,Fey teleportation,"
+  },
+  {
+    "id": "157",
+    "name": "Эльфийская точность",
+    "name_en": "Elven accuracy",
+    "source_code": "109",
+    "source": "Xanathar's Guide to Everything",
+    "url": "https://dnd.su/feats/157-elven-accuracy/",
+    "letter": "XGE",
+    "search_data": "Эльфийская точность,Elven accuracy,"
+  },
+  {
+    "id": "251",
+    "name": "Адепт Белых одежд",
+    "name_en": "Adept of the White Robes",
+    "source_code": "183",
+    "source": "Dragonlance: Shadow of the Dragon Queen",
+    "url": "https://dnd.su/feats/251-adept-of-the-white-robes/",
+    "letter": "SDQ",
+    "search_data": "Адепт Белых одежд,Adept of the White Robes,"
+  },
+  {
+    "id": "250",
+    "name": "Адепт Красных одежд",
+    "name_en": "Adept of the Red Robes",
+    "source_code": "183",
+    "source": "Dragonlance: Shadow of the Dragon Queen",
+    "url": "https://dnd.su/feats/250-adept-of-the-red-robes/",
+    "letter": "SDQ",
+    "search_data": "Адепт Красных одежд,Adept of the Red Robes,"
+  },
+  {
+    "id": "249",
+    "name": "Адепт Чёрных одежд",
+    "name_en": "Adept of the Black Robes",
+    "source_code": "183",
+    "source": "Dragonlance: Shadow of the Dragon Queen",
+    "url": "https://dnd.su/feats/249-adept-of-the-black-robes/",
+    "letter": "SDQ",
+    "search_data": "Адепт Чёрных одежд,Adept of the Black Robes,"
+  },
+  {
+    "id": "247",
+    "name": "Любимец богов",
+    "name_en": "Divinely Favored",
+    "source_code": "183",
+    "source": "Dragonlance: Shadow of the Dragon Queen",
+    "url": "https://dnd.su/feats/247-divinely-favored/",
+    "letter": "SDQ",
+    "search_data": "Любимец богов,Divinely Favored,"
+  },
+  {
+    "id": "252",
+    "name": "Оруженосец рыцаря Соламнии",
+    "name_en": "Squire of Solamnia",
+    "source_code": "183",
+    "source": "Dragonlance: Shadow of the Dragon Queen",
+    "url": "https://dnd.su/feats/252-squire-of-solamnia/",
+    "letter": "SDQ",
+    "search_data": "Оруженосец рыцаря Соламнии,Squire of Solamnia,"
+  },
+  {
+    "id": "248",
+    "name": "Посвящённый в Высшее волшебство",
+    "name_en": "Initiate of High Sorcery",
+    "source_code": "183",
+    "source": "Dragonlance: Shadow of the Dragon Queen",
+    "url": "https://dnd.su/feats/248-initiate-of-high-sorcery/",
+    "letter": "SDQ",
+    "search_data": "Посвящённый в Высшее волшебство,Initiate of High Sorcery,"
+  },
+  {
+    "id": "253",
+    "name": "Рыцарь Короны",
+    "name_en": "Knight of the Crown",
+    "source_code": "183",
+    "source": "Dragonlance: Shadow of the Dragon Queen",
+    "url": "https://dnd.su/feats/253-knight-of-the-crown/",
+    "letter": "SDQ",
+    "search_data": "Рыцарь Короны,Knight of the Crown,"
+  },
+  {
+    "id": "255",
+    "name": "Рыцарь Меча",
+    "name_en": "Knight of the Sword",
+    "source_code": "183",
+    "source": "Dragonlance: Shadow of the Dragon Queen",
+    "url": "https://dnd.su/feats/255-knight-of-the-sword/",
+    "letter": "SDQ",
+    "search_data": "Рыцарь Меча,Knight of the Sword,"
+  },
+  {
+    "id": "254",
+    "name": "Рыцарь Розы",
+    "name_en": "Knight of the Rose",
+    "source_code": "183",
+    "source": "Dragonlance: Shadow of the Dragon Queen",
+    "url": "https://dnd.su/feats/254-knight-of-the-rose/",
+    "letter": "SDQ",
+    "search_data": "Рыцарь Розы,Knight of the Rose,"
+  },
+  {
+    "id": "179",
+    "name": "Поступивший в Стриксхейвен",
+    "name_en": "Strixhaven initiate",
+    "source_code": "155",
+    "source": "Strixhaven: A Curriculum of Chaos",
+    "url": "https://dnd.su/feats/179-strixhaven-initiate/",
+    "letter": "SCC",
+    "search_data": "Поступивший в Стриксхейвен,Strixhaven initiate,"
+  },
+  {
+    "id": "180",
+    "name": "Талисман Стриксхейвена",
+    "name_en": "Strixhaven Mascot",
+    "source_code": "155",
+    "source": "Strixhaven: A Curriculum of Chaos",
+    "url": "https://dnd.su/feats/180-strixhaven-mascot/",
+    "letter": "SCC",
+    "search_data": "Талисман Стриксхейвена,Strixhaven Mascot,"
+  }
+]

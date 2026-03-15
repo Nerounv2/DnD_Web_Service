@@ -1,0 +1,43 @@
+{
+  "section": "Расы",
+  "total": 150,
+  "sources": {
+    "POA": 2,
+    "VGM": 13,
+    "SAS": 6,
+    "GGR": 5,
+    "AI": 1,
+    "MTF": 1,
+    "PH14": 9,
+    "OGA": 1,
+    "WBW": 2,
+    "RLW": 4,
+    "SDQ": 1,
+    "MOT": 2,
+    "LR": 1,
+    "SCC": 1,
+    "TP": 1,
+    "VRGR": 3,
+    "TCE": 1,
+    "MPMM": 30,
+    "UA, HB": 3,
+    "PS:A, HB": 5,
+    "PS:In, HB": 1,
+    "HB:MHH, HB": 16,
+    "HB:SGEH, HB": 6,
+    "HB": 1,
+    "HB:SC, HB": 3,
+    "HB:HGMH, HB": 8,
+    "HB:MF, HB": 9,
+    "HB:RGYR, HB": 11,
+    "HB:CN, HB": 3
+  },
+  "files": {
+    "list": "data/races/list.json",
+    "details": "data/races/details.json",
+    "summary": "data/races/summary.json",
+    "errors": "data/races/errors.json",
+    "stats": "data/races/stats.json"
+  },
+  "completion_date": "2026-03-16T01:13:33.992643"
+}
