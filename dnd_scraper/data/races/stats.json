@@ -1,6 +1,6 @@
 {
   "section": "Расы",
-  "start_time": "2026-03-16T01:10:26.210813",
+  "start_time": "2026-03-17T00:05:12.508688",
   "total_found": 150,
   "processed": 150,
   "failed": 0,
@@ -36,7 +36,7 @@
     "HB:CN, HB": 3
   },
   "types": {},
-  "last_update": "2026-03-16T01:13:33.992643",
-  "end_time": "2026-03-16T01:13:33.983667",
+  "last_update": "2026-03-17T00:08:16.832578",
+  "end_time": "2026-03-17T00:08:16.823602",
   "completion_reason": "finished"
 }

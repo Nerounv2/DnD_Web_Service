@@ -77,7 +77,7 @@ class ItemsFinalSpider(scrapy.Spider):
                 href = link.attrib.get('href', '')
                 
                 # Название
-                name = link.css('span.list-item-title::text').get()
+                name = link.css('div.list-item-title::text').get()
                 
                 # Тип предмета (из иконки)
                 icon = link.css('span[class*="list-svg__"]')
