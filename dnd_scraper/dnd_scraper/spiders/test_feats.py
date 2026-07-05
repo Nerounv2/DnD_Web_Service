@@ -4,7 +4,7 @@ import re
 from scrapy.http import Request
 
 class UniversalDndSpider(scrapy.Spider):
-    name = "universal_dnd"
+    name = "universal_dnd1"
     
     allowed_domains = ["dnd.su"]
     

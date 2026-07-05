@@ -6,7 +6,7 @@ from datetime import datetime
 from scrapy.http import Request
 
 class UniversalDndSpider(scrapy.Spider):
-    name = "universal_dnd"
+    name = "universal_dnd2"
     
     allowed_domains = ["dnd.su"]
     
