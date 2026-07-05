@@ -1,0 +1,796 @@
+<html lang="ru" class=" ya-page_js_yes"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Артистичный / Черты D&amp;D 5 / Player's Handbook</title>
+	
+    <meta name="description" content="">
+    <meta name="keywords" content="dnd статьи черты,черты, днд статьи черты,черты, d&amp;d статьи черты,черты, dnd 5 статьи черты,черты, днд 5 статьи черты,черты, d&amp;d 5 статьи черты,черты, подземелья и драконы статьи черты,черты, dungeons and dragons статьи черты,черты, dnd статьи черты,черты Артистичный [Actor], днд статьи черты,черты Артистичный [Actor], d&amp;d статьи черты,черты Артистичный [Actor], dnd 5 статьи черты,черты Артистичный [Actor], днд 5 статьи черты,черты Артистичный [Actor], d&amp;d 5 статьи черты,черты Артистичный [Actor], подземелья и драконы статьи черты,черты Артистичный [Actor], dungeons and dragons статьи черты,черты Артистичный [Actor]">
+    <meta property="og:title" content="Артистичный / Черты D&amp;D 5 / Player's Handbook">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://dnd.su/feats/101-actor/">
+    <meta property="og:image" content="https://dnd.su/img/thumbnail.jpg">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	        <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+	
+    <link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon-180x180.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+    <meta name="msapplication-TileImage" content="/img/favicon/ms-icon-144x144.png">
+    <link rel="manifest" href="/img/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="theme-color" content="#000000">
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=cyrillic-ext" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Neucha&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/beta/css/common.min.css?v=3.0.139">
+<link rel="stylesheet" type="text/css" href="/beta/css/print.min.css?v=3.0.139">
+<link rel="stylesheet" type="text/css" href="/ennin/rolltable.css?v=3.0.139">
+<link rel="stylesheet" type="text/css" href="/beta/css/script.typos.min.css?v=3.0.139">
+
+    <meta name="yandex-verification" content="ad850fa96eef28f1">
+
+	    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://mc.yandex.ru/metrika/tag.js"></script><script type="text/javascript" async="" charset="utf-8" src="https://site.yandex.net/v2.0/js/all.js"></script><script async="" src="https://mc.yandex.ru/metrika/tag.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-P6QSMG73H5"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-P6QSMG73H5');
+    </script><style type="text/css" id="operaUserStyle"></style>
+<!-- Yandex.Metrika counter --> <script type="text/javascript"> (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(42419409, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/42419409" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+<style type="text/css">.cdx-notify--error{background:#fffbfb!important}.cdx-notify--error::before{background:#fb5d5d!important}.cdx-notify__input{max-width:130px;padding:5px 10px;background:#f7f7f7;border:0;border-radius:3px;font-size:13px;color:#656b7c;outline:0}.cdx-notify__input:-ms-input-placeholder{color:#656b7c}.cdx-notify__input::placeholder{color:#656b7c}.cdx-notify__input:focus:-ms-input-placeholder{color:rgba(101,107,124,.3)}.cdx-notify__input:focus::placeholder{color:rgba(101,107,124,.3)}.cdx-notify__button{border:none;border-radius:3px;font-size:13px;padding:5px 10px;cursor:pointer}.cdx-notify__button:last-child{margin-left:10px}.cdx-notify__button--cancel{background:#f2f5f7;box-shadow:0 2px 1px 0 rgba(16,19,29,0);color:#656b7c}.cdx-notify__button--cancel:hover{background:#eee}.cdx-notify__button--confirm{background:#34c992;box-shadow:0 1px 1px 0 rgba(18,49,35,.05);color:#fff}.cdx-notify__button--confirm:hover{background:#33b082}.cdx-notify__btns-wrapper{display:-ms-flexbox;display:flex;-ms-flex-flow:row nowrap;flex-flow:row nowrap;margin-top:5px}.cdx-notify__cross{position:absolute;top:5px;right:5px;width:10px;height:10px;padding:5px;opacity:.54;cursor:pointer}.cdx-notify__cross::after,.cdx-notify__cross::before{content:'';position:absolute;left:9px;top:5px;height:12px;width:2px;background:#575d67}.cdx-notify__cross::before{transform:rotate(-45deg)}.cdx-notify__cross::after{transform:rotate(45deg)}.cdx-notify__cross:hover{opacity:1}.cdx-notifies{position:fixed;z-index:2;bottom:20px;left:20px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif}.cdx-notify{position:relative;width:220px;margin-top:15px;padding:13px 16px;background:#fff;box-shadow:0 11px 17px 0 rgba(23,32,61,.13);border-radius:5px;font-size:14px;line-height:1.4em;word-wrap:break-word}.cdx-notify::before{content:'';position:absolute;display:block;top:0;left:0;width:3px;height:calc(100% - 6px);margin:3px;border-radius:5px;background:0 0}@keyframes bounceIn{0%{opacity:0;transform:scale(.3)}50%{opacity:1;transform:scale(1.05)}70%{transform:scale(.9)}100%{transform:scale(1)}}.cdx-notify--bounce-in{animation-name:bounceIn;animation-duration:.6s;animation-iteration-count:1}.cdx-notify--success{background:#fafffe!important}.cdx-notify--success::before{background:#41ffb1!important}</style><style>.ce-paragraph{line-height:1.6em;outline:none}.ce-paragraph[data-placeholder]:empty:before{content:attr(data-placeholder);color:#707684;font-weight:400;opacity:0}.codex-editor--empty .ce-block:first-child .ce-paragraph[data-placeholder]:empty:before{opacity:1}.codex-editor--toolbox-opened .ce-block:first-child .ce-paragraph[data-placeholder]:empty:before,.codex-editor--empty .ce-block:first-child .ce-paragraph[data-placeholder]:empty:focus:before{opacity:0}.ce-paragraph p:first-of-type{margin-top:0}.ce-paragraph p:last-of-type{margin-bottom:0}</style><style>.cdx-quote-icon svg{transform:rotate(180deg)}.cdx-quote{margin:0}.cdx-quote__text{min-height:158px;margin-bottom:10px}.cdx-quote [contentEditable=true][data-placeholder]:before{position:absolute;content:attr(data-placeholder);color:#707684;font-weight:400;opacity:0}.cdx-quote [contentEditable=true][data-placeholder]:empty:before{opacity:1}.cdx-quote [contentEditable=true][data-placeholder]:empty:focus:before{opacity:0}.cdx-quote-settings{display:flex}.cdx-quote-settings .cdx-settings-button{width:50%}</style><style>.cdx-nested-list{margin:0;padding:0;outline:none;counter-reset:item;list-style:none}.cdx-nested-list__item{line-height:1.6em;display:flex;margin:2px 0}.cdx-nested-list__item [contenteditable]{outline:none}.cdx-nested-list__item-body{flex-grow:2}.cdx-nested-list__item-content,.cdx-nested-list__item-children{flex-basis:100%}.cdx-nested-list__item-content{word-break:break-word;white-space:pre-wrap}.cdx-nested-list__item:before{counter-increment:item;margin-right:5px;white-space:nowrap}.cdx-nested-list--ordered>.cdx-nested-list__item:before{content:counters(item,".") ". "}.cdx-nested-list--unordered>.cdx-nested-list__item:before{content:"•"}.cdx-nested-list__settings{display:flex}.cdx-nested-list__settings .cdx-settings-button{width:50%}</style><style>.ce-rawtool__textarea{min-height:200px;resize:vertical;border-radius:8px;border:0;background-color:#1e2128;font-family:Menlo,Monaco,Consolas,Courier New,monospace;font-size:12px;line-height:1.6;letter-spacing:-.2px;color:#a1a7b6;overscroll-behavior:contain}</style><style>.tc-wrap{--color-background:#f9f9fb;--color-text-secondary:#7b7e89;--color-border:#e8e8eb;--cell-size:34px;--toolbox-icon-size:18px;--toolbox-padding:6px;--toolbox-aiming-field-size:calc(var(--toolbox-icon-size) + var(--toolbox-padding)*2);border-left:0;position:relative;height:100%;width:100%;margin-top:var(--toolbox-icon-size);box-sizing:border-box;display:grid;grid-template-columns:calc(100% - var(--cell-size)) var(--cell-size)}.tc-wrap--readonly{grid-template-columns:100% var(--cell-size)}.tc-wrap svg{vertical-align:top}@media print{.tc-wrap{border-left-color:var(--color-border);border-left-style:solid;border-left-width:1px;grid-template-columns:100% var(--cell-size)}}@media print{.tc-wrap .tc-row:after{display:none}}.tc-table{position:relative;width:100%;height:100%;display:grid;font-size:14px;border-top:1px solid var(--color-border);line-height:1.4}.tc-table:after{width:calc(var(--cell-size));height:100%;left:calc(var(--cell-size)*-1);top:0}.tc-table:after,.tc-table:before{position:absolute;content:""}.tc-table:before{width:100%;height:var(--toolbox-aiming-field-size);top:calc(var(--toolbox-aiming-field-size)*-1);left:0}.tc-table--heading .tc-row:first-child{font-weight:600;border-bottom:2px solid var(--color-border)}.tc-table--heading .tc-row:first-child [contenteditable]:empty:before{content:attr(heading);color:var(--color-text-secondary)}.tc-table--heading .tc-row:first-child:after{bottom:-2px;border-bottom:2px solid var(--color-border)}.tc-add-column,.tc-add-row{display:flex;color:var(--color-text-secondary)}@media print{.tc-add{display:none}}.tc-add-column{padding:4px 0;justify-content:center;border-top:1px solid var(--color-border)}@media print{.tc-add-column{display:none}}.tc-add-row{height:var(--cell-size);align-items:center;padding-left:4px;position:relative}.tc-add-row:before{content:"";position:absolute;right:calc(var(--cell-size)*-1);width:var(--cell-size);height:100%}@media print{.tc-add-row{display:none}}.tc-add-column,.tc-add-row{transition:0s;cursor:pointer;will-change:background-color}.tc-add-column:hover,.tc-add-row:hover{transition:background-color .1s ease;background-color:var(--color-background)}.tc-add-row{margin-top:1px}.tc-add-row:hover:before{transition:.1s;background-color:var(--color-background)}.tc-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(10px,1fr));position:relative;border-bottom:1px solid var(--color-border)}.tc-row:after{content:"";pointer-events:none;position:absolute;width:var(--cell-size);height:100%;bottom:-1px;right:calc(var(--cell-size)*-1);border-bottom:1px solid var(--color-border)}.tc-row--selected{background:var(--color-background)}.tc-row--selected:after{background:var(--color-background)}.tc-cell{border-right:1px solid var(--color-border);padding:6px 12px;overflow:hidden;outline:none;line-break:normal}.tc-cell--selected{background:var(--color-background)}.tc-wrap--readonly .tc-row:after{display:none}.tc-toolbox{--toolbox-padding:6px;--popover-margin:30px;--toggler-click-zone-size:30px;--toggler-dots-color:#7b7e89;--toggler-dots-color-hovered:#1d202b;position:absolute;cursor:pointer;z-index:1;opacity:0;transition:opacity .1s;will-change:left,opacity}.tc-toolbox--column{top:calc(var(--toggler-click-zone-size)*-1);transform:translate(calc(var(--toggler-click-zone-size)*-1/2));will-change:left,opacity}.tc-toolbox--row{left:calc(var(--popover-margin)*-1);transform:translateY(calc(var(--toggler-click-zone-size)*-1/2));margin-top:-1px;will-change:top,opacity}.tc-toolbox--showed{opacity:1}.tc-toolbox .tc-popover{position:absolute;top:0;left:var(--popover-margin)}.tc-toolbox__toggler{display:flex;align-items:center;justify-content:center;width:var(--toggler-click-zone-size);height:var(--toggler-click-zone-size);color:var(--toggler-dots-color);opacity:0;transition:opacity .15s ease;will-change:opacity}.tc-toolbox__toggler:hover{color:var(--toggler-dots-color-hovered)}.tc-toolbox__toggler svg{fill:currentColor}.tc-wrap:hover .tc-toolbox__toggler{opacity:1}.tc-settings .cdx-settings-button{width:50%;margin:0}.tc-popover{--color-border:#eaeaea;--color-background:#fff;--color-background-hover:rgba(232,232,235,.49);--color-background-confirm:#e24a4a;--color-background-confirm-hover:#d54040;--color-text-confirm:#fff;background:var(--color-background);border:1px solid var(--color-border);box-shadow:0 3px 15px -3px #0d142121;border-radius:6px;padding:6px;display:none;will-change:opacity,transform}.tc-popover--opened{display:block;animation:menuShowing .1s cubic-bezier(.215,.61,.355,1) forwards}.tc-popover__item{display:flex;align-items:center;padding:2px 14px 2px 2px;border-radius:5px;cursor:pointer;white-space:nowrap;-webkit-user-select:none;-moz-user-select:none;user-select:none}.tc-popover__item:hover{background:var(--color-background-hover)}.tc-popover__item:not(:last-of-type){margin-bottom:2px}.tc-popover__item-icon{display:inline-flex;width:26px;height:26px;align-items:center;justify-content:center;background:var(--color-background);border-radius:5px;border:1px solid var(--color-border);margin-right:8px}.tc-popover__item-label{line-height:22px;font-size:14px;font-weight:500}.tc-popover__item--confirm{background:var(--color-background-confirm);color:var(--color-text-confirm)}.tc-popover__item--confirm:hover{background-color:var(--color-background-confirm-hover)}.tc-popover__item--confirm .tc-popover__item-icon{background:var(--color-background-confirm);border-color:#0000001a}.tc-popover__item--confirm .tc-popover__item-icon svg{transition:transform .2s ease-in;transform:rotate(90deg) scale(1.2)}.tc-popover__item--hidden{display:none}@keyframes menuShowing{0%{opacity:0;transform:translateY(-8px) scale(.9)}70%{opacity:1;transform:translateY(2px)}to{transform:translateY(0)}}</style><style>.ce-tune-alignment--right {
+    text-align: right;
+}
+.ce-tune-alignment--center {
+    text-align: center;
+}
+.ce-tune-alignment--left {
+    text-align: left;
+}</style><style>.ce-link-autocomplete__icon-wrapper svg {
+        display: block;
+    }
+    .ce-link-autocomplete__actions-wrapper {
+        border-top: 1px solid #E8E8EB;
+        width: 200px;
+    }
+    .ce-link-autocomplete__field {
+        position: relative;
+    }
+    .ce-link-autocomplete__field-input {
+            width: calc(100% - 12px);
+            margin: 6px;
+            padding: 7px 10px;
+            border-radius: 5px;
+            border: solid 1px #E8E8EB;
+            background-color: rgba(232, 232, 235, 0.49);
+            outline: none;
+            -webkit-appearance: none;
+            box-sizing: border-box;
+            font-size: 14px;
+            font-weight: 500;
+            letter-spacing: -0.15px;
+            font-family: inherit;
+        }
+    .ce-link-autocomplete__field-input::placeholder {
+                color: #7B7E89;
+            }
+    /**
+         * Loader created in DOM but hidden bu default
+         */
+    .ce-link-autocomplete__field::after {
+
+            content: '';
+            position: absolute;
+            right: 16px;
+            top: 50%;
+            margin-top: calc(14px / 2 * -1);
+
+            width: 14px;
+            height: 14px;
+            border: 2px solid rgba(29, 32, 43, 0.3);
+            border-top: 2px solid transparent;
+            border-radius: 50%;
+            opacity: 0;
+            will-change: transform, opacity;
+            box-sizing: border-box;
+        }
+    .ce-link-autocomplete__field--loading::after {
+            animation: ce-link-autocomplete__spin 1s linear infinite;
+            opacity: 1;
+        }
+    .ce-link-autocomplete__items {
+        margin: 0 6px;
+    }
+    .ce-link-autocomplete__search-item {
+        outline: none;
+        border: 0;
+        border-radius: 5px;
+        font-size: 14px;
+        padding: 7px 10px;
+        margin-bottom: 6px;
+        box-sizing: border-box;
+        cursor: pointer;
+    }
+    .ce-link-autocomplete__search-item:not(:last-of-type) {
+        }
+    .ce-link-autocomplete__search-item:hover, .ce-link-autocomplete__search-item--selected {
+            background-color: rgba(232, 232, 235, 0.49);
+        }
+    .ce-link-autocomplete__search-item-name {
+            font-size: 14px;
+            line-height: 16px;
+
+            overflow:hidden;
+            white-space:nowrap;
+            text-overflow: ellipsis;
+        }
+    .ce-link-autocomplete__search-item-description {
+            color: #7b7e89;
+
+            font-size: 12px;
+            line-height: 16px;
+            margin-top: 1px;
+
+            overflow:hidden;
+            white-space:nowrap;
+            text-overflow: ellipsis;
+        }
+    .ce-link-autocomplete__hidden {
+        display: none;
+    }
+    .ce-link-autocomplete__link-data-wrapper {
+            width: 200px;
+            outline: none;
+            border: 0;
+            border-radius: 4px;
+            font-size: 13px;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+    .ce-link-autocomplete__link-data-title-wrapper {
+            margin-bottom: 10px;
+        }
+    .ce-link-autocomplete__link-data-name {
+            font-size: 14px;
+            line-height: 16px;
+
+            overflow:hidden;
+            white-space:nowrap;
+            text-overflow: ellipsis;
+        }
+    .ce-link-autocomplete__link-data-description {
+            color: #7b7e89;
+
+            font-size: 12px;
+            line-height: 16px;
+            margin-top: 1px;
+
+            overflow:hidden;
+            white-space:nowrap;
+            text-overflow: ellipsis;
+        }
+    .ce-link-autocomplete__link-data-url {
+            display: block;
+
+            overflow:hidden;
+            white-space:nowrap;
+            text-overflow: ellipsis;
+        }
+
+@keyframes ce-link-autocomplete__spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+</style><style type="text/css">.cdx-notify--error{background:#fffbfb!important}.cdx-notify--error::before{background:#fb5d5d!important}.cdx-notify__input{max-width:130px;padding:5px 10px;background:#f7f7f7;border:0;border-radius:3px;font-size:13px;color:#656b7c;outline:0}.cdx-notify__input:-ms-input-placeholder{color:#656b7c}.cdx-notify__input::placeholder{color:#656b7c}.cdx-notify__input:focus:-ms-input-placeholder{color:rgba(101,107,124,.3)}.cdx-notify__input:focus::placeholder{color:rgba(101,107,124,.3)}.cdx-notify__button{border:none;border-radius:3px;font-size:13px;padding:5px 10px;cursor:pointer}.cdx-notify__button:last-child{margin-left:10px}.cdx-notify__button--cancel{background:#f2f5f7;box-shadow:0 2px 1px 0 rgba(16,19,29,0);color:#656b7c}.cdx-notify__button--cancel:hover{background:#eee}.cdx-notify__button--confirm{background:#34c992;box-shadow:0 1px 1px 0 rgba(18,49,35,.05);color:#fff}.cdx-notify__button--confirm:hover{background:#33b082}.cdx-notify__btns-wrapper{display:-ms-flexbox;display:flex;-ms-flex-flow:row nowrap;flex-flow:row nowrap;margin-top:5px}.cdx-notify__cross{position:absolute;top:5px;right:5px;width:10px;height:10px;padding:5px;opacity:.54;cursor:pointer}.cdx-notify__cross::after,.cdx-notify__cross::before{content:'';position:absolute;left:9px;top:5px;height:12px;width:2px;background:#575d67}.cdx-notify__cross::before{transform:rotate(-45deg)}.cdx-notify__cross::after{transform:rotate(45deg)}.cdx-notify__cross:hover{opacity:1}.cdx-notifies{position:fixed;z-index:2;bottom:20px;left:20px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif}.cdx-notify{position:relative;width:220px;margin-top:15px;padding:13px 16px;background:#fff;box-shadow:0 11px 17px 0 rgba(23,32,61,.13);border-radius:5px;font-size:14px;line-height:1.4em;word-wrap:break-word}.cdx-notify::before{content:'';position:absolute;display:block;top:0;left:0;width:3px;height:calc(100% - 6px);margin:3px;border-radius:5px;background:0 0}@keyframes bounceIn{0%{opacity:0;transform:scale(.3)}50%{opacity:1;transform:scale(1.05)}70%{transform:scale(.9)}100%{transform:scale(1)}}.cdx-notify--bounce-in{animation-name:bounceIn;animation-duration:.6s;animation-iteration-count:1}.cdx-notify--success{background:#fafffe!important}.cdx-notify--success::before{background:#41ffb1!important}</style><style type="text/css">#ya-site-form0,#ya-site-form0 .ya-site-form__form,#ya-site-form0 .ya-site-form__input,#ya-site-form0 .ya-site-form__input-text,#ya-site-form0 .ya-site-form__search-precise,#ya-site-form0 .ya-site-form__submit{font-size:12px!important;color:#000!important}#ya-site-form0 .ya-site-form__form-form{display:block;margin:0;padding:0}#ya-site-form0 .ya-site-form__input{margin:0;padding:0}#ya-site-form0 .ya-site-form__search-precise{margin:0}#ya-site-form0 .ya-site-form__search-precise__radio{padding:0}#ya-site-form0 .ya-site-form__gap,#ya-site-form0 .ya-site-form__gap-i,#ya-site-form0 .ya-site-form__logo-img{margin:0;padding:0}#ya-site-form0{margin:0!important;padding:0!important}#ya-site-form0 .ya-site-form__logo-wrap{width:65px;vertical-align:top;border-collapse:collapse}#ya-site-form0 .ya-site-form__logo{display:block;width:52px;margin:0;padding:0 6px 0 0;text-decoration:none}#ya-site-form0 .ya-site-form__logo-img{width:52px;height:21px;border:0!important}#ya-site-form0 .ya-site-form__search-wrap{border-collapse:collapse}#ya-site-form0 .ya-site-form__search{font-size:12px!important;width:100%}#ya-site-form0 .ya-site-form__search-input{padding:6px}#ya-site-form0 .ya-site-form__search-input-layout,#ya-site-form0 .ya-site-form__search-input-layout-l,#ya-site-form0 .ya-site-form__search-input-layout-r{font-size:12px!important;padding:0;vertical-align:middle;border:0;border-collapse:collapse}#ya-site-form0 .ya-site-form__search-input-layout,#ya-site-form0 .ya-site-form__search-input-layout-l{width:100%}#ya-site-form0 .ya-site-form__search-precise{padding:0 18px 5px 6px;text-align:left;vertical-align:top}#ya-site-form0 .ya-site-form__search-precise-i{white-space:nowrap}#ya-site-form0 .ya-site-form__search-precise__radio{width:auto;margin:0 .3em 0 0;vertical-align:middle;background:0 0}#ya-site-form0 .ya-site-form__search-precise__label{margin:0 .4em 0 0;padding:0;vertical-align:middle}#ya-site-form0 .ya-site-form__input-text{width:100%;margin:0!important;cursor:text;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:#fff;border:1px solid #7f9db9;outline-style:none;-webkit-appearance:textfield}#ya-site-form0 .ya-site-form__input-text_type_hint{background-repeat:no-repeat;background-position:.2em 50%}#ya-site-form0 .ya-site-form__submit{display:block;width:auto;margin:0 0 0 5px}#ya-site-form0 .ya-site-form__arrow-wrap{overflow:hidden;width:30px;padding:0;vertical-align:middle}#ya-site-form0 .ya-site-form__arrow{position:relative}#ya-site-form0 .ya-site-form__arrow-a{position:absolute;top:50%;right:0;width:0;height:0;margin-top:-59px;border:solid transparent;border-width:59px 0 59px 30px;-moz-border-end-style:dotted}#ya-site-form0 .ya-site-form__wrap{width:100%;table-layout:fixed;border-collapse:collapse}#ya-site-form0 .ya-site-form__gap{border:0}#ya-site-form0 .ya-site-form__gap-i{width:9em}#ya-site-form0.ya-site-form_arrow_yes .ya-site-form__search-input{padding-right:0}#ya-site-form0.ya-site-form_logo_left .ya-site-form__logo{margin-top:4px;margin-left:5px}#ya-site-form0.ya-site-form_logo_top .ya-site-form__logo{display:block;margin:6px 0 0 6px}#ya-site-form0 .ya-site-form__submit_type_image{width:19px;height:15px;outline:0;cursor:pointer;border:0}#ya-site-form0 .ya-site-form__submit_type_image { background: url(https://site.yandex.net/v2.0/i/search.png) no-repeat }#ya-site-form0 .ya-site-form__form * { font-size: 14px !important }#ya-site-form0 .ya-site-form__search, #ya-site-form0 .ya-site-form__search td, #ya-site-form0 .yaform__precise-i { background-color: transparent !important }#ya-site-form0 .ya-site-form__search-precise__label { color:#000000 !important }#ya-site-form0 .ya-site-form__arrow-a { border-left-color: transparent }</style><link title="Поиск по сайту DnD.su" rel="search" type="application/opensearchdescription+xml" href="https://yandex.ru/search/site/opensearch.xml?ShortName=%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%20%D0%BF%D0%BE%20%D1%81%D0%B0%D0%B9%D1%82%D1%83%20DnD.su&amp;InputEncoding=utf-8&amp;Image=&amp;Url-results=%2Fsearch%2F%3Fsearchid%3D2294916%26web%3D0%26text%3D%7BsearchTerms%7D&amp;Url-suggest=https%3A%2F%2Fsitesearch-suggest.yandex.ru%2Fv1%2Fsuggest%3F%26site%3D2294916%26lang%3Dru%26part%3D%7BsearchTerms%7D&amp;Url-opensearchdescr=https%3A%2F%2Fyandex.ru%2Fsearch%2Fsite%2Fopensearch.xml%3FShortName%3D%25D0%259F%25D0%25BE%25D0%25B8%25D1%2581%25D0%25BA%2520%25D0%25BF%25D0%25BE%2520%25D1%2581%25D0%25B0%25D0%25B9%25D1%2582%25D1%2583%2520DnD.su%26InputEncoding%3Dutf-8%26Image%3D%26Url-results%3D%252Fsearch%252F%253Fsearchid%253D2294916%2526web%253D0%2526text%253D%257BsearchTerms%257D%26Url-suggest%3Dhttps%253A%252F%252Fsitesearch-suggest.yandex.ru%252Fv1%252Fsuggest%253F%2526site%253D2294916%2526lang%253Dru%2526part%253D%257BsearchTerms%257D"><style type="text/css">:root [href="https://adstub.net/gaza88/"], :root [href="https://adstub.net/cina777/"], :root [href="https://adstub.net/arab777/"], :root [href="https://adstub.net/indo666/"], :root [href="https://adstub.net/rusia777/"], :root [href^="//mage98rquewz.com/"], :root img[style*="//counter.yadro.ru/"], :root img[src^="/stat/"][width="88"][height="31"], :root img[src*="top.mail.ru/counter?"], :root img[src*="cycounter"][width="88"][height="31"], :root img[src*="://r.i.ua/"], :root img[src*="://c.bigmir.net/"], :root a[href^="http://hitcounter.ru/top/stat.php"], :root a[href^="http://click.hotlog.ru/"], :root a[href*="/rating/"] > img[width="88"][height="31"], :root a#mobtop[title^="Рейтинг мобильных сайтов"], :root [title="uWeb Counter"], :root [title="uCoz Counter"], :root .min-width-normal > #popup_container ~ #fade, :root .min-width-normal > #popup_container, :root body > div[class^="_"][class*=" _"][class$="_stBig"], :root body > div[style="position: fixed; z-index: 999999; width: 400px; height: 308px; right: 5px; bottom: 5px;"], :root .flex-promo-series > .left-col > :not(#players):not(.serial-series-info), :root a[href*="://news.mirtesen.ru/newdata/"], :root .app.blog-post-page #blog-post-item-video-ad, :root #root > .app .sportrecs, :root #root > .app #very-right-column, :root body.has-brand .b-content__main > div[style^="height: 250px; overflow: hidden;"], :root body.has-brand .b-content__main > div[id]:not([class]):empty, :root body.has-brand .b-content__main .b-player a[href*="aHR0c"], :root div[style="width: 252px; height: 450px; position: fixed; right: 0px; top: 0px; overflow: hidden; z-index: 10000;"], :root thetruestory-widget-top, :root object[data^="blob"], :root img[width="160"][height="600"], :root iframe[src*="trafic-media.ru"], :root iframe[src*="hd.gg33.top/"], :root iframe[src*="fwdcdn.com/frame/partners/"], :root iframe[src*="ads.exosrv.com"], :root iframe[src*="://vidroll.ru/"], :root iframe[src*="://promo-bc.com/"], :root iframe[src*="://partner-widget.vsesdal.com/"], :root iframe[src*="://mark-media.com.ua"], :root iframe[src*="://ab.adpro.com.ua/"], :root iframe[src*="/mixadv_"], :root iframe[src*="/carta.ua/ajax/widget."], :root iframe[src*="/3647.tech"], :root iframe[id^="republer"], :root iframe[data-src*="fwdcdn.com/frame/partners/"], :root div[id^="yandex_rtb"], :root div[id^="trafmag_"], :root div[id^="tizerws_"], :root div[id^="rtn4p"], :root div[id^="republer_"], :root div[id^="news_nest_net_ru"], :root div[id^="news_nest_msk_ru"], :root div[id^="news_2xclick_ru_"], :root div[id^="join_informer_"], :root div[id^="itizergroup_"], :root div[id^="infox_"], :root div[id^="gnezdo_ru_"], :root div[id^="cpa_rotator_block"], :root div[id^="beroll_rotator"], :root div[id^="b_tz_"], :root div[id^="admixer_"], :root div[id^="admixer-"], :root div[id^="DIV_DA_"], :root img[onclick*="clustrmaps.com/counter/"], :root div[id*="Teaser_Block"], :root div[data-server-rendered="true"] > div[id^="la-"], :root div[data-adv-type="dfp"], :root iframe[src^="https://a.adtng.com/"], :root div[class^="da-ya-widget"], :root div[class^="da-widget-"], :root div[class^="block_fortress"], :root div[class^="bidvol-widget-"], :root div[class^="adfinity_block_"], :root div[class*="td-a-rec-id-"], :root #root > .app .partner-block-wrapper, :root div[class*="spklw"][data-type="ad"], :root a[onclick*="trtkp.ru"], :root a[onclick*="https://dzen.ru/news/?favid="], :root iframe[src*="litres.ru/static/widgets"], :root a[href^="https://www.juicer.io?referrer="], :root a[href^="https://wcm-ru.frontend.weborama.fr/fcgi-bin/dispatch.fcgi?"], :root a[href^="https://relap.io/"][href*="promo_ad_link"], :root a[href^="https://msetup.pro"], :root a[href^="https://bongacams"][href*="com/track?"], :root a[href^="http://trafmaster.com"], :root a[href^="http://traderstart.mirtesen.ru"], :root a[href^="http://tds-2.ru"], :root a[href^="http://glprt.ru/affiliate/"], :root a[href^="http://datxxx.com"], :root a[href^="http://browserload.info/"], :root a[href^="http://amigodistr.ru/"], :root img[data-src="https://catalog.orbita.co.il/orbita.gif"], :root a[href^="/images/obmen/"][href$=".php"][target="_blank"], :root a[href^="/go/ufiler?"], :root a[href^="/go/ubar?"], :root a[href="http://advert.mirtesen.ru/"], :root a[href*="zdravo-med.ru"], :root a[href*="xxxrevpushclcdu.com"], :root a[href*="ultrabit.ws"], :root a[href*="tvks.ru"], :root a[href*="trklp.ru"], :root a[href*="traflabs.xyz"], :root div[id^="CGCandy"], :root a[href*="tptrk.ru"], :root a[href*="top.24smi.info"], :root a[href*="thor-media.ru/click/"], :root a[href*="shakespoint.com"], :root a[href*="bgrndi.com"], :root a[href*="shakesin.com"], :root a[href*="shakescash.com"], :root a[href^="https://homyanus.com"], :root a[href*="://profiledbase.com/"], :root a[href*="please-direct.me"], :root a[href*="please-direct.com"], :root a[href*="://landingtracker.com/"], :root [data-link*="//ufiler-pro2.ru"], :root a[href*="offhealth.ru"], :root a[href*="lifebloggersz.ru"], :root a[href*="navaxudoru.com"], :root a[href*="makegreat.website"], :root a[href*="m1cpl.ru"], :root #root > .app .adfox-top, :root a[href*="joycasino.com/?partner="], :root a[href*="idealmedia.io"], :root span[data-ez-ph-id], :root a[href*="gpclick.ru"], :root a[href*="gocdn.ru"], :root a[href*="//softboxik1.ru/"], :root a[href*="flylinks.pw"], :root [data-la-block-show-id], :root a[href*="films.ws"], :root .section-subheader > .section-hotel-prices-header, :root a[href*="feellights.ru"], :root a[href*="cpl11.ru"], :root a[href*="://parandaya.com"], :root a[href*="cosmolot.me/"][href*="banner"], :root a[href*="cmsmodnews.com"], :root a[href*="ads2-adnow.com"], :root a[href*="://ya-cdn.ru/r/"], :root a[href*="://www.meendoru.net/?partner="], :root a[href*="://womens-journal.ru/"], :root a[href*="://vse-sdal.com/promo/"], :root [id^="ad-wrap-"], :root a[href^="https://go.tmrjmp.com"], :root a[href*="://ufiler-pro.ru/"], :root topadblock, :root a[href*="://tracker.partnersmelbet.ru/"], :root a[href*="://topclicks.club/"], :root a[href*="://tlmnt"][href*="/tracker/?partner="], :root a[title="TopTracker.Ru - Рейтинг трекеров."], :root a[href*="://clickstats.fun/"], :root a[href*="://techdmn.com/"], :root [onclick*="traffic-media.co"], :root a[href^="https://tracker.loropartners.com/"], :root a[href*="://tatarkoresh.ru"], :root .flex-promo-series > .right-col a[href][target="_blank"], :root [class^="fpm_"][class*="_crss"], :root a[href*="://superiortds.ru/"], :root a[href*="://sugisatomi.com/"], :root div[data-dfp-id], :root a[href*="://shusnarmuk.com/"], :root a[href*="://segodnia.club/"], :root [data-cl-spot-id], :root [href*="driverpack.io/"], :root a[href*="cpagetti1.com"], :root a[href*="://search-cdn.ru/r/"], :root a[href*="://ruprivate.club/"], :root a[href^="https://kshop"][href*=".com/"], :root a[href*="://ruonline.bar/"], :root a[href^="http://eaplay.ru/"], :root amp-connatix-player, :root a[href*="://riaccaw.com/"], :root [href^="https://join.playboyplus.com/track/"], :root a[href*="://hypmag.ru/search/pereh.php"], :root a[href*="://reidancis.com/"], :root a[href*=".cfm?domain="][href*="&fp="], :root a[href*="://ya-browser.ru/r/"], :root a[href*="://refpamjeql.top/"], :root [data-mobile-ad-id], :root a[href*="://ref.studwork.ru/"], :root a[href*="://r.advg.agency/"], :root a[href*="/onvix.tv/promo/"][target=_blank], :root a[href*="://premiumredir.ru/"], :root a[href*="://lobar.site/r/"], :root .trc_related_container div[data-item-syndicated="true"], :root div[id^="advertur_"], :root a[href*="://lapina.xyz/"], :root a[href*="://lapina.best/"], :root a[href*="/rlink/simptizer/"], :root a[href*="://gopremiumsoft.com/"], :root a[href*="://go.progfile.space/r/"], :root a[href*="://go.bundlebyte.net/r/"], :root div[data-ad-region], :root a[href*="shakesclick.com"], :root a[href*="://go.btraffic.net/"], :root a[href*="://getbrauzer.ru/"], :root a[href*="://newbrowserme.ru/"], :root a[href*="://gertadv.ru/"], :root a[href*="torrentum.ru"], :root a[href*="://filesmytop.ru/"], :root [href^="https://www.mypillow.com/"] > img, :root a[href*="://fast2click.ru/"], :root a[href*="tvkw.ru"], :root a[href*="://etcodes.com/"], :root a[href*="://et-cod.com/"], :root a[href^="https://go.xxxjmp.com"], :root a[href*="://elgrur.com/"], :root a[href*="://doxod24.online/"], :root [href="https://adstub.net/judi89/"], :root a[href*="://clickrpk.com/"], :root a[href*="://bubblevard.com/"], :root a[href*="://bs.serving-sys.ru/"], :root a[href^="http://com-1.pro/"], :root a[href^="https://www.effectiveratecpm.com/"], :root a[href*="://betahit.click/"], :root div[id^="adfox_"], :root a[href*="://bestnewsoft.ru/"], :root a[href*="://analyticsq.com"], :root a[href*="//universalin.info/"], :root a[href*="kodielinktrust.ru"], :root iframe[src*="://rstbtmd.com/"], :root a[href*="://101partners-stat2.com/"], :root .nya-slot[style], :root a[href*="://vpnbrowser.ru/"], :root a[href*="/uni-lnk.com/"], :root a[href*="://getyoursoft.ru/"], :root a[href*="/sb/clk/"], :root a[href*="/rapidtor.site"], :root a[href*="://extlinka.ru/"], :root a[href*="/rapidtor.ru"], :root a[href*="/onvix.me/promo/"][target=_blank], :root a[href^="https://streamate.com/landing/click/"], :root a[href*="/newbrowser.club/"], :root a[href^="https://www.adultempire.com/"][href*="?partner_id="], :root a[href*="/myuniversalnk.net/"], :root a[href*="/myuniversalnk.com/"], :root a[href*="/mosday.ru/ad/"], :root a[href*="/loaderu.ru/"], :root a[href^="https://prime.rambler.ru/promo/"], :root a[href^="//s.zlinkd.com/"], :root a[href*="/installpack.net"], :root a[href*="/go.1k3.net/"], :root object[data*="ads.com/clk.swf"], :root a[href*="/eversaree.bid"], :root a[href*="/afftraf.co/"], :root a[href*="://yadistr.ru/"], :root a[href*="//yojlf.com"], :root a[href*="://installpack.ru"], :root a[href*="//viruniversal.com/"], :root [class^="flat_"][class*="_crss"], :root a[href*="netcrys.com"], :root a[href^="https://postback1win.com/"], :root a[href*="//utimg.ru/"], :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"], :root a[href*="//universalut.info/"], :root a[href*="//universalini.info/"], :root a[href*="//ubar.pro"], :root a[href*="//ubar-pro"], :root a[href*="://matchnow.info"], :root a[href*="/u-loads.ru/"], :root [href^="http://www.mypillow.com/"] > img, :root a[href^="//go.eabids.com/"], :root a[href*="//tranqvilius.com/"], :root div[data-adzone], :root a[href*="://tele.gg/"], :root a[href*="//tiruniversal.com/"], :root div[data-id^="div-gpt-ad-"], :root a[href*="//tekaners.com/"], :root [href^="https://optimizedelite.com/"] > img, :root a[href^="https://www.dating-finder.com/signup/?ai_d="], :root a[href*="//tdsrotate.ru/"], :root a[href*="//restofarian.com"], :root a[href^="https://www.friendlyduck.com/AF_"], :root a[href^="https://quotationfirearmrevision.com/"], :root a[href*="//refpabjgth.top/"], :root a[href*="//newbrowser.me/"], :root a[href*="refpazus.top"], :root a[href^="https://bongacams10.com/track?"], :root a[href*="//loderna.ru"], :root [href^="https://www.restoro.com/"], :root a[href*="//loderls.ru"], :root a[href^="https://tour.mrskin.com/"], :root #BlWrapper > .b-temp_rbc, :root a[href*="//historategory.com/"], :root a[href*="//go.webredir.net/r/"], :root a[href^="https://fc.lc/ref/"], :root a[href*="//go.leadassets.net/r/"], :root a[href*="//getmybrowser.ru/"], :root a[href*="://ya-distrib.ru/r/"], :root [href^="https://www.hostg.xyz/"] > img, :root a[href*="//clickdome.online/"], :root a[href*="//gerocenius.com/"], :root a[href*="//givemysoft.ru/"], :root a[href*="//febrare.ru/"], :root a[href*="advertwebgid.ru"], :root [id^="ad_slider"], :root div[id^="apn_native_ad_slot_"], :root a[href*="//ext-load.net"], :root a[href*="//dzen.ru"][href*="favid"], :root a[href^="https://www.adskeeper.com"], :root a[href*="bestforexplmdb.com"], :root a[href*="/universalsrc.com/"], :root a[href*="//bestonewos.com/"], :root a[href*="//avertise.ru/"], :root a[href*="//advtise.ru/"], :root div[id^="traffim-widget"], :root a[href*="//24smi."][href*="/top/"], :root a[href*="://gonewfiles.ru/"], :root a[data-redirect^="https://paid.outbrain.com/network/redir?"], :root a[href*="//12traffic.ru/"], :root a[href^="https://s.zlinkd.com/"], :root a[href*=".ufiler.pro/"], :root a[href*="://ufiler-download.ru/"], :root [data-testid^="taboola-"], :root a[href^="https://trk.nfl-online-streams.club/"], :root a[href*=".pokupkins.ru"], :root a[href*="://topsofto.ru/"], :root a[href*=".orgsales.ru"], :root [src^="//am15.net/?"], :root .novelty-banner ~ .dle_b_help > a[target="_blank"], :root [onclick*="mixadvert.com"], :root .base-page_container > .banerRight, :root a[href*="lifenews24x7.ru"], :root .banner-img > .pbl, :root [onclick*="//msetup.pro/"], :root [id^="unit_"] > a[href*="://vrf.ru"], :root a[href^="https://a.candyai.love/"], :root [href^="https://trkleads.su/click/"], :root #root > .app > .sticky-button, :root [href^="https://download.cdn.yandex.net/yandex-tag/weboffer/"], :root [href*="postlnk.com"], :root [href*="pigiuqproxy.com"], :root a[href^="https://pb-imc.com/"], :root a[href*=".braun634.com/"], :root [href*="://morelnk.ru/"], :root [href*="://go.leadgid.ru/aff_c?"], :root a[href*="mixadvert.com"], :root a[href*="/ogclick.com/api/redirect"], :root [data-link*="://topclicks.club/"], :root [href*="://edgrmtracking.com/"], :root [href*="://clickpzk.com/"], :root [href*="://click.1k3web.net/"], :root [href*="://click.1k3web.com/"], :root [href*="/vaigowoa.com"], :root a[href^="https://www.liquidfire.mobi/"], :root a[href*="intovarro.ru"], :root [href*="/uni-tds.com/"], :root [href*="//takenewsofts.ru/"], :root a[href*="go.ad2up.com"], :root a[href^="https://hot-growngames.life/"], :root [data-src^="https://news.te.ua/widget/"], :root [data-membrana-container], :root [data-link*="://ubar-pro"], :root a[href*="sandratand.ru"], :root .header-banner > #moneyback[target="_blank"], :root [data-link*="/sb/clk/"], :root [data-la-show-block-id], :root div[id^="zcbclk"], :root [data-la-custom-block], :root a[href*="herrabjec.pro"], :root [data-la-block], :root [data-href^="https://download.cdn.yandex.net/yandex-tag/weboffer/"], :root [class^="fpm_"][class*="_out"], :root a[href^="http://luckiestclick.com/goto."], :root [class^="fpm_"][class*="_cross"], :root [href*=".drp.su/"], :root div[id^="ad-div-"], :root [class^="flat_"][class*="_modal"], :root div[id^="adpartner-jsunit-"], :root a[href*="/yfiles1.ru"], :root a[href*="wow-partners.com/click.php"], :root [class^="flat_"][class*="_cross"], :root [data-testid="adBanner-wrapper"], :root .fp-player > div[style*="position: absolute"][style*="inset: 0px"][style*="overflow: hidden"][style*="z-index:"][style*="background: transparent"][style*="display: block"], :root .content_rb[id^="content_rb_"], :root a[href*="//loderla.online"], :root .base-page_center > .banerTopOver, :root #adv_unisound ~ #main > #slidercontentContainer, :root a[href^="http://cam4com.go2cloud.org/aff_c?"], :root #adv_unisound ~ #ad_module_cont > [id^="ad_module"], :root a[href*="/get-torrent.ru"], :root #adv_kod_frame ~ #gotimer, :root a[href^="https://ad.zanox.com/ppc/"] > img, :root #MT_overroll ~ div[class][style="left:0px;top:0px;height:480px;width:650px;"], :root a[href*="//appt12mn.com/"], :root a[href*="://offergate-apps-phkr.com/"], :root span[id^="ezoic-pub-ad-placeholder-"], :root ins.adsbygoogle[data-ad-slot], :root a[href^="http://tc.tradetracker.net/"] > img, :root ins.adsbygoogle[data-ad-client], :root a[href^="https://go.xlviirdr.com"], :root img[src^="https://s-img.adskeeper.com/"], :root guj-ad, :root gpt-ad, :root div[ow-ad-unit-wrapper], :root a[href*="//refpaewsbc.top/"], :root img[src*="//i.i.ua/r/"], :root div[id^="zergnet-widget"], :root div[id^="smi_teaser_"], :root [href*="://track.leadbazaar.co/click?"], :root div[id^="vuukle-ad-"], :root a[href*="://dafeb.ru/"], :root div[id^="taboola-stream-"], :root [href^="https://go.xlrdr.com"], :root div[id^="sticky_ad_"], :root div[id^="st"][style^="z-index: 999999999;"], :root a[href*="muz-loader.site"], :root a[href*="clickscloud.net"], :root div[id^="rc-widget-"], :root div[id^="mrec-leaderboard-"], :root div[id^="gpt_ad_"], :root div[id^="ezoic-pub-ad-"], :root a[href*="fortedrow.pro"], :root div[id^="dfp-ad-"], :root a[href^="http://sneakyadministration.com/"], :root div[id^="crt-"][style], :root #root > .app .brand-widget__right-cl, :root div[id^="adspot-"], :root a[href*="trk-1.com"], :root div[id^="adrotate_widgets-"], :root ps-connatix-module, :root div[id^="ad_position_"], :root img[title="bigmir)net TOP 100"], :root div[id*="ScriptRoot"], :root div[id*="MarketGid"], :root div[data-id-advertdfpconf], :root hl-adsense, :root div[data-contentexchange-widget], :root div[data-alias="300x250 Ad 2"], :root div[data-adunit], :root div[data-adunit-path], :root div[data-adname], :root [data-wpas-zoneid], :root div[data-ad-placeholder], :root a[href^="https://osfultrbriolenai.info/"], :root a[href^="https://adultfriendfinder.com/go/"], :root div[class^="Adstyled__AdWrapper-"], :root [data-css-class="dfp-inarticle"], :root a[href^="https://go.xlviiirdr.com"], :root div[class$="-adlabel"], :root a[href^="https://service.bv-aff-trx.com/"], :root display-ads, :root a[href*="beauty-list.ru"], :root a[href^="https://go.grinsbest.com/"], :root iframe[src*="://goodgame.ru/html/embed-player/dist/index.html?partner="], :root citrus-ad-wrapper, :root a[href^="https://go.xlivrdr.com"], :root bottomadblock, :root a[href*="kma1.biz"], :root noindex > .search_result[class*="search_result_"], :root a[href^="https://go.xlvirdr.com"], :root amp-fx-flying-carpet, :root #PopWin[onmousemove], :root a[href*="//1xbetlk.site/"], :root amp-embed[type="taboola"], :root a[class*="button"][href^="//"][href*="yandex"][onclick*="dnl"][onclick*="knopka"], :root a[href*="//myblogshop.top/r/"], :root [href^="https://glersakr.com/"], :root a[href*="://tdsrotations.ru/"], :root div[id^="google_dfp_"], :root ad-slot, :root [name^="google_ads_iframe"], :root a[href*="news-sphere.com"], :root a[href*="goext.info"], :root a[href^="https://ab.advertiserurl.com/aff/"], :root a[href*="://sdertjnbv.xyz/"], :root a[href^="https://www.purevpn.com/"][href*="&utm_source=aff-"], :root a[href^="https://t.ajump1.com/"], :root a[href^="https://www.privateinternetaccess.com/"] > img, :root iframe[src*="laim.tv/rotator/"], :root a[href*="/advertisesimple.info"], :root a[href*="/ber-ter.com"], :root a[href^="https://www.onlineusershielder.com/"], :root a[href^="https://syndication.exoclick.com/"], :root a[href^="https://financeads.net/tc.php?"], :root a[href^="https://www.mrskin.com/tour"], :root a[href^="https://www.infowarsstore.com/"] > img, :root iframe[src*="://partner-widget.vse-sdal.com/"], :root [href^="https://mylead.global/stl/"] > img, :root a[href^="https://ak.psaltauw.net/"], :root broadstreet-zone-container, :root a[href^="https://www.highperformancecpmgate.com/"], :root [data-url*="://installpack.net"], :root amp-ad, :root a[href*="ex.24smi.info"], :root a[href^="https://www.highcpmrevenuenetwork.com/"], :root a[href^="https://offhandpump.com/"], :root a[class*="button"][href^="/go/"][href*="visitid"][onclick*="dnl"], :root a[href^="https://www.get-express-vpn.com/offer/"], :root a[href*="://filetaker.ru/"], :root a[href^="https://lnkxt.bannerator.com/"], :root a[href^="https://www.geekbuying.com/dynamic-ads/"], :root a[onclick^="window.location.replace('https://random-affiliate.atimaze.com/"], :root [href^="https://groorsoa.net/"], :root a[href^="http://www.friendlyduck.com/AF_"], :root a[href^="https://www.financeads.net/tc.php?"], :root [href^="https://www.herbanomic.com/"] > img, :root a[href^="https://www.dql2clk.com/"], :root a[href*="browser-ru.site"], :root a[href^="https://123-stream.org/"], :root a[href^="https://www.nutaku.net/signup/landing/"], :root .mywidget__col > .mywidget__link_advert, :root a[href^="https://explore-site.com/"], :root a[href^="https://www.brazzersnetwork.com/landing/"], :root [href^="https://track.fiverr.com/visit/"] > img, :root [data-template-type="nativead"], :root a[href^="https://voluum.prom-xcams.com/"], :root a[href^="https://twinrdsyte.com/"], :root a[href^="https://twinrdsrv.com/"], :root a[href^="https://syndicate.contentsserved.com/"], :root div[data-alias="300x250 Ad 1"], :root [href*="://simpalsid.com/ad/click?id"], :root [href^="https://turtlebids.irauctions.com/"] img, :root a[href^="https://tracking.avapartner.com/"], :root a[href^="http://reals-story.ru/"], :root a[href^="https://track.wg-aff.com"], :root a[href^="https://track.ultravpn.com/"], :root a[href^="https://track.afcpatrk.com/"], :root a[href*="https://relap.io/r?"], :root a[href^="https://in.rabbtrk.com/"], :root a[href^="https://track.adform.net/"], :root a[href*="goodtrack.ru"], :root a[href^="https://torguard.net/aff.php"] > img, :root a[href*="//universalies.info/"], :root [href="https://adstub.net/ratu89/"], :root a[href*="://clickbytes.ru/"], :root [data-identity="adhesive-ad"], :root a[href^="https://tc.tradetracker.net/"] > img, :root a[href^="https://tatrck.com/"], :root [href^="https://zstacklife.com/"] img, :root a[href^="https://click.candyoffers.com/"], :root a[href^="https://t.aslnk.link/"], :root a[href*=".adsrv.eacdn.com/"], :root a[href*="//universalse.info/"], :root a[href^="https://t.adating.link/"], :root a[href^="https://go.trackitalltheway.com/"], :root div[id^="div-ads-"], :root a[href*="://downloadbrowsernew.com/"], :root iframe[src*="tureckiy-serial.ru/"][src$=".php"], :root a[href^="https://syndication.dynsrvtbg.com/"], :root iframe[src*="zhitomir.info/price"], :root .gnt_em_vp_c[data-g-s="vp_dk"], :root div[data-ad-wrapper], :root a[href^="https://a.bestcontentoperation.top/"], :root a[href^="https://svb-analytics.trackerrr.com/"], :root [data-la-show-id], :root a[href*="&maxads="], :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"] + .ob_source, :root a[href^="http://www.iyalc.com/"], :root a[href^="https://claring-loccelkin.com/"], :root a[href^="https://stardomcoit.com/"], :root img[width="728"][height="90"], :root a[href^="https://track.aftrk5.com/"], :root a[href^="https://slkmis.com/"], :root a[href^="https://myclick-2.com/"], :root a[href^="https://sexynearme.com/"], :root [data-ad-manager-id], :root a[href^="https://s.zlinkr.com/"], :root app-advertisement, :root a[href^="https://ad.doubleclick.net/"], :root div[class*="relap"][class*="-rec-item"], :root a[href^="https://s.eunow4u.com/"], :root a[href^="https://static.fleshlight.com/images/banners/"], :root a[href*="://folltiz.site/"], :root a[href^="https://s.zlink7.com/"], :root [class^="div-gpt-ad"], :root a[href^="https://s.ma3ion.com/"], :root a[href^="https://random-affiliate.atimaze.com/"], :root .base-page_center > .banerBottom, :root #kt_player > div[style$="display: block;"][style*="inset: 0px;"], :root [href$="/sexdating.php"], :root a[href^="https://pubads.g.doubleclick.net/"], :root div[id^="ads_games_"], :root a[href^="https://prf.hn/click/"][href*="/camref:"] > img, :root a[href^="https://serve.awmdelivery.com/"], :root [href^="https://rpwmct.com/"], :root a[href^="https://www.dating-finder.com/?ai_d="], :root a[href^="https://prf.hn/click/"][href*="/adref:"] > img, :root div[id^="Crt-"][style], :root [href^="https://ap.octopuspop.com/click/"] > img, :root body > div[style="position: fixed; z-index: 999999; width: 400px; height: 308px; left: 5px; bottom: 5px;"], :root app-ad, :root a[href^="https://a.adtng.com/"], :root a[href^="https://playnano.online/offerwalls/?ref="], :root div[id^="M"][id*="Composite"], :root a[href^="https://mmwebhandler.aff-online.com/"], :root a[href^="https://combodef.com/"], :root a[href^="https://www.bet365.com/"][href*="affiliate="], :root [href*="://shopblogger.top/"], :root a[href*="litewebbusiness.com"], :root iframe[id^="marketgid_"], :root a[onclick*="n284adserv.com"], :root a[href^="https://pb-track.com/"], :root a[href^="https://go.hpyrdr.com/"], :root a[href^="https://pb-front.com/"], :root a[href^="https://paid.outbrain.com/network/redir?"], :root a[href^="https://upsups.click/"], :root a[href*="homework.ru/?partnerId="], :root a[href^="https://ndt5.net/"], :root a[href^="https://natour.naughtyamerica.com/track/"], :root a[href*="//adoffer.pro/"], :root a[href^="https://mediaserver.entainpartners.com/renderBanner.do?"], :root [class^="adDisplay-module"], :root a[href*="slovosil.com"], :root a[href*="ads-provider.com"], :root [data-ad-name], :root a[href^="https://loboclick.com/"], :root a[href^="https://go.xxxijmp.com"], :root a[href^="https://lead1.pl/"], :root a[href*="katuhus.com"], :root a[data-href*="recreativ.ru"], :root a[href^="https://landing.brazzersnetwork.com/"], :root a[href^="https://juicyads.in/"], :root a[href^="https://snowdayonline.xyz/"], :root [href*="://click.1k3pub.com/"], :root a[href^="https://join.dreamsexworld.com/"], :root a[href^="https://join.bannedsextapes.com/track/"], :root a[href*="amgfile.ru"], :root .player-wrap > #kt_player ~ .spot-box, :root a[href*="amigo-biz.ru/ads/click"], :root a[href^="https://jaxofuna.com/"], :root div[id^="lazyad-"], :root a[href*="land-gooods.ru"], :root a[href^="https://italarizege.xyz/"], :root a[href^="https://www8.smartadserver.com/"], :root a[href*="/advjump.com"], :root a[href^="https://identicaldrench.com/"], :root ad-shield-ads, :root a[href*="//adretarget.net/"], :root a[href^="https://helmethomicidal.com/"], :root display-ad-component, :root [class^="tile-picker__CitrusBannerContainer-sc-"], :root a[href*="re-directme.com"], :root a[href^="https://golinks.work/"], :root a[href*="ftpglst.com"], :root a[href^="https://s.zlinkn.com/"], :root a[href^="https://go.xxxvjmp.com/"], :root [id^="newPortal_informer_"], :root a[href*="awesomeredirector"], :root a[href^="https://zirdough.net/"], :root div[style*="am15.net/img/player_skins"], :root a[href^="https://go.xxxiijmp.com"], :root a[href*="://softclicks.ru/"], :root a[href^="https://go.xtbaffiliates.com/"], :root div[id^="criteo-"][style], :root a[href*="://cozibaneco.com/"], :root a[href*="://edugrampromo.com/"], :root [data-role="tile-ads-module"], :root a[href*="://viewfilesup.ru/"], :root a[href*="/clubleads.ru"], :root a[href*="://r.advmusic.com/"], :root [alt="Rambler's Top100"], :root a[href^="https://ismlks.com/"], :root a[style="width:100%;height:100%;z-index:10000000000000000;position:absolute;top:0;left:0;"], :root [href*="://drp.su/"], :root a[href^="https://go.xlirdr.com"], :root a[href*="://gridsiali.com/"], :root a[href*="//dagamah.com/"], :root a[href*=".twkv.ru"], :root a[href^="https://go.markets.com/visit/?bta="], :root a[href^="https://billing.purevpn.com/aff.php"] > img, :root a[href^="https://go.nordvpn.net/aff"] > img, :root a[href*="//offergate.pro/"], :root a[href^="https://lijavaxa.com/"], :root a[href^="https://go.goaserv.com/"], :root app-large-ad, :root a[href^="https://go.etoro.com/"] > img, :root a[href^="https://go.dmzjmp.com"], :root a[href^="https://www.bang.com/?aff="], :root a[href*="://takenewsoft.ru/"], :root a[href*="//spishi.vip/"], :root #mgb-container > #mgb, :root a[href^="https://go.admjmp.com"], :root a[href^="https://get.surfshark.net/aff_c?"][href*="&aff_id="] > img, :root a[onclick*="/link-fes.ru"], :root a[href^="https://www.googleadservices.com/pagead/aclk?"] > img, :root a[href^="https://datewhisper.life/"], :root a[href^="https://click.linksynergy.com/fs-bin/"] > img, :root a[href^="https://get-link.xyz/"], :root a[href^="https://www.mrskin.com/account/"], :root a[href*="/onvix.co/promo/"][target=_blank], :root [href^="https://clicks.affstrack.com/"] > img, :root a[href*="tdstrk.ru"], :root a[href^="https://engine.phn.doublepimp.com/"], :root a[href^="https://dl-protect.net/"], :root a[href*=".foxqck.com/"], :root a[href^="//hoodingluster.com/"], :root a[href^="https://ctosrd.com/"], :root a[href^="https://go.bushheel.com/"], :root img[width="120"][height="600"], :root a[href^="https://ctjdwm.com/"], :root [href="//sexcams.plus/"], :root #kt_player > a[target="_blank"], :root a[href^="http://bongacams.com/track?"], :root a[href^="https://camfapr.com/landing/click/"], :root a[href^="https://prf.hn/click/"][href*="/creativeref:"] > img, :root div[id^="optidigital-adslot"], :root a[href^="http://www.adultempire.com/unlimited/promo?"][href*="&partner_id="], :root a[href^="https://1betandgonow.com/"], :root a[href*="://click2soft.ru/"], :root a[href*="//do-rod.com/"], :root a[href^="https://kshop"][href*=".pro/"], :root a[href^="https://chaturbate.com/in/?"], :root a[href^="https://t.ajrkm1.com/"], :root a[href*="//ufiler-pro2.ru"], :root a[href*=".g2afse.com/"], :root a[href^="https://bodelen.com/"], :root a[href^="https://black77854.com/"], :root a[href^="https://6-partner.com/"], :root a[href^="https://www.sheetmusicplus.com/"][href*="?aff_id="], :root a[href^="https://getmatchedlocally.com/"], :root a[href^="https://rixofa.com/"], :root div[class^="cnt32_"][id^="cnt_rb_"], :root a[href^="https://best-experience-cool.com/"], :root a[href*="tvroff.net"], :root [data-taboola-options], :root a[href^="http://fly-shops.ru"], :root a[href*="/universal-lnk.net/"], :root a[href^="https://believessway.com/"], :root a[href^="https://Click.ggpickaff.com/"], :root [data-dynamic-ads], :root a[href^="https://banners.livepartners.com/"], :root [onclick*=".twkv.ru"], :root a[href^="http://revolvemockerycopper.com/"], :root a[href^="https://awptjmp.com/"], :root a[href^="https://1winpb.com/"], :root a[href*="/universalsrc.net/"], :root a[href^="https://join.sexworld3d.com/track/"], :root a[href^="https://aweptjmp.com/"], :root .app.blog-post-page .secondary-header-ad-block, :root a[href^="https://ausoafab.net/"], :root a[href^="https://clicks.pipaffiliates.com/"], :root a[href^="https://aj1070.online/"], :root body > div[style="background-color: #FFF;height: 100px;position: fixed;bottom: 0px;width: 100%;max-width: 1200px;left: 50%;transform: translateX(-50%);z-index:2147483647"], :root a[href^="https://ads.planetwin365affiliate.com/"], :root a[href*="://go.click2bit.net/"], :root iframe[scrolling="no"][sandbox*="allow-popups allow-modals"][style^="width: 100%; height: 100%; border: none;"], :root a[href^="https://ads.leovegas.com/"], :root a[href*="://yasearchcdn.ru/r/"], :root a[href*="/vkout.ru"], :root img[src^="https://images.purevpnaffiliates.com"], :root a[href^="https://gml-grp.com/"], :root a[href^="https://porntubemate.com/"], :root div[class^="yandex_rtb"], :root a[href*="://searchlnk.ru/r/"], :root a[href^="https://click.dtiserv2.com/"], :root body > iframe[style^="position"][style*="fixed"][id^="iFb"][src^="/?"], :root .ob_container .item-container-obpd, :root a[href^="https://clickadilla.com/"], :root a[href^="https://a.medfoodhome.com/"], :root a[href^="https://cam4com.go2cloud.org/"], :root a[href^="https://a.bestcontentweb.top/"], :root a[href^="http://putanapartners.com/go."], :root atf-ad-slot, :root [href^="https://wsup.ai/"], :root a[href*="kshop2.biz"], :root a[href^="https://a2.adform.net/"], :root a[href*="/fastvk.com"], :root a[onclick*="offergate-amigo"], :root a[href*="://tracker.rioaffi.com/"], :root div[id^="bidvol-widget-"], :root a[href*="://kinobud.site/"], :root div[id^="smi2adblock_"], :root [data-m-ad-id], :root a[href^="https://a-ads.com/"], :root a[href*="/sarimsolus.com/"], :root a[href*="://yourlnk.ru/r/"], :root [href^="https://url.totaladblock.com/"], :root [id^="n4p_"], :root a[href^="http://www.h4trck.com/"], :root [href^="https://a.acebet.com/api/click?"], :root a[href*="sviruniversal.com/"], :root a[href*="octoclick.net"], :root a[href^="http://partners.etoro.com/"], :root [href="https://chaturbate.jjgirls.com/"] > img, :root a[href*="filebase.me"], :root a[href^="https://ads.betfair.com/redirect.aspx?"], :root [href^="https://antiagingbed.com/discount/"] > img, :root amp-ad-custom, :root [data-desktop-ad-id], :root a[href*="/kshop3.biz"], :root a[href^="http://trk.globwo.online/"], :root a[href*="://downloadcontent2.ru/"], :root a[href^="https://bongacams2.com/track?"], :root [href^="https://affiliate.fastcomet.com/"] > img, :root a[href*="//universalice.info/"], :root a-ad, :root a[href^="http://adultfriendfinder.com/go/"], :root a[href^="http://stickingrepute.com/"], :root #slashboxes > .deals-rail, :root div[aria-label="Ads"], :root [href^="http://mypillow.com/"] > img, :root a[href^="//startgaming.net/tienda/" i], :root a[href*="://clickfrm.com/"], :root a[href^="https://a.medfoodsafety.com/"], :root [onclick*="//sub"][onclick*="bubblesmedia."], :root a[href^=" https://www.friendlyduck.com/AF_"], :root a[href*="/jump/next.php?r="], :root .\[\&_\.gdprAdTransparencyCogWheelButton\]\:\!pjra-z-\[5\], :root a[href*="://clickstats.pw/"], :root [href^="http://clicks.totemcash.com/"], :root a[href*="twtn.ru/"], :root [data-d-ad-id], :root a[href*=".engine.adglare.net/"], :root [href^="https://www.profitablegatecpm.com/"], :root a[href^="https://bc.game/"], :root a[href*="://manysoftlink.ru/"], :root a[data-oburl^="https://paid.outbrain.com/network/redir?"], :root [id^="section-ad-banner"], :root .base-page_center > .banerTop, :root a[href^="https://fastestvpn.com/lifetime-special-deal?a_aid="], :root a[href^="https://www.goldenfrog.com/vyprvpn?offer_id="][href*="&aff_id="], :root a[href*="retagapp.com"], :root a[href^="https://wmctjd.com/"], :root a[href*="//jjgirls.com/sex/Chaturbate"], :root a[href*="://z.cdn.traffic"][href*="/load"], :root [href^="https://zone.gotrackier.com/"], :root a[href*="//top.mail.ru/jump?"], :root a[href^="http://sarcasmadvisor.com/"], :root a[href^="https://track.totalav.com/"], :root a[href^="https://ctrdwm.com/"], :root a[href*=".adsbid.ru"], :root a[href^="https://www.adxsrve.com/"], :root [href^="https://www.targetingpartner.com/"], :root a[href^="https://join.virtuallust3d.com/"], :root a[href^="https://bngpt.com/"], :root div[id^="ad-position-"], :root a[href^="https://www.toprevenuegate.com/"], :root a[href*="adpool.bet/"], :root a[href^="http://join.brokestraightboys.com/track/"], :root [onclick*="trklp.ru"], :root [href^="https://rapidgator.net/article/premium/ref/"], :root [class^="flat_"][class*="_out"], :root a[href^="http://apytrc.com/click/"], :root [href^="https://join.girlsoutwest.com/"], :root a[href^="https://activate-game.com/"], :root .scroll-fixable.rail-right > .deals-rail, :root div[data-server-rendered="true"] > div[id^="block-"], :root a[href*="rexchange.begun.ru/rclick?"], :root a[href^="https://track.aftrk3.com/"], :root [href^="https://join3.bannedsextapes.com"], :root a[href*="news"][href*="favid"], :root div[id^="adngin-"], :root [data-ad-width], :root [data-rc-widget], :root [href^="https://track.aftrk1.com/"], :root a[href*="://adv-views.com"], :root a[href*="//sub"][href*="bubblesmedia."], :root [href^="https://istlnkcl.com/"], :root a[href^="https://trk.softonixs.xyz/"], :root a[href^="https://iqbroker.com/"][href*="?aff="], :root [href^="https://wct.link/click?"], :root AD-SLOT, :root [data-block-type="ad"], :root a[href^="https://t.acam.link/"], :root [src*="mixadvert.com"], :root [onclick*="msetup"][onclick*="partner"][onclick*="utm_"], :root a[href^="https://go.strpjmp.com/"], :root iframe[title="mixAd"], :root DIV[id^="DIV_NNN_"], :root a[href^="https://go.rmishe.com/"], :root [href^="https://ilovemyfreedoms.com/landing-"], :root a[href*="linkmyc.com"], :root a[href^="https://go.cmtaffiliates.com/"], :root a[href^="https://tm-offers.gamingadult.com/"], :root a[href^="http://kshop.biz/"], :root [href^="https://charmingdatings.life/"], :root [data-id^="div-gpt-ad"], :root img[src*="//counter.yadro.ru/"], :root [href^="https://awbbjmp.com/"], :root [href^="https://ad1.adfarm1.adition.com/"], :root a[href*="://telamon"][href*="/tracker/?partner="], :root a[href^="https://t.ajrkm3.com/"], :root a[href*="//portakamus.com/"], :root [href^="https://aads.com/campaigns/"], :root a[href^="https://go.bbrdbr.com"], :root a[href*="trtkp.ru"], :root a[href*="//fofuvipibo.com/"], :root a[href^="https://s.zlink3.com/"], :root [data-freestar-ad][id], :root a[href*="shakes.pro"], :root a[href*="trafgid.xyz"], :root a[href*="://getyousoft.ru/"], :root [onclick*="/sb/clk/"], :root [href^="https://www.brighteonstore.com/products/"] img, :root a[href*="://ourbrowser.net"], :root a[href^="https://bngprm.com/"], :root .article-aside-promo a[href][target="_blank"], :root [href^="https://shiftnetwork.infusionsoft.com/go/"] > img, :root a[href*="//loderlx.ru"], :root [id^="div-gpt-ad"], :root [href="https://jdrucker.com/gold"] > img, :root iframe[src*="utraff.com"], :root a[href^="https://join.virtualtaboo.com/track/"], :root a[href*="cpl1.ru"], :root [id^="ad_sky"], :root [id^="relap-custom-iframe-rec"], :root aside[id^="adrotate_widgets-"], :root [href^="https://pxl.leads.su/click/"], :root DFP-AD, :root .grid > .container > #aside-promotion, :root a[href*="//reruniversal.com/"], :root [data-type="ad-vertical"], :root a[href*="://loderkkis.ru"], :root a[href^="https://s.cant3am.com/"], :root [data-testid^="section-AdRowBillboard"], :root a[href*="media-rotate.com"], :root [href*="driftawayforfun.com"], :root a[href^="https://track.1234sd123.com/"], :root a[href*="kinqon.ru"], :root img[src*="://cp.beget.com/promo_data/"], :root zeus-ad, :root [data-testid="prism-ad-wrapper"], :root [href^="https://ad.admitad.com/"], :root [href^="https://mypillow.com/"] > img, :root [data-testid="ad_testID"], :root a[href*="://mysoftrotate.ru/"], :root [id^="unit_"] > a[href*="smi2."], :root a[href*="sapmedia.ru"], :root a[href^="https://gamingadlt.com/?offer="], :root [class^="fpm_"][class*="_modal"], :root a[href^="https://go.rmhfrtnd.com"], :root a[href*="problogrus.ru"], :root [href^="https://mypatriotsupply.com/"] > img, :root a[href*="webdiana.ru/click"], :root #teaser1[style^="width:autopx;"], :root [href^="https://www.cloudways.com/en/?id"], :root div[class^="mixadvert"], :root [data-asg-ins], :root a[href*="://new.torrent-pack.ru/"], :root [href*="//loadbrowser.ru/"], :root [src*="://dynspt.com/"], :root a[href^="https://clickins.slixa.com/"], :root a[href^="https://clixtrac.com/"], :root [onclick*="content.ad/"], :root a[href*="://dmtech05.com/"], :root AMP-AD, :root iframe[src*="//refpakglscpj."], :root a[href^="http://olivka.biz/"], :root [data-ad-cls], :root a[href*="://clickstats.online/"], :root a[href*="turbotraf.com"], :root a[href^="https://click.Ggpickaff.com/"], :root [data-ez-name], :root a[href^="https://go.mnaspm.com/"], :root a[href*="://chikidiki.ru"], :root a[href*="/uloads.ru/"], :root #root > .app .adfox, :root [class^="s2nPlayer"], :root a[href*="/api/redirect?offerid="], :root a[href*="/universallnk.net/"], :root a[href^="https://adclick.g.doubleclick.net/"], :root a[href*="nhebd.xyz"], :root body > div[id^="dV"][style^="width"][style*="height"][style*="position"][style*="fixed"][style*="overflow"][style*="z-index"][style*="background"], :root [data-link*="//sub"][data-link*="bubblesmedia."], :root a[href^="https://click.hoolig.app/"], :root [data-ad-module], :root a[href^="https://a.bestcontentfood.top/"], :root a[href*="://getfiletds.ru/"], :root a[href^="https://go.skinstrip.net"][href*="?campaignId="], :root #teaser2[style^="width:autopx;"], :root [data-revive-zoneid], :root a[href*="//webbrowser.club/"], :root .pip-video-wrapper > .pip-video-label, :root iframe[src*="traffic-media.co"], :root a[href^="https://losingoldfry.com/"], :root div[id^="div-gpt-"], :root a[href*="//parandeya.com/"], :root .ob_dual_right > .ob_ads_header ~ .odb_div, :root a[href*="//partners.house/"], :root [id^="unit_"] > a[href*="://mirtesen.ru"], :root div[data-ad-targeting], :root a[href*="//universalie.info/"], :root [href^="//x4pollyxxpush.com/"], :root .base-page_left-side > #left_ban, :root [href^="https://www.avantlink.com/click.php"] img, :root [data-testid="commercial-label-taboola"], :root [data-la-refresh-timeout], :root a[href^="https://traffdaq.com/"], :root #teaser3[style^="width:autopx;"], :root [href*="://browseit.ru/"], :root a[href^="https://go.hpyjmp.com"], :root [href^="https://mystore.com/"] > img, :root [class^="amp-ad-"], :root a[href^="https://wittered-mainging.com/"], :root #teaser3[style="width: 100%;text-align: center;display: scroll;position:fixed;bottom: 0;margin: 0 auto;z-index: 103;"] { display: none !important; }</style><style type="text/css">#ya-site-form0 .ya-site-suggest{position:relative;margin:0}#ya-site-form0 .ya-site-suggest-popup{position:absolute;width:100%}#ya-site-form0 .ya-site-suggest__opera-gap{position:absolute;height:25em;border:1px solid transparent}#ya-site-form0 .ya-site-suggest-list{position:absolute;z-index:9999;overflow:hidden;min-width:25em;width:100%;margin-top:-1px;border-collapse:separate;-webkit-box-shadow:0 1px 7px #9a9a9a;-moz-box-shadow:0 1px 7px #9a9a9a;box-shadow:0 1px 7px #9a9a9a;border:1px solid #dedede;border-color:rgba(154,154,154,.4) rgba(154,154,154,.5) rgba(154,154,154,.6);box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box}#ya-site-form0 .ya-site-suggest__iframe{position:absolute;z-index:-1;min-width:25em;width:100%;height:100%;background:#fff}#ya-site-form0 .ya-site-suggest-items{font-size:16px;min-width:25em;width:100%;margin:0;padding:0 1px 0 0;list-style:none}#ya-site-form0 .ya-site-suggest-items li{margin:0;padding:0;line-height:normal}#ya-site-form0 .ya-site-suggest-elem{display:block;padding:.25em .3em;cursor:pointer;background:url()}#ya-site-form0 a.ya-site-suggest-elem:link,#ya-site-form0 a.ya-site-suggest-elem:visited{text-decoration:none}html body #ya-site-form0 .ya-site-suggest-elem-link,html body #ya-site-form0 .ya-site-suggest-elem:link{color:#000!important}#ya-site-form0 .ya-site-suggest-elem:hover,html body #ya-site-form0 .ya-site-suggest-elem_state_hover{background:#fef6d7}#ya-site-form0 .ya-site-suggest-elem_nav:hover,#ya-site-form0 .ya-site-suggest-elem_translate:hover{text-decoration:none;color:#000!important}#ya-site-form0 .ya-site-suggest-elem_nav .ya-site-suggest__link{text-decoration:underline;color:#1a3dc1}#ya-site-form0 .ya-site-suggest-elem_translate .ya-site-suggest__link{text-decoration:underline;color:#000}#ya-site-form0 .ya-site-suggest-elem .ya-site-suggest__info{white-space:nowrap;color:#666}#ya-site-form0 .ya-site-suggest-elem_selected{background:#fdedaf}#ya-site-form0 .ya-site-suggest__fact{color:#555}#ya-site-form0 .ya-site-suggest__highlight{font-weight:700}</style></head>
+<body id="body">
+
+<header>
+    <div class="wrapper">
+
+        <div class="header">
+
+            <h2 class="header-logo">
+                <a href="/">DnD.su</a>
+            </h2>
+
+            <h1 class="header-page_title">
+				<a href="/feats/101-actor/">Артистичный</a><span> — </span><a href="/feats/">Черты</a>            </h1>
+
+			<a href="/profile/" class="user-menu__button"><div class="profile__avatar header__user-avatar"><img src="/storage/avatar/default.png" class="profile__avatar-img"></div></a>
+            <div id="top__hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+
+        </div>
+    </div>
+</header>
+
+
+<div class="toUp">	<span class="svg svg-24 svg--dropdown "><svg><use xlink:href="/beta/img/sprite.svg#dropdown"></use></svg></span></div>
+    <main>
+        <div class="cont">
+
+			
+<aside id="aside">
+
+    <nav>
+        <ul class="left_menu">
+
+            <li class="item_level_1 item_link_head">
+                <a href="https://boosty.to/dnd.su" target="_blank" class="boosty">	<span class="svg svg-20 svg--boosty "><svg><use xlink:href="/beta/img/sprite.svg#boosty"></use></svg></span><span class="item_text">Boosty</span></a>
+                <a href="https://discord.com/invite/NVj9b4tWmb" target="_blank" class="discord">	<span class="svg svg-20 svg--discord "><svg><use xlink:href="/beta/img/sprite.svg#discord"></use></svg></span><span class="item_text">Discord</span></a>
+            </li>
+
+	                        <li class="item_level_1 item_link_head domain-switch">
+                    <a href="https://next.dnd.su/" class="active">5e24 	<span class="svg svg-16 svg--external_link "><svg><use xlink:href="/beta/img/sprite.svg#external_link"></use></svg></span></a>
+                    <span class="delimiter">/</span> <span class="passive">5e14</span>
+                </li>
+		        
+
+<li class="item_level_1">
+
+    <a href="#" class="item_link_1 dropdown_trigger active" data-menu="menu-1">
+        <span class="item_text">Справочники</span>
+			<span class="svg svg-16 svg--dropdown "><svg><use xlink:href="/beta/img/sprite.svg#dropdown"></use></svg></span>    </a>
+
+    <ul class="dropdown-list">
+
+        <li class="item_level_2">
+            <a href="/class/" class="item_link_2">
+			    	<span class="svg svg-16 svg--helmet "><svg><use xlink:href="/beta/img/sprite.svg#helmet"></use></svg></span>                <span class="item_text">Классы</span>
+            </a>
+        </li>
+
+        <li class="item_level_2">
+            <a href="/race/" class="item_link_2">
+			    	<span class="svg svg-16 svg--race "><svg><use xlink:href="/beta/img/sprite.svg#race"></use></svg></span>                <span class="item_text">Расы и происхождения</span>
+            </a>
+        </li>
+
+        <li class="item_level_2">
+            <a href="/backgrounds/" class="item_link_2">
+			    	<span class="svg svg-16 svg--scroll "><svg><use xlink:href="/beta/img/sprite.svg#scroll"></use></svg></span>                <span class="item_text">Предыстории</span>
+            </a>
+        </li>
+
+        <li class="item_level_2">
+            <a href="/feats/" class="item_link_2">
+			    	<span class="svg svg-16 svg--puzzle "><svg><use xlink:href="/beta/img/sprite.svg#puzzle"></use></svg></span>                <span class="item_text">Черты</span>
+            </a>
+        </li>
+
+        <li class="item_level_2">
+            <a href="/spells/" class="item_link_2">
+			    	<span class="svg svg-16 svg--book "><svg><use xlink:href="/beta/img/sprite.svg#book"></use></svg></span>                <span class="item_text">Заклинания</span>
+            </a>
+        </li>
+
+        <li class="item_level_2">
+            <a href="/bestiary/" class="item_link_2">
+			    	<span class="svg svg-16 svg--monster "><svg><use xlink:href="/beta/img/sprite.svg#monster"></use></svg></span>                <span class="item_text">Бестиарий</span>
+            </a>
+        </li>
+
+        <li class="item_level_2">
+            <a href="/items/" class="item_link_2">
+			    	<span class="svg svg-16 svg--crystalball "><svg><use xlink:href="/beta/img/sprite.svg#crystalball"></use></svg></span>                <span class="item_text">Магические предметы</span>
+            </a>
+        </li>
+
+		
+    </ul>
+</li>
+<li class="item_level_1">
+
+	<a href="#" class="item_link_1 dropdown_trigger active" data-menu="menu-newbie">
+		<span class="item_text" style="color: var(--color-mint);">Новичку</span>
+			<span class="svg svg-16 svg--dropdown "><svg><use xlink:href="/beta/img/sprite.svg#dropdown"></use></svg></span>	</a>
+
+	<ul class="dropdown-list">
+
+            <li class="item_level_2">
+        <a href="/articles/newbie/536-how-to-start-playing-dd/" class="item_link_2">
+            <span class="item_text">Как начать играть в D&amp;D</span>
+        </a>
+    </li>
+    <li class="item_level_2">
+        <a href="/articles/newbie/468-using-ability-scores/" class="item_link_2">
+            <span class="item_text">Использование характеристик</span>
+        </a>
+    </li>
+    <li class="item_level_2">
+        <a href="/articles/newbie/26-main-formulas/" class="item_link_2">
+            <span class="item_text">Основные формулы</span>
+        </a>
+    </li>
+    <li class="item_level_2">
+        <a href="/articles/newbie/722-pregenerated-characters/" class="item_link_2">
+            <span class="item_text">Готовые персонажи</span>
+        </a>
+    </li>
+    <li class="item_level_2">
+        <a href="/articles/newbie/564-faq/" class="item_link_2">
+            <span class="item_text">Часто задаваемые вопросы</span>
+        </a>
+    </li>	</ul>
+</li><li class="item_level_1">
+
+    <a href="#" class="item_link_1 dropdown_trigger" data-menu="menu-2">
+        <span class="item_text">Статьи</span>
+			<span class="svg svg-16 svg--dropdown "><svg><use xlink:href="/beta/img/sprite.svg#dropdown"></use></svg></span>    </a>
+
+    <ul class="dropdown-list">
+
+        <li class="item_level_2">
+            <a href="/articles/bestiary/" class="item_link_2">
+                <span class="item_text">Бестиарий</span>
+            </a>
+        </li>
+
+        <li class="item_level_2">
+            <a href="/articles/inventory/" class="item_link_2">
+                <span class="item_text">Инвентарь</span>
+            </a>
+        </li>
+
+        <li class="item_level_2">
+            <a href="/articles/mechanics/" class="item_link_2">
+                <span class="item_text">Игровые механики</span>
+            </a>
+        </li>
+
+        <li class="item_level_2">
+            <a href="/articles/lore/" class="item_link_2">
+                <span class="item_text">Lore</span>
+            </a>
+        </li>
+
+	            <li class="item_level_2">
+            <a href="/articles/homebrew/" class="item_link_2">
+                <span class="item_text">Homebrew</span>
+            </a>
+        </li>
+        
+        <li class="item_level_2">
+            <a href="/articles/news/" class="item_link_2">
+                <span class="item_text">Новости сайта</span>
+            </a>
+        </li>
+
+        <li class="item_level_2">
+            <a href="/articles/partners/" class="item_link_2">
+                <span class="item_text">Сообщество</span>
+            </a>
+        </li>
+
+    </ul>
+</li>
+        <li class="ya-search">
+            <div class="ya-search">
+                <div class="ya-site-form ya-site-form_bg_transparent ya-site-form_inited_ye" id="ya-site-form0"><div class="ya-site-form__form"><table class="ya-site-form__wrap" cellpadding="0" cellspacing="0"><tbody><tr><td class="ya-site-form__search-wrap"><table class="ya-site-form__search" cellpadding="0" cellspacing="0"><tbody><tr><td class="ya-site-form__search-input"><table class="ya-site-form__search-input-layout"><tbody><tr><td class="ya-site-form__search-input-layout-l"><div class="ya-site-form__input"><input name="text" type="search" value="" class="ya-site-form__input-text" placeholder="Поиск по сайту" autocomplete="off"><div class="ya-site-suggest"><div class="ya-site-suggest-popup" style="display: none;"><i class="ya-site-suggest__opera-gap"></i><div class="ya-site-suggest-list"><div class="ya-site-suggest__iframe"></div><ul class="ya-site-suggest-items"></ul></div></div></div></div></td><td class="ya-site-form__search-input-layout-r"><input class="ya-site-form__submit" type="button" value="Найти" style="cursor:pointer"></td></tr></tbody></table></td></tr><tr><td class="ya-site-form__gap"><div class="ya-site-form__gap-i"></div></td></tr></tbody></table></td></tr></tbody></table></div></div>
+                <style>.ya-page_js_yes .ya-site-form_inited_no {
+                        display: none
+                    }
+
+                    #ya-site-form0 .ya-site-form__search-input {
+                        padding: 0
+                    }</style>
+                <script type="text/javascript">(function (w, d, c) {
+                        var s = d.createElement('script'), h = d.getElementsByTagName('script')[0],
+                            e = d.documentElement;
+                        if ((' ' + e.className + ' ').indexOf(' ya-page_js_yes ') === -1) {
+                            e.className += ' ya-page_js_yes';
+                        }
+                        s.type = 'text/javascript';
+                        s.async = true;
+                        s.charset = 'utf-8';
+                        s.src = (d.location.protocol === 'https:' ? 'https:' : 'http:') + '//site.yandex.net/v2.0/js/all.js';
+                        h.parentNode.insertBefore(s, h);
+                        (w[c] || (w[c] = [])).push(function () {
+                            Ya.Site.Form.init()
+                        })
+                    })(window, document, 'yandex_site_callbacks');</script>
+            </div>
+        </li>
+
+		
+<li class="item_level_1">
+
+    <a href="#" class="item_link_1 dropdown_trigger active" data-menu="menu-4">
+        <span class="item_text">Инструменты</span>
+			<span class="svg svg-16 svg--dropdown "><svg><use xlink:href="/beta/img/sprite.svg#dropdown"></use></svg></span>    </a>
+
+    <ul class="dropdown-list">
+
+        <li class="item_level_2">
+            <a href="/point_buy/" class="item_link_2">
+			    	<span class="svg svg-16 svg--stats "><svg><use xlink:href="/beta/img/sprite.svg#stats"></use></svg></span>                <span class="item_text">Закуп характеристик</span>
+            </a>
+        </li>
+
+        <li class="item_level_2">
+            <a href="/loot/" class="item_link_2">
+					<span class="svg svg-16 svg--chest "><svg><use xlink:href="/beta/img/sprite.svg#chest"></use></svg></span>                <span class="item_text">Генератор добычи</span>
+            </a>
+        </li>
+
+        <li class="item_level_2">
+            <a href="/encounter_difficulty/" class="item_link_2">
+			    	<span class="svg svg-16 svg--swords "><svg><use xlink:href="/beta/img/sprite.svg#swords"></use></svg></span>                <span class="item_text">Сложность боя</span>
+            </a>
+        </li>
+
+	            <li class="item_level_2">
+            <a href="/compendium/" class="item_link_2">
+			    	<span class="svg svg-16 svg--edit-copy "><svg><use xlink:href="/beta/img/sprite.svg#edit-copy"></use></svg></span>                <span class="item_text">Компендиумы</span>
+            </a>
+        </li>
+        
+                    <li class="item_level_2">
+                <a href="/dmscreen/" class="item_link_2">
+                    	<span class="svg svg-16 svg--workshop "><svg><use xlink:href="/beta/img/sprite.svg#workshop"></use></svg></span>                    <span class="item_text">Ширма мастера</span>
+                </a>
+            </li>
+        
+        <li class="item_level_2">
+            <a href="/praise_the_random/" class="item_link_2">
+			    	<span class="svg svg-16 svg--clover "><svg><use xlink:href="/beta/img/sprite.svg#clover"></use></svg></span>                <span class="item_text">Мне повезёт</span>
+            </a>
+        </li>
+
+
+
+    </ul>
+</li>
+<li class="item_level_1">
+
+    <a href="#" class="item_link_1 dropdown_trigger active" data-menu="menu-5">
+        <span class="item_text">Пользователь</span>
+			<span class="svg svg-16 svg--dropdown "><svg><use xlink:href="/beta/img/sprite.svg#dropdown"></use></svg></span>    </a>
+
+    <ul class="dropdown-list">
+
+		
+            <li class="item_level_2">
+                <a href="/favorite/" class="item_link_2">
+						<span class="svg svg-16 svg--favorite_fill "><svg><use xlink:href="/beta/img/sprite.svg#favorite_fill"></use></svg></span>                    <span class="item_text">Избранное</span>
+                </a>
+            </li>
+
+            <li class="item_level_2">
+                <a href="/workshop/" class="item_link_2">
+						<span class="svg svg-16 svg--workshop "><svg><use xlink:href="/beta/img/sprite.svg#workshop"></use></svg></span>                    <span class="item_text">Мастерская</span>
+                </a>
+            </li>
+
+		
+        <li class="item_level_2">
+            <a href="/comments/" class="item_link_2">
+			    	<span class="svg svg-16 svg--comments "><svg><use xlink:href="/beta/img/sprite.svg#comments"></use></svg></span>                <span class="item_text">Комментарии</span>
+            </a>
+        </li>
+
+        <li class="item_level_2">
+            <a href="/settings/" class="item_link_2">
+			    	<span class="svg svg-16 svg--gear "><svg><use xlink:href="/beta/img/sprite.svg#gear"></use></svg></span>                <span class="item_text">Настройки</span>
+            </a>
+        </li>
+
+	    
+            <li class="item_level_2">
+                <a href="/profile/" class="item_link_2">
+				    	<span class="svg svg-16 svg--helmet "><svg><use xlink:href="/beta/img/sprite.svg#helmet"></use></svg></span>                    <span class="item_text">Профиль</span>
+                </a>
+            </li>
+
+	    
+	    
+	    
+	    
+	    
+            <li class="item_level_2">
+                <a href="/logout/?from=%2Ffeats%2F101-actor%2F" class="item_link_2">
+                    <span class="item_text">Выход</span>
+                </a>
+            </li>
+
+<!--	    --><!--            <li class="item_level_2 form-auth" style="padding-left: 16px; padding-right: 16px;">-->
+<!--                Временно отключён быстрый доступ к учётной записи на главной странице.-->
+<!--            </li>-->
+        
+
+    </ul>
+</li>
+<li class="item_level_1">
+
+    <a href="#" class="item_link_1 dropdown_trigger active" data-menu="menu-7">
+        <span class="item_text">Партнёры</span>
+			<span class="svg svg-16 svg--dropdown "><svg><use xlink:href="/beta/img/sprite.svg#dropdown"></use></svg></span>    </a>
+
+    <ul class="dropdown-list">
+		<li class="item_level_2"><a href="/articles/partners/" class="item_link_2"><span class="item_text">Новости сообщества</span></a></li><li class="item_level_2"><a href="https://vk.com/dungeons_ru?partner=dnd.su" title="Dungeonsanddragons.ru\Dungeons_ru - переводы D&amp;D" target="_blank" class="item_link_2 partner"><span class="sprite-partners__dungeonsru partner-icon"></span><span class="item_text">Dungeons_ru</span></a></li><li class="item_level_2"><a href="https://dm.am?partner=dnd.su" title="Форумные рпг на любой вкус" target="_blank" class="item_link_2 partner"><span class="sprite-partners__dmam partner-icon"></span><span class="item_text">Dungeonmaster.ru</span></a></li><li class="item_level_2"><a href="https://vk.com/myriads_of_truths?partner=dnd.su" target="_blank" title="Мириады Истин" class="item_link_2 partner"><span class="sprite-partners__miriady partner-icon"></span>Мириады Истин</a></li><li class="item_level_2"><a href="https://t.me/EddyGames?partner=dnd.su" target="_blank" title="Eddy Games (Канал, посвящённый лучшей в мире НРИ - Dungeons&amp;Dragons)" class="item_link_2 partner"><span class="sprite-partners__eddy_games partner-icon"></span>Eddy Games</a></li><li class="item_level_2"><a href="https://vk.com/drunkenbadger?partner=dnd.su" target="_blank" title="Накидавшийся барсук (Make DnD, not war.)" class="item_link_2 partner"><span class="sprite-partners__drunkenbadger partner-icon"></span>Накидавшийся барсук</a></li><li class="item_level_2"><a href="https://vk.com/morelessvk?partner=dnd.su" target="_blank" title="Море Лес (Стримы D&amp;D)" class="item_link_2 partner"><span class="sprite-partners__more partner-icon"></span>Море Лес</a></li><li class="item_level_2"><a href="https://vk.com/dicehead_dnd?partner=dnd.su" target="_blank" title="DiceHead" class="item_link_2 partner"><span class="sprite-partners__dicehead partner-icon"></span>DiceHead</a></li><li class="item_level_2"><a href="https://vk.com/witchhouse13?partner=dnd.su" target="_blank" title="WI†CH H⏀USE" class="item_link_2 partner"><span class="sprite-partners__witchhouse13 partner-icon"></span>WI†CH H⏀USE</a></li><li class="item_level_2"><a href="https://www.youtube.com/channel/UCHvgDnlfa2zJXpaSEdX4_8w?partner=dnd.su" target="_blank" title="Monster park (Monster park of f#king Stark)" class="item_link_2 partner"><span class="sprite-partners__stark partner-icon"></span>Monster park</a></li><li class="item_level_2"><a href="https://www.youtube.com/channel/UCjMH-dz60Uh7VoZSO02PJPg?partner=dnd.su" target="_blank" title="EvilDice" class="item_link_2 partner"><span class="sprite-partners__evildice partner-icon"></span>EvilDice</a></li><li class="item_level_2"><a href="https://vk.com/dice_scream?partner=dnd.su" target="_blank" title="Dice Scream (Самые северные стримы по ДнД, добро пожаловать к нам за стол!)" class="item_link_2 partner"><span class="sprite-partners__dice_scream partner-icon"></span>Dice Scream</a></li><li class="item_level_2"><a href="https://www.youtube.com/c/%D0%9F%D0%BE%D0%A2%D1%83%D0%A1%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%83%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86?partner=dnd.su" target="_blank" title="По ту сторону страниц (Пишем Музыку, Карты, Обзоры и Подкасты!)" class="item_link_2 partner"><span class="sprite-partners__po_tu_storonu partner-icon"></span>По ту сторону страниц</a></li><li class="item_level_2"><a href="https://badmimic.com?partner=dnd.su" target="_blank" title="Сокровища Мимика (3D печать миниатюр)" class="item_link_2 partner"><span class="sprite-partners__treasuresmimic partner-icon"></span>Сокровища Мимика</a></li><li class="item_level_2"><a href="https://t.me/VrogharMasters?partner=dnd.su" target="_blank" title="Мастерская Врогхада (Переводы, сборки локаций и советы по играм)" class="item_link_2 partner"><span class="sprite-partners__vroghar partner-icon"></span>Мастерская Врогхада</a></li><li class="item_level_2"><a href="https://dkdice.com?partner=dnd.su" target="_blank" title="Dungeon Keepers's Dice (Уникальные игральные кости ручной работы)" class="item_link_2 partner"><span class="sprite-partners__dkdice partner-icon"></span>Dungeon Keepers's Dice</a></li><li class="item_level_2"><a href="https://www.youtube.com/@fox_tavern?partner=dnd.su" target="_blank" title="Сытый Лис (Бесплатный сервер для игроков в НРИ и настольные игры)" class="item_link_2 partner"><span class="sprite-partners__fox_tavern partner-icon"></span>Сытый Лис</a></li>    </ul>
+</li>
+<li class="item_level_1">
+
+    <a href="#" class="item_link_1 dropdown_trigger active" data-menu="menu-6">
+        <span class="item_text">Разное</span>
+			<span class="svg svg-16 svg--dropdown "><svg><use xlink:href="/beta/img/sprite.svg#dropdown"></use></svg></span>    </a>
+
+    <ul class="dropdown-list">
+
+        <li class="item_level_2">
+            <a href="/contacts/" class="item_link_2">
+					<span class="svg svg-16 svg--letter "><svg><use xlink:href="/beta/img/sprite.svg#letter"></use></svg></span>                <span class="item_text">Контакты</span>
+            </a>
+        </li>
+
+        <li class="item_level_2">
+            <a href="/support/" class="item_link_2">
+					<span class="svg svg-16 svg--coins "><svg><use xlink:href="/beta/img/sprite.svg#coins"></use></svg></span>                <span class="item_text">Помощь сайту</span>
+            </a>
+        </li>
+
+    </ul>
+</li>
+
+        </ul>
+    </nav>
+</aside>
+
+
+            <!-- CENTRAL COLUMN -->
+            <div class="center">
+                <div class="row">
+
+                    <section class="block block-100 block-page_title">
+                        <h1 class="center-page_title">
+							<a href="/feats/101-actor/">Артистичный</a><span> — </span><a href="/feats/">Черты</a>                        </h1>
+                    </section>
+
+					            <section class="block block_100">
+				            <script>
+                let eng_to_ru = {"f":"а",",":"б","d":"в","u":"г","l":"д","t":"е","`":"ё",";":"ж","p":"з","b":"и","q":"й","r":"к","k":"л","v":"м","y":"н","j":"о","g":"п","h":"р","c":"с","n":"т","e":"у","a":"ф","\\[":"х","w":"ц","x":"ч","i":"ш","o":"щ","m":"ь","s":"ы","\\]":"ъ","'":"э","\\.":"ю","z":"я"};
+                let ru_to_eng = {"а":"f","б":",","в":"d","г":"u","д":"l","е":"t","ё":"`","ж":";","з":"p","и":"b","й":"q","к":"r","л":"k","м":"v","н":"y","о":"j","п":"g","р":"h","с":"c","т":"n","у":"e","ф":"a","х":"\\[","ц":"w","ч":"x","ш":"i","щ":"o","ь":"m","ы":"s","ъ":"\\]","э":"'","ю":"\\.","я":"z"};
+            </script>
+            <form action="/feats/" class="search search_columns" method="get">
+				                <div class="grid">
+					            <div class="col-4_lg-8_md-8_sm-12 search-form-main">
+            <div class="if-wrapper__live_search"><div class="inner-wrapper"><input type="text" name="search" value="" placeholder="Поиск по разделу" class="if if-live_search if-empty has_icon" autocomplete="off"><label class="if-placeholder"><span class="if-placeholder__value"></span><span class="if-placeholder__text">Поиск по разделу</span><span class="if-placeholder__icon"><span class="svg svg-16 svg--search"><svg><use xlink:href="/beta/img/sprite.svg#search"></use></svg></span></span></label></div></div></div>            <div class="col-3_lg-4_sm-6_xs-12 search-form-main">
+            <div class="if-wrapper__dropdown"><div class="inner-wrapper"><input type="text" class="if filter if-dropdown if-empty has_icon" name="abilities" placeholder="Характеристики" value="[]" aria-readonly="true" autocomplete="off"><label class="if-placeholder"><span class="if-placeholder__value"></span><span class="if-placeholder__text">Характеристики</span><span class="if-placeholder__icon"><span class="svg svg-16 svg--dropdown"><svg><use xlink:href="/beta/img/sprite.svg#dropdown"></use></svg></span></span></label></div></div></div>            <div class="col-3_lg-4_sm-6_xs-12 search-form-main">
+            <div class="if-wrapper__dropdown"><div class="inner-wrapper"><input type="text" class="if filter if-dropdown if-empty has_icon" name="proficiency" placeholder="Владения" value="[]" aria-readonly="true" autocomplete="off"><label class="if-placeholder"><span class="if-placeholder__value"></span><span class="if-placeholder__text">Владения</span><span class="if-placeholder__icon"><span class="svg svg-16 svg--dropdown"><svg><use xlink:href="/beta/img/sprite.svg#dropdown"></use></svg></span></span></label></div></div></div>            <div class="col-3_lg-4_sm-6_xs-12 search-form-main">
+            <div class="if-wrapper__dropdown"><div class="inner-wrapper"><input type="text" class="if filter if-dropdown if-empty has_icon" name="requires" placeholder="Требования" value="[]" aria-readonly="true" autocomplete="off"><label class="if-placeholder"><span class="if-placeholder__value"></span><span class="if-placeholder__text">Требования</span><span class="if-placeholder__icon"><span class="svg svg-16 svg--dropdown"><svg><use xlink:href="/beta/img/sprite.svg#dropdown"></use></svg></span></span></label></div></div></div>            <div class="col-3_lg-4_sm-6_xs-12 search-form-main">
+            <div class="if-wrapper__dropdown"><div class="inner-wrapper"><input type="text" class="if filter if-dropdown if-empty has_icon" name="skills" placeholder="Влияет на навыки" value="[]" aria-readonly="true" autocomplete="off"><label class="if-placeholder"><span class="if-placeholder__value"></span><span class="if-placeholder__text">Влияет на навыки</span><span class="if-placeholder__icon"><span class="svg svg-16 svg--dropdown"><svg><use xlink:href="/beta/img/sprite.svg#dropdown"></use></svg></span></span></label></div></div></div>            <div class="col-3_lg-4_sm-6_xs-12 search-form-main">
+            <div class="if-wrapper__dropdown"><div class="inner-wrapper"><input type="text" class="if filter if-dropdown if-empty has_icon" name="other" placeholder="Другое" value="[]" aria-readonly="true" autocomplete="off"><label class="if-placeholder"><span class="if-placeholder__value"></span><span class="if-placeholder__text">Другое</span><span class="if-placeholder__icon"><span class="svg svg-16 svg--dropdown"><svg><use xlink:href="/beta/img/sprite.svg#dropdown"></use></svg></span></span></label></div></div></div>            <div class="col-3_lg-4_sm-6_xs-24 search-form-main">
+            <div class="if-wrapper__dropdown"><div class="inner-wrapper"><input type="text" class="if filter if-dropdown if-empty has_icon" name="source" placeholder="Источник" value="[]" aria-readonly="true" autocomplete="off"><label class="if-placeholder"><span class="if-placeholder__value"></span><span class="if-placeholder__text">Источник</span><span class="if-placeholder__icon"><span class="svg svg-16 svg--dropdown"><svg><use xlink:href="/beta/img/sprite.svg#dropdown"></use></svg></span></span></label></div></div></div>            <div class="col-2_lg-4_sm-8 search-form-main">
+            <input type="submit" class="btn btn-green" value="Найти"></div>                </div>
+            </form>
+			<div class="cards-wrapper">
+	<div class="paper-1 card active card__group-classic card__category-feats typoable" data-id="feats:101" itemscope="" itemtype="https://schema.org/Article" data-cardlink="/feats/101-actor/" data-typo-path="/feats/101-actor/">
+	<div class="card-wrapper">
+ <div class="card__header"><h2 class="card-title" itemprop="name"><span data-copy="Артистичный [Actor]">Артистичный [Actor]</span><span class="source-plaque" title="Player's Handbook">PH14</span> <a href="https://next.dnd.su/feats/321-actor" class="source-plaque" title="Player's Handbook 2024">PH24</a></h2>	<div class="card-menu">
+		<span class="card-menu__button">
+			<span></span>
+			<span></span>
+			<span></span>
+		</span>
+		<ul class="card-menu__list">
+			<li class="card-menu__list-item"><a data-href="/request/favorite/feats/101/" class="card-menu__favorite">Добавить в избранное</a></li>
+<li class="card-menu__list-item"><a data-href="/request/pin/feats/101/" class="card-menu__pin">Закрепить</a></li>
+<li class="card-menu__list-item"><a href="javascript:window.print();">Распечатать</a></li>
+		</ul>
+	</div></div><div class="card__body new-article" itemprop="articleBody"><ul class="params card__article-body"><li class="subsection desc"><div itemprop="description"><p>Научившись театральному искусству и подражанию, вы получаете следующие преимущества:</p>
+<ul>
+<li>Увеличьте значение Харизмы на 1 при максимуме 20.</li>
+<li>Вы совершаете с преимуществом проверки Харизмы (<span tooltip-for="skill.performance" class="tooltipstered tooltip">Выступление</span>) и Харизма (<span tooltip-for="skill.deception" class="tooltipstered tooltip">Обман</span>), когда пытаетесь выдать себя за кого-то другого.</li>
+<li>Вы можете подражать речи кого-то другого, а также звукам, издаваемым другими существами. Перед этим вы должны как минимум в течение 1 минуты слышать чужую речь или звуки существа. Успешная проверка Мудрости (<span tooltip-for="skill.insight" class="tooltipstered tooltip">Проницательность</span>), противопоставленная вашей проверке Харизмы (<span tooltip-for="skill.deception" class="tooltipstered tooltip">Обман</span>), позволяет слушающему понять, что источник звука не настоящий.</li>
+</ul></div></li></ul></div><div class="card__footer"></div>
+	</div>
+</div>
+
+	
+</div>
+<script>window.commentsAccess = {"comments:next":1,"comments:post":1};</script>
+			
+<section class="comments-block block block_100">
+	<div class="card paper-1">
+		<div class="card-wrapper">
+			<div class="card__header" id="comments">
+				<h2 class="card-title">Комментарии</h2>
+			</div>
+			<div class="card__body">							
+				<div class="comments" data-page="feats:101">
+					<div class="comments__holder"><div class="comments__thread" data-thread="12423"><div class="comment__entry comment__op comment__author-group-" data-id="12423" id="comment_12423">	<div class="comment__header">
+			<a href="/@Dednari" class="profile__avatar comment__author-avatar"><img src="/storage/avatar/default.png" class="profile__avatar-img"></a> <span class="comment__username"><a href="/@Dednari" class="profile__public-link profile__public-link-group-users comment__author-name">Dednari</a></span> 
+	<div class="comment__age" title="13:09:34 22.07.2024">1 год  назад</div>
+	<div class="comment__promoted-icon" title="Комментарий помечен как важный">	<span class="svg svg-16 svg--heart "><svg><use xlink:href="/beta/img/sprite.svg#heart"></use></svg></span></div>
+	<div class="comment__hidden-icon" title="Комментарий скрыт от пользователей">	<span class="svg svg-16 svg--hide "><svg><use xlink:href="/beta/img/sprite.svg#hide"></use></svg></span></div>
+		<a href="#comment_12423" class="comment__link">#</a>
+	</div>
+	<div class="comment__body card__article-body">
+		10 обманутых трактирщиков из 10<br>Отличная черта для барда, если он использует Заклинание маскировка
+	</div>
+	<div class="comment__footer">
+		<div class="comment__reply-block"><a class="comment__reply-button" title="Ответить на этот комментарий">ответить</a></div>
+		<div class="comment__operations btn-group"></div>
+	</div></div></div><div class="comments__thread" data-thread="18172"><div class="comment__entry comment__op comment__author-group-" data-id="18172" id="comment_18172">	<div class="comment__header">
+			<a href="/@74ccf7b9038c" class="profile__avatar comment__author-avatar"><img src="/storage/avatar/default.png" class="profile__avatar-img"></a> <span class="comment__username"><a href="/@74ccf7b9038c" class="profile__public-link profile__public-link-group-users comment__author-name">Lost_Soul</a></span> 
+	<div class="comment__age" title="20:49:54 24.10.2024">1 год  назад</div>
+	<div class="comment__promoted-icon" title="Комментарий помечен как важный">	<span class="svg svg-16 svg--heart "><svg><use xlink:href="/beta/img/sprite.svg#heart"></use></svg></span></div>
+	<div class="comment__hidden-icon" title="Комментарий скрыт от пользователей">	<span class="svg svg-16 svg--hide "><svg><use xlink:href="/beta/img/sprite.svg#hide"></use></svg></span></div>
+		<a href="#comment_18172" class="comment__link">#</a>
+	</div>
+	<div class="comment__body card__article-body">
+		Плут с подклассом "Убийцы" и расой "Чейнджлинг" превращает эту черту в ядреную смесь. <br>С учётом того, что плут даёт компетентность на навык, а раса владение навыком обман, то это превращает нас в ассасина у которого с 4 уровня мало того, что +-7 на проверке обмана, так ещё и преимущество на этот бросок.
+	</div>
+	<div class="comment__footer">
+		<div class="comment__reply-block"><a class="comment__reply-button" title="Ответить на этот комментарий">ответить</a></div>
+		<div class="comment__operations btn-group"></div>
+	</div></div><div class="comment__entry comment__reply comment__author-group-" data-id="18200" id="comment_18200">	<div class="comment__header">
+			<a href="/@0c63a80fe2" class="profile__avatar comment__author-avatar"><img src="/storage/avatar/93f1f2a1044203483c4d938e05b0cb37.png" class="profile__avatar-img"></a> <span class="comment__username"><a href="/@0c63a80fe2" class="profile__public-link profile__public-link-group-users comment__author-name">Трехголовый Утконос</a></span> 
+	<div class="comment__age" title="11:28:46 25.10.2024">1 год  назад</div>
+	<div class="comment__promoted-icon" title="Комментарий помечен как важный">	<span class="svg svg-16 svg--heart "><svg><use xlink:href="/beta/img/sprite.svg#heart"></use></svg></span></div>
+	<div class="comment__hidden-icon" title="Комментарий скрыт от пользователей">	<span class="svg svg-16 svg--hide "><svg><use xlink:href="/beta/img/sprite.svg#hide"></use></svg></span></div>
+		<a href="#comment_18200" class="comment__link">#</a>
+	</div>
+	<div class="comment__body card__article-body">
+		А также если у чейнжлинга есть «обнаружение мыслей».
+	</div>
+	<div class="comment__footer">
+		<div class="comment__reply-block"><a class="comment__reply-button" title="Ответить на этот комментарий">ответить</a></div>
+		<div class="comment__operations btn-group"></div>
+	</div></div><div class="comment__entry comment__reply comment__author-group-" data-id="34004" id="comment_34004">	<div class="comment__header">
+			<a href="/@gadeeem" class="profile__avatar comment__author-avatar"><img src="/storage/avatar/default.png" class="profile__avatar-img"></a> <span class="comment__username"><a href="/@gadeeem" class="profile__public-link profile__public-link-group-users comment__author-name">gadeeem</a></span> 
+	<div class="comment__age" title="08:37:21 07.08.2025">7 месяцев  назад</div>
+	<div class="comment__promoted-icon" title="Комментарий помечен как важный">	<span class="svg svg-16 svg--heart "><svg><use xlink:href="/beta/img/sprite.svg#heart"></use></svg></span></div>
+	<div class="comment__hidden-icon" title="Комментарий скрыт от пользователей">	<span class="svg svg-16 svg--hide "><svg><use xlink:href="/beta/img/sprite.svg#hide"></use></svg></span></div>
+		<a href="#comment_34004" class="comment__link">#</a>
+	</div>
+	<div class="comment__body card__article-body">
+		Бард на коллегии красноречия будет подкручивать кубик на обман минимум до 10 и на компетенции может получить +7, это очень сильно
+	</div>
+	<div class="comment__footer">
+		<div class="comment__reply-block"><a class="comment__reply-button" title="Ответить на этот комментарий">ответить</a></div>
+		<div class="comment__operations btn-group"></div>
+	</div></div></div><div class="comments__thread" data-thread="26322"><div class="comment__entry comment__op comment__author-group-" data-id="26322" id="comment_26322">	<div class="comment__header">
+			<a href="/@a4750ebaaae2" class="profile__avatar comment__author-avatar"><img src="/storage/avatar/22358bf008525112a398e7c4eb70269e.png" class="profile__avatar-img"></a> <span class="comment__username"><a href="/@a4750ebaaae2" class="profile__public-link profile__public-link-group-users comment__author-name">tGV_the_Great_Virus</a></span> 
+	<div class="comment__age" title="22:50:55 14.03.2025">1 год  назад</div>
+	<div class="comment__promoted-icon" title="Комментарий помечен как важный">	<span class="svg svg-16 svg--heart "><svg><use xlink:href="/beta/img/sprite.svg#heart"></use></svg></span></div>
+	<div class="comment__hidden-icon" title="Комментарий скрыт от пользователей">	<span class="svg svg-16 svg--hide "><svg><use xlink:href="/beta/img/sprite.svg#hide"></use></svg></span></div>
+		<a href="#comment_26322" class="comment__link">#</a>
+	</div>
+	<div class="comment__body card__article-body">
+		Идеально подходит колдуну с воззванием на тысячу лиц и возможностью не спать<br>Вы сможете обмануть не только трактирщиков, но и союзников, находясь под бесконечной маскировкой
+	</div>
+	<div class="comment__footer">
+		<div class="comment__reply-block"><a class="comment__reply-button" title="Ответить на этот комментарий">ответить</a></div>
+		<div class="comment__operations btn-group"></div>
+	</div></div></div><div class="comments__thread" data-thread="40817"><div class="comment__entry comment__op comment__author-group-" data-id="40817" id="comment_40817">	<div class="comment__header">
+			<a href="/@721daebb577f" class="profile__avatar comment__author-avatar"><img src="/storage/avatar/default.png" class="profile__avatar-img"></a> <span class="comment__username"><a href="/@721daebb577f" class="profile__public-link profile__public-link-group-users comment__author-name">Lâche-moi.</a></span> 
+	<div class="comment__age" title="15:36:30 15.12.2025">3 месяца  назад</div>
+	<div class="comment__promoted-icon" title="Комментарий помечен как важный">	<span class="svg svg-16 svg--heart "><svg><use xlink:href="/beta/img/sprite.svg#heart"></use></svg></span></div>
+	<div class="comment__hidden-icon" title="Комментарий скрыт от пользователей">	<span class="svg svg-16 svg--hide "><svg><use xlink:href="/beta/img/sprite.svg#hide"></use></svg></span></div>
+		<a href="#comment_40817" class="comment__link">#</a>
+	</div>
+	<div class="comment__body card__article-body">
+		Если у меня и так харизма на максимуме то бонус улетает в молоко?
+	</div>
+	<div class="comment__footer">
+		<div class="comment__reply-block"><a class="comment__reply-button" title="Ответить на этот комментарий">ответить</a></div>
+		<div class="comment__operations btn-group"></div>
+	</div></div><div class="comment__entry comment__reply comment__author-group-" data-id="41002" id="comment_41002">	<div class="comment__header">
+			<a href="/@102a55bdf554" class="profile__avatar comment__author-avatar"><img src="/storage/avatar/default.png" class="profile__avatar-img"></a> <span class="comment__username"><a href="/@102a55bdf554" class="profile__public-link profile__public-link-group-users comment__author-name">Elder.11</a></span> 
+	<div class="comment__age" title="22:39:25 18.12.2025">3 месяца  назад</div>
+	<div class="comment__promoted-icon" title="Комментарий помечен как важный">	<span class="svg svg-16 svg--heart "><svg><use xlink:href="/beta/img/sprite.svg#heart"></use></svg></span></div>
+	<div class="comment__hidden-icon" title="Комментарий скрыт от пользователей">	<span class="svg svg-16 svg--hide "><svg><use xlink:href="/beta/img/sprite.svg#hide"></use></svg></span></div>
+		<a href="#comment_41002" class="comment__link">#</a>
+	</div>
+	<div class="comment__body card__article-body">
+		Верно, бонусная характеристика дается с максимумом в 20
+	</div>
+	<div class="comment__footer">
+		<div class="comment__reply-block"><a class="comment__reply-button" title="Ответить на этот комментарий">ответить</a></div>
+		<div class="comment__operations btn-group"></div>
+	</div></div></div><div class="comments__thread" data-thread="44528"><div class="comment__entry comment__op comment__author-group-" data-id="44528" id="comment_44528">	<div class="comment__header">
+			<a href="/@8047c09e94ae" class="profile__avatar comment__author-avatar"><img src="/storage/avatar/a66a36bae8bca89a01903e77ca08a544.png" class="profile__avatar-img"></a> <span class="comment__username"><a href="/@8047c09e94ae" class="profile__public-link profile__public-link-group-users comment__author-name">Маутаутия Войд</a></span> 
+	<div class="comment__age" title="07:09:06 19.02.2026">27 дней  назад</div>
+	<div class="comment__promoted-icon" title="Комментарий помечен как важный">	<span class="svg svg-16 svg--heart "><svg><use xlink:href="/beta/img/sprite.svg#heart"></use></svg></span></div>
+	<div class="comment__hidden-icon" title="Комментарий скрыт от пользователей">	<span class="svg svg-16 svg--hide "><svg><use xlink:href="/beta/img/sprite.svg#hide"></use></svg></span></div>
+		<a href="#comment_44528" class="comment__link">#</a>
+	</div>
+	<div class="comment__body card__article-body">
+		Круто
+	</div>
+	<div class="comment__footer">
+		<div class="comment__reply-block"><a class="comment__reply-button" title="Ответить на этот комментарий">ответить</a></div>
+		<div class="comment__operations btn-group"></div>
+	</div></div></div></div>
+						<div class="comments__poster">
+		<div class="comments__poster-head grid">
+			<h4 class="comments__poster-header col-12">Новый комментарий</h4>
+			<div class="comment__poster-reply"></div>
+			<div class="comment__rules-holder col-12">
+				<a class="comment__rules-button col-12" onclick="javascript:Comments.showRules()">Правила комментирования</a>
+			</div>
+		</div>
+		<div class="comments__poster-body">
+			<div class="grid">
+				<div class="col-24">
+					<div class="comments__input-form">
+						<textarea placeholder="Комментарий"></textarea>
+					</div>								
+				</div>
+				<div class="col-24">
+					<button class="btn btn-green comments__submit">Отправить <span>(Ctrl + Enter)</span></button>
+				</div>
+			</div>
+		</div>					
+	</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section><section class="block block_100 gallery">
+	<h2 class="section-title" itemprop="name" id="gallery">Галерея</h2>
+	<script>window.gallery_access = 'user';</script>
+		<p>
+ На данный момент в галерее нет изображений.
+  Вы можете их добавить.
+ 	</p>
+	</section>
+ <section class="block block-100 gallery">
+ <form enctype="multipart/form-data" action="https://dnd.su/upload/feats/101/?from=%2Ffeats%2F101-actor%2F" method="POST" class="gallery-add_form">
+ <div class="grid grid-600">
+ <div class="col-18_xs-24">
+ <div class="if-wrapper__file"><div class="inner-wrapper"><input type="file" name="image[]" required="" multiple="" accept=".png, .jpg, .jpeg" class="if if-file if-empty has_icon" placeholder="Выбрать изображения"><label class="if-placeholder"><span class="if-placeholder__value"></span><span class="if-placeholder__text">Выбрать изображения *</span><span class="if-placeholder__icon"><span class="svg svg-16 svg--attachment"><svg><use xlink:href="/beta/img/sprite.svg#attachment"></use></svg></span></span></label></div></div>
+ </div>
+ <div class="col-6_xs-24">
+ <input type="submit" class="btn btn-primary" value="Загрузить">
+ </div>
+ </div>
+ </form>
+</section>
+            </section>
+			                </div>
+            </div>
+            <!---->
+        </div>
+    </main>
+	<footer>
+    <div class="wrapper">
+        <a href="https://dnd.su">DnD.su</a> © 2017 - 2026. | По&nbsp;вопросам сотрудничества: <a href="javascript:void(0)" class="show-email">показать&nbsp;email</a>
+    </div>
+</footer>
+
+<script type="text/javascript">const COMPENDIUM = {"bestiary":{"alignment":{"lg":"\u0417\u0430\u043a\u043e\u043d\u043d\u043e-\u0434\u043e\u0431\u0440\u044b\u0439","ng":"\u041d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u043e-\u0434\u043e\u0431\u0440\u044b\u0439","cg":"\u0425\u0430\u043e\u0442\u0438\u0447\u043d\u043e-\u0434\u043e\u0431\u0440\u044b\u0439","ln":"\u0417\u0430\u043a\u043e\u043d\u043d\u043e-\u043d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","n":"\u041d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","cn":"\u0425\u0430\u043e\u0442\u0438\u0447\u043d\u043e-\u043d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439","le":"\u0417\u0430\u043a\u043e\u043d\u043d\u043e-\u0437\u043b\u043e\u0439","ne":"\u041d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u043e-\u0437\u043b\u043e\u0439","ce":"\u0425\u0430\u043e\u0442\u0438\u0447\u043d\u043e-\u0437\u043b\u043e\u0439","none":"\u0411\u0435\u0437 \u043c\u0438\u0440\u043e\u0432\u043e\u0437\u0437\u0440\u0435\u043d\u0438\u044f","any":"\u041b\u044e\u0431\u043e\u0435 \u043c\u0438\u0440\u043e\u0432\u043e\u0437\u0437\u0440\u0435\u043d\u0438\u0435"},"alignment_union":{"ce.cg.cn.le.lg.ln.n.ne.ng":"\u041b\u044e\u0431\u043e\u0435 \u043c\u0438\u0440\u043e\u0432\u043e\u0437\u0437\u0440\u0435\u043d\u0438\u0435","ce.le.ne":"\u041b\u044e\u0431\u043e\u0435 \u0437\u043b\u043e\u0435 \u043c\u0438\u0440\u043e\u0432\u043e\u0437\u0437\u0440\u0435\u043d\u0438\u0435","cg.lg.ng":"\u041b\u044e\u0431\u043e\u0435 \u0434\u043e\u0431\u0440\u043e\u0435 \u043c\u0438\u0440\u043e\u0432\u043e\u0437\u0437\u0440\u0435\u043d\u0438\u0435","cn.ln.n.ne.ng":"\u041b\u044e\u0431\u043e\u0435 \u043d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043c\u0438\u0440\u043e\u0432\u043e\u0437\u0437\u0440\u0435\u043d\u0438\u0435","ce.cg.cn":"\u041b\u044e\u0431\u043e\u0435 \u0445\u0430\u043e\u0442\u0438\u0447\u043d\u043e\u0435 \u043c\u0438\u0440\u043e\u0432\u043e\u0437\u0437\u0440\u0435\u043d\u0438\u0435","le.lg.ln":"\u041b\u044e\u0431\u043e\u0435 \u0437\u0430\u043a\u043e\u043d\u043d\u043e\u0435 \u043c\u0438\u0440\u043e\u0432\u043e\u0437\u0437\u0440\u0435\u043d\u0438\u0435","ce.cn.le.ln.n.ne":"\u041b\u044e\u0431\u043e\u0435 \u043c\u0438\u0440\u043e\u0432\u043e\u0437\u0437\u0440\u0435\u043d\u0438\u0435 \u043a\u0440\u043e\u043c\u0435 \u0434\u043e\u0431\u0440\u043e\u0433\u043e","ce.cg.cn.n.ne.ng":"\u041b\u044e\u0431\u043e\u0435 \u043c\u0438\u0440\u043e\u0432\u043e\u0437\u0437\u0440\u0435\u043d\u0438\u0435 \u043a\u0440\u043e\u043c\u0435 \u0437\u0430\u043a\u043e\u043d\u043d\u043e\u0433\u043e","cg.cn.lg.ln.n.ng":"\u041b\u044e\u0431\u043e\u0435 \u043c\u0438\u0440\u043e\u0432\u043e\u0437\u0437\u0440\u0435\u043d\u0438\u0435 \u043a\u0440\u043e\u043c\u0435 \u0437\u043b\u043e\u0433\u043e","le.lg.ln.n.ne.ng":"\u041b\u044e\u0431\u043e\u0435 \u043c\u0438\u0440\u043e\u0432\u043e\u0437\u0437\u0440\u0435\u043d\u0438\u0435 \u043a\u0440\u043e\u043c\u0435 \u0445\u0430\u043e\u0442\u0438\u0447\u043d\u043e\u0433\u043e","ce.cg.le.lg":"\u041b\u044e\u0431\u043e\u0435 \u043c\u0438\u0440\u043e\u0432\u043e\u0437\u0437\u0440\u0435\u043d\u0438\u0435 \u043a\u0440\u043e\u043c\u0435 \u043d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e"},"damage_types":{"10":"\u0414\u0440\u043e\u0431\u044f\u0449\u0438\u0439","12":"\u041a\u043e\u043b\u044e\u0449\u0438\u0439","11":"\u0420\u0443\u0431\u044f\u0449\u0438\u0439","18":"\u0417\u0432\u0443\u043a","19":"\u0418\u0437\u043b\u0443\u0447\u0435\u043d\u0438\u0435","17":"\u041a\u0438\u0441\u043b\u043e\u0442\u0430","21":"\u041d\u0435\u043a\u0440\u043e\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u044d\u043d\u0435\u0440\u0433\u0438\u044f","13":"\u041e\u0433\u043e\u043d\u044c","22":"\u041f\u0441\u0438\u0445\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u044d\u043d\u0435\u0440\u0433\u0438\u044f","20":"\u0421\u0438\u043b\u043e\u0432\u043e\u0435 \u043f\u043e\u043b\u0435","14":"\u0425\u043e\u043b\u043e\u0434","15":"\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u0442\u0432\u043e","16":"\u042f\u0434"},"damage_types_tags":{"nm":"\u041d\u0435\u043c\u0430\u0433\u0438\u0447.","ns":"\u041d\u0435\u043f\u043e\u0441\u0435\u0440\u0435\u0431.","na":"\u041d\u0435\u0430\u0434\u0430\u043c\u0430\u043d\u0442.","m":"\u041c\u0430\u0433\u0438\u0447.","a":"\u0410\u0442\u0430\u043a\u0430"}},"eng_to_ru":{"f":"\u0430",",":"\u0431","d":"\u0432","u":"\u0433","l":"\u0434","t":"\u0435","`":"\u0451",";":"\u0436","p":"\u0437","b":"\u0438","q":"\u0439","r":"\u043a","k":"\u043b","v":"\u043c","y":"\u043d","j":"\u043e","g":"\u043f","h":"\u0440","c":"\u0441","n":"\u0442","e":"\u0443","a":"\u0444","\\[":"\u0445","w":"\u0446","x":"\u0447","i":"\u0448","o":"\u0449","m":"\u044c","s":"\u044b","\\]":"\u044a","'":"\u044d","\\.":"\u044e","z":"\u044f"},"ru_to_eng":{"\u0430":"f","\u0431":",","\u0432":"d","\u0433":"u","\u0434":"l","\u0435":"t","\u0451":"`","\u0436":";","\u0437":"p","\u0438":"b","\u0439":"q","\u043a":"r","\u043b":"k","\u043c":"v","\u043d":"y","\u043e":"j","\u043f":"g","\u0440":"h","\u0441":"c","\u0442":"n","\u0443":"e","\u0444":"a","\u0445":"\\[","\u0446":"w","\u0447":"x","\u0448":"i","\u0449":"o","\u044c":"m","\u044b":"s","\u044a":"\\]","\u044d":"'","\u044e":"\\.","\u044f":"z"}};</script>
+<script type="text/javascript" src="/beta/js/pack.common.min.js?v=3.0.139"></script>
+<script type="text/javascript" src="/beta/js/common.min.js?v=3.0.139"></script>
+<script type="text/javascript" src="/beta/js/script.typos.min.js?v=3.0.139"></script>
+<script type="text/javascript" src="/beta/js/pack.comments.min.js?v=3.0.139"></script>
+<script type="text/javascript" src="/beta/js/pack.gallery.min.js?v=3.0.139"></script>
+<script type="text/javascript"> (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(42419409, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/42419409" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<script type="text/javascript">let ALERTS = [];</script>
+
+
+<div class="if-dropdown-block dropdown" data-hide-event="true"></div><div class="if-dropdown-block dropdown" data-hide-event="true"><div class="if-dropdown__buttons"><div class="if-dropdown__button">Выбрать все</div><div class="if-dropdown__button">Очистить</div></div><ul class="if-list"><ul class="if-list-group"><ul class="if-list-group-list"><li class="if-list__item" data-value="ability.STR"><div class="if-list__item-title">Сила</div></li><li class="if-list__item" data-value="ability.DEX"><div class="if-list__item-title">Ловкость</div></li><li class="if-list__item" data-value="ability.CON"><div class="if-list__item-title">Телосложение</div></li><li class="if-list__item" data-value="ability.INT"><div class="if-list__item-title">Интеллект</div></li><li class="if-list__item" data-value="ability.WIS"><div class="if-list__item-title">Мудрость</div></li><li class="if-list__item" data-value="ability.CHA"><div class="if-list__item-title">Харизма</div></li></ul></ul></ul></div><div class="if-dropdown-block dropdown" data-hide-event="true"><div class="if-dropdown__buttons"><div class="if-dropdown__button">Выбрать все</div><div class="if-dropdown__button">Очистить</div></div><ul class="if-list"><ul class="if-list-group"><ul class="if-list-group-list"><li class="if-list__item" data-value="proficiency.skill"><div class="if-list__item-title">навык</div></li><li class="if-list__item" data-value="proficiency.tools"><div class="if-list__item-title">инструмент</div></li><li class="if-list__item" data-value="proficiency.weapon"><div class="if-list__item-title">оружие</div></li><li class="if-list__item" data-value="proficiency.armor"><div class="if-list__item-title">броня</div></li><li class="if-list__item" data-value="proficiency.language"><div class="if-list__item-title">язык</div></li></ul></ul></ul></div><div class="if-dropdown-block dropdown" data-hide-event="true"><div class="if-dropdown__buttons"><div class="if-dropdown__button">Выбрать все</div><div class="if-dropdown__button">Очистить</div></div><ul class="if-list"><ul class="if-list-group"><ul class="if-list-group-list"><li class="if-list__item" data-value="requires.spellcasting"><div class="if-list__item-title">заклинатель</div></li><li class="if-list__item" data-value="requires.race"><div class="if-list__item-title">раса</div></li><li class="if-list__item" data-value="requires.class"><div class="if-list__item-title">класс</div></li><li class="if-list__item" data-value="requires.ability.STR"><div class="if-list__item-title">Сила</div></li><li class="if-list__item" data-value="requires.ability.DEX"><div class="if-list__item-title">Ловкость</div></li><li class="if-list__item" data-value="requires.ability.INT"><div class="if-list__item-title">Интеллект</div></li><li class="if-list__item" data-value="requires.ability.WIS"><div class="if-list__item-title">Мудрость</div></li><li class="if-list__item" data-value="requires.ability.CHA"><div class="if-list__item-title">Харизма</div></li></ul></ul></ul></div><div class="if-dropdown-block dropdown" data-hide-event="true"><div class="if-dropdown__buttons"><div class="if-dropdown__button">Выбрать все</div><div class="if-dropdown__button">Очистить</div></div><ul class="if-list"><ul class="if-list-group"><ul class="if-list-group-list"><li class="if-list__item" data-value="skill.acrobatics"><div class="if-list__item-title">Акробатика</div></li><li class="if-list__item" data-value="skill.athletics"><div class="if-list__item-title">Атлетика</div></li><li class="if-list__item" data-value="skill.perception"><div class="if-list__item-title">Восприятие</div></li><li class="if-list__item" data-value="skill.performance"><div class="if-list__item-title">Выступление</div></li><li class="if-list__item" data-value="skill.deception"><div class="if-list__item-title">Обман</div></li><li class="if-list__item" data-value="skill.investigation"><div class="if-list__item-title">Расследование</div></li></ul></ul></ul></div><div class="if-dropdown-block dropdown" data-hide-event="true"><div class="if-dropdown__buttons"><div class="if-dropdown__button">Выбрать все</div><div class="if-dropdown__button">Очистить</div></div><ul class="if-list"><ul class="if-list-group"><ul class="if-list-group-list"><li class="if-list__item" data-value="weapon"><div class="if-list__item-title">оружейная</div></li><li class="if-list__item" data-value="armor"><div class="if-list__item-title">доспешная</div></li><li class="if-list__item" data-value="magic"><div class="if-list__item-title">магическая</div></li><li class="if-list__item" data-value="AC"><div class="if-list__item-title">влияет на КД</div></li><li class="if-list__item" data-value="spellsource"><div class="if-list__item-title">даёт заклинание</div></li></ul></ul></ul></div><div class="if-dropdown-block dropdown" data-hide-event="true"><div class="if-dropdown__buttons"><div class="if-dropdown__button">Выбрать все</div><div class="if-dropdown__button">Очистить</div></div><ul class="if-list"><ul class="if-list-group"><div class="if-list-group__header"><div class="if-list-group-title has_button">Core</div><div class="if-list-group-button"><span class="svg svg-16 svg--select_all"><svg><use xlink:href="/beta/img/sprite.svg#select_all"></use></svg></span></div></div><ul class="if-list-group-list"><li class="if-list__item" data-value="102"><div class="if-list__item-title">Player's Handbook</div></li></ul></ul><ul class="if-list-group"><div class="if-list-group__header"><div class="if-list-group-title has_button">Sourcebooks</div><div class="if-list-group-button"><span class="svg svg-16 svg--select_all"><svg><use xlink:href="/beta/img/sprite.svg#select_all"></use></svg></span></div></div><ul class="if-list-group-list"><li class="if-list__item" data-value="198"><div class="if-list__item-title">Bigby Presents: Glory of the Giants</div></li><li class="if-list__item" data-value="207"><div class="if-list__item-title">The Book of Many Things</div></li><li class="if-list__item" data-value="119"><div class="if-list__item-title">Eberron: Rising from the Last War</div></li><li class="if-list__item" data-value="152"><div class="if-list__item-title">Fizban's Treasury of Dragons</div></li><li class="if-list__item" data-value="205"><div class="if-list__item-title">Planescape: Adventures in the Multiverse</div></li><li class="if-list__item" data-value="108"><div class="if-list__item-title">Sword Coast Adventurer's Guide</div></li><li class="if-list__item" data-value="117"><div class="if-list__item-title">Tasha's Cauldron of Everything</div></li><li class="if-list__item" data-value="109"><div class="if-list__item-title">Xanathar's Guide to Everything</div></li></ul></ul><ul class="if-list-group"><div class="if-list-group__header"><div class="if-list-group-title has_button">Adventures, hardcovers</div><div class="if-list-group-button"><span class="svg svg-16 svg--select_all"><svg><use xlink:href="/beta/img/sprite.svg#select_all"></use></svg></span></div></div><ul class="if-list-group-list"><li class="if-list__item" data-value="183"><div class="if-list__item-title">Dragonlance: Shadow of the Dragon Queen</div></li><li class="if-list__item" data-value="155"><div class="if-list__item-title">Strixhaven: A Curriculum of Chaos</div></li></ul></ul></ul></div><div class="typo-reporter card__article-body"></div><button class="typo-button" style="display: flex;"><span class="typo-button__icon"><span class="svg svg-20 svg--warning"><svg><use xlink:href="/beta/img/sprite.svg#warning"></use></svg></span></span><span class="typo-button__text">Сообщить об ошибке</span></button><div id="FeatureArrangerBay"></div></body></html>
